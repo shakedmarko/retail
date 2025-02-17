@@ -1,0 +1,2001 @@
+product,color,size,price,category,brand,material,weight,quantity,rating,warranty
+0,DimGray,XL,23.63,fancy,Tran and Sons,couple,9.25,9,3.5,2 years
+1,Violet,XL,67.73,other,Ferguson-Carter,animal,8.76,40,1.7,1 year
+2,Lavender,S,706.9,fancy,"Lambert, Nguyen and Webb",book,8.21,97,1.9,3 years
+3,SaddleBrown,M,671.69,fancy,"Kelley, Wheeler and Richardson",station,2.52,98,4.3,1 year
+4,Violet,M,214.38,kitchen,Campbell-Smith,chair,7.84,13,4.0,2 years
+5,SlateBlue,XL,672.81,fancy,Irwin PLC,woman,6.89,76,1.7,1 year
+6,MediumOrchid,L,450.16,other,Taylor-Owens,recognize,7.67,69,3.5,2 years
+7,Olive,XL,865.14,watches,Allen Group,prevent,2.1,57,1.1,2 years
+8,IndianRed,S,240.1,classic,Zuniga and Sons,dark,4.91,12,4.3,2 years
+9,Teal,L,917.16,footware,Davis-Alvarez,Congress,0.81,18,1.3,1 year
+10,MediumTurquoise,S,969.09,footware,"Mcguire, Mclean and Mcguire",him,1.9,63,4.0,2 years
+11,Sienna,M,513.79,sport,Daniels PLC,style,3.53,85,3.1,6 months
+12,DarkViolet,L,881.35,kitchen,King LLC,purpose,1.6,14,1.1,6 months
+13,Lime,XL,908.47,watches,Weber-Baker,outside,8.36,63,3.8,2 years
+14,ForestGreen,M,479.12,footware,Rojas PLC,according,4.67,58,2.6,3 years
+15,Red,S,732.18,other,Bryan Inc,west,8.44,19,4.6,2 years
+16,MediumVioletRed,M,19.25,fancy,Smith-Brown,phone,9.84,90,1.2,6 months
+17,ForestGreen,L,361.76,fancy,Green Inc,fire,6.18,95,4.7,1 year
+18,LightSalmon,M,238.55,other,Hardy-Mercer,water,7.29,7,1.8,3 years
+19,Tan,XL,944.05,kitchen,Bennett-Mays,party,8.4,64,1.0,1 year
+20,Navy,S,527.58,footware,"Wilson, Wright and Bell",interview,6.06,98,4.9,2 years
+21,Bisque,XL,722.8,footware,Smith-Bowman,what,5.85,10,2.6,6 months
+22,HotPink,M,151.74,kitchen,"Pittman, Perez and Ellis",about,2.97,8,1.7,6 months
+23,YellowGreen,M,387.03,kitchen,Brown-Chandler,too,2.46,41,2.1,6 months
+24,Cornsilk,XL,111.61,sport,Boone-Lee,can,7.52,59,4.6,3 years
+25,LightSlateGray,L,271.16,watches,Crawford PLC,bill,5.15,17,3.2,3 years
+26,PeachPuff,M,963.73,classic,"Carlson, Mann and Miller",action,7.66,41,3.5,2 years
+27,CadetBlue,XL,875.84,classic,Harmon-Clark,model,2.47,27,4.0,2 years
+28,SteelBlue,M,630.34,fancy,Duncan and Sons,really,8.68,69,3.5,6 months
+29,Peru,M,995.36,other,Torres-Torres,throw,4.48,34,1.5,6 months
+30,LightGreen,S,374.54,fancy,Curtis-Weaver,technology,3.28,22,2.9,6 months
+31,DarkGreen,S,229.26,classic,Williams Inc,serve,7.62,16,2.9,2 years
+32,SeaGreen,M,440.91,other,Kramer-Villegas,create,5.57,96,1.3,2 years
+33,Purple,L,846.48,fancy,Garrison-Gilbert,four,1.38,29,4.8,1 year
+34,PapayaWhip,M,118.47,fancy,"Vance, Velez and Wilkerson",population,8.43,6,1.7,6 months
+35,Olive,XL,666.27,sport,"Mclaughlin, Rice and Larson",end,2.07,94,1.2,6 months
+36,DarkTurquoise,M,182.09,footware,"Martin, Hill and Jackson",game,3.25,97,3.3,6 months
+37,FloralWhite,S,344.55,kitchen,Trevino LLC,reduce,7.19,77,2.8,6 months
+38,PapayaWhip,S,718.37,footware,Smith-Cardenas,use,2.07,74,2.8,1 year
+39,WhiteSmoke,L,690.9,classic,"Ward, Sanders and Barrett",model,9.28,49,4.3,1 year
+40,Khaki,S,114.55,watches,Jones Ltd,show,3.53,91,3.5,6 months
+41,OrangeRed,M,948.35,sport,Adams-Cruz,style,5.16,59,4.5,6 months
+42,Fuchsia,XL,319.6,fancy,"Green, Buckley and Taylor",college,3.98,53,4.4,3 years
+43,ForestGreen,S,401.31,fancy,Bowers-Sanchez,learn,4.32,37,4.2,1 year
+44,MediumSeaGreen,M,959.77,watches,Key-Owens,fine,5.58,33,3.1,3 years
+45,Aquamarine,M,823.19,fancy,"Serrano, Baker and Gibson",create,8.07,76,3.3,3 years
+46,MintCream,XL,531.52,fancy,Holmes-Johnson,collection,2.21,78,3.2,3 years
+47,Wheat,L,440.07,watches,"Monroe, Bowman and Martin",red,6.57,31,1.9,6 months
+48,LightSalmon,L,125.28,sport,Conley and Sons,one,4.31,22,1.7,1 year
+49,DarkGoldenRod,M,297.98,kitchen,Williams Group,moment,5.4,75,1.5,1 year
+50,GhostWhite,L,579.19,sport,"Torres, Daugherty and Miller",high,8.38,88,5.0,6 months
+51,PaleVioletRed,S,88.37,fancy,Gonzalez Inc,fly,4.82,67,3.9,2 years
+52,DarkSlateBlue,M,919.89,other,"Atkins, Campbell and Stewart",scientist,9.57,34,2.7,1 year
+53,Violet,L,43.37,kitchen,"Hall, Hicks and Ford",represent,2.76,36,4.1,2 years
+54,SeaGreen,L,214.66,classic,"Rosario, Cabrera and Torres",place,5.26,70,4.9,1 year
+55,Chartreuse,L,602.48,watches,Owens LLC,relationship,4.19,62,1.8,2 years
+56,CornflowerBlue,XL,566.65,classic,Ochoa-Rogers,left,6.59,68,4.6,1 year
+57,Azure,L,55.08,sport,Butler Inc,wrong,2.95,6,5.0,2 years
+58,GoldenRod,S,818.6,watches,Cooper-Sanchez,new,1.51,37,1.2,1 year
+59,DeepPink,S,10.53,other,Sanders Group,boy,8.93,8,3.7,2 years
+60,RosyBrown,M,795.04,watches,Carlson-Burnett,identify,0.64,42,4.0,3 years
+61,Tan,L,679.95,fancy,Hayden-Blair,structure,1.64,91,1.1,1 year
+62,DarkRed,M,694.83,classic,Wright PLC,simply,8.37,43,1.4,3 years
+63,GoldenRod,S,145.78,watches,Burns PLC,man,2.51,22,2.3,1 year
+64,OrangeRed,XL,491.89,watches,Lynch LLC,trial,4.19,14,1.9,3 years
+65,Orange,XL,533.67,fancy,Arnold Group,one,6.73,93,2.5,2 years
+66,RoyalBlue,XL,924.16,classic,"Vaughn, Boyd and Gibson",third,3.46,79,1.1,1 year
+67,Blue,S,945.57,footware,Wright-Hale,future,2.62,94,1.3,6 months
+68,Moccasin,M,526.6,fancy,Dillon Group,choice,2.67,89,1.6,3 years
+69,HotPink,M,227.3,footware,Liu PLC,yourself,5.15,59,4.8,1 year
+70,SlateGray,XL,712.23,other,"Blackwell, Reynolds and Morales",test,5.4,44,2.6,6 months
+71,Teal,S,452.14,other,Flores-Walker,along,5.74,9,3.6,6 months
+72,PaleVioletRed,M,193.37,classic,Sanchez Ltd,food,1.67,69,1.6,3 years
+73,SteelBlue,XL,923.62,fancy,"Griffin, Allen and Sanchez",significant,9.3,34,4.0,6 months
+74,PowderBlue,L,878.54,kitchen,"Brewer, Le and Wright",piece,5.59,64,2.1,2 years
+75,Linen,S,817.33,watches,Jones Group,recently,6.91,83,2.9,3 years
+76,LimeGreen,L,941.91,classic,"Martinez, Allen and Gill",environment,5.68,26,2.3,2 years
+77,MediumVioletRed,M,591.74,other,Neal-Christensen,north,6.85,99,4.8,6 months
+78,Fuchsia,S,264.52,fancy,Bailey and Sons,through,3.51,93,1.3,6 months
+79,SlateGray,M,719.93,kitchen,Garrett PLC,mean,9.05,93,1.9,2 years
+80,GoldenRod,S,291.11,kitchen,"Walker, Herrera and Gentry",bit,6.47,92,2.7,1 year
+81,DeepPink,M,470.47,fancy,Gonzalez Group,treat,9.23,95,4.9,1 year
+82,LightBlue,XL,129.08,other,Smith Ltd,collection,2.75,1,4.4,3 years
+83,Peru,M,543.8,other,"Garrett, Aguilar and Ingram",let,9.36,24,3.1,3 years
+84,Gainsboro,M,485.84,classic,Barrera-Baldwin,if,4.18,54,2.0,3 years
+85,Chartreuse,L,827.92,footware,Smith Inc,increase,6.39,99,3.6,3 years
+86,Aquamarine,L,603.14,kitchen,"Conner, Foley and Kim",officer,2.75,21,1.5,6 months
+87,Gainsboro,S,969.5,footware,Glover-Valenzuela,question,7.29,20,4.0,2 years
+88,MediumVioletRed,S,574.79,footware,"Gilbert, Malone and Jones",consumer,1.77,34,1.1,2 years
+89,DarkSlateGray,S,523.21,sport,Watson-Miller,add,5.6,92,1.2,6 months
+90,LemonChiffon,L,674.62,sport,"Baker, Deleon and Mayer",ball,9.29,30,3.4,1 year
+91,Navy,M,183.59,fancy,Gray-Castaneda,far,5.19,24,3.9,2 years
+92,PowderBlue,XL,654.9,other,Jackson and Sons,represent,2.8,61,4.0,3 years
+93,LightGreen,XL,995.33,sport,"Mora, Wong and Harrington",security,2.68,96,3.3,6 months
+94,DodgerBlue,L,654.25,sport,Reed-Vaughn,describe,1.77,40,4.7,6 months
+95,MediumSlateBlue,M,738.2,sport,"Ortega, Nichols and Santos",color,1.38,72,2.7,2 years
+96,LimeGreen,XL,195.62,other,Sanders-Harris,fish,4.12,47,3.7,1 year
+97,Silver,L,878.21,sport,Deleon-Savage,child,7.76,88,2.8,1 year
+98,Silver,L,892.35,sport,"Huber, Price and Neal",senior,6.26,58,4.0,6 months
+99,Red,M,679.54,other,"Sanchez, Lowe and Barrera",girl,1.74,72,3.7,3 years
+100,Coral,L,183.43,fancy,Marsh and Sons,seem,8.91,31,1.3,1 year
+101,LightGray,XL,443.21,sport,Mack-Briggs,explain,6.6,66,2.2,6 months
+102,DarkGray,XL,203.89,sport,Mills-Wu,just,8.18,93,3.8,1 year
+103,DarkViolet,L,479.53,other,"Molina, Harris and Baker",information,9.64,63,2.3,1 year
+104,Green,S,144.55,fancy,Riggs-Gonzalez,control,8.63,98,2.3,3 years
+105,Aqua,M,177.88,fancy,"Scott, Pearson and Campbell",quality,8.06,31,3.5,1 year
+106,LightGray,S,710.37,kitchen,"Myers, Porter and Crawford",story,4.3,10,2.7,2 years
+107,LightSteelBlue,L,382.0,sport,Leonard-Conway,board,5.45,76,1.3,2 years
+108,DarkViolet,M,711.42,other,Gilbert Inc,suddenly,3.91,93,4.3,2 years
+109,Peru,S,786.19,watches,Espinoza-Webster,few,2.58,6,3.5,3 years
+110,MintCream,XL,323.87,fancy,Leon and Sons,field,2.2,57,4.9,6 months
+111,Cornsilk,M,377.97,kitchen,"Reid, Ford and Gill",drug,3.94,5,4.3,2 years
+112,ForestGreen,XL,694.62,watches,Ellis-Johnson,trial,3.4,1,4.7,3 years
+113,MediumTurquoise,S,11.98,fancy,Vasquez LLC,now,9.91,38,1.6,2 years
+114,DarkSalmon,L,888.55,watches,Pearson Inc,black,4.29,58,2.7,2 years
+115,Salmon,S,636.68,sport,"Hull, Thomas and Gonzales",herself,4.96,60,2.8,3 years
+116,PapayaWhip,M,583.33,footware,Young-Miller,different,5.47,89,4.9,3 years
+117,Black,M,230.74,fancy,"Becker, Santos and Bowers",language,5.37,43,2.5,3 years
+118,LightSalmon,S,388.55,footware,Craig Inc,sing,0.81,41,1.7,3 years
+119,DarkTurquoise,M,358.14,other,Allen-Butler,meeting,0.74,86,4.8,1 year
+120,IndianRed,M,743.49,watches,Watson-Ross,red,4.43,30,3.7,6 months
+121,WhiteSmoke,S,218.93,watches,"Price, Bowen and Reeves",gas,1.74,21,1.9,1 year
+122,Beige,S,512.88,sport,Russell-Marshall,card,9.19,65,3.9,6 months
+123,Blue,XL,108.88,sport,Alexander-Yates,special,6.75,94,1.7,1 year
+124,GhostWhite,XL,574.49,fancy,Roberts LLC,necessary,2.47,38,2.0,3 years
+125,BlanchedAlmond,M,770.2,kitchen,"Wallace, Young and Herrera",personal,7.01,14,1.3,3 years
+126,LightGoldenRodYellow,L,722.17,sport,Flores Inc,stock,4.27,21,2.9,2 years
+127,Navy,M,670.46,fancy,"Hernandez, Davenport and Morrison",many,6.18,45,1.0,2 years
+128,DarkSeaGreen,XL,832.67,other,"Wright, Johnson and Matthews",season,9.5,25,2.5,3 years
+129,DarkGreen,S,720.65,watches,Oliver Group,term,7.61,81,4.3,1 year
+130,Cyan,S,204.39,kitchen,Combs Inc,understand,2.06,73,4.8,1 year
+131,Blue,XL,847.28,sport,Bennett-Patel,instead,5.21,57,1.5,6 months
+132,DarkViolet,L,195.35,footware,Kerr Ltd,human,5.87,84,4.8,2 years
+133,SlateBlue,L,209.05,footware,Walker PLC,Mrs,7.23,30,2.2,3 years
+134,Pink,M,350.28,sport,Sanchez-Browning,meeting,4.78,3,4.4,6 months
+135,RoyalBlue,M,848.96,watches,Warren Ltd,measure,2.36,98,4.3,1 year
+136,DarkSlateGray,XL,275.83,classic,Barajas-Ramsey,central,4.56,68,4.7,1 year
+137,DarkCyan,S,884.02,other,"Brady, Best and Wilson",appear,9.82,97,3.7,3 years
+138,Pink,S,356.57,watches,James-Gomez,create,4.24,49,4.0,2 years
+139,DarkViolet,L,449.88,footware,"Kline, Romero and Noble",play,2.15,84,1.3,1 year
+140,Crimson,S,688.51,watches,Smith Ltd,over,4.15,62,1.2,6 months
+141,Thistle,M,287.32,watches,"Matthews, Cruz and Barker",feeling,4.99,22,4.1,2 years
+142,NavajoWhite,S,880.91,sport,Cooper-Boyer,why,5.6,23,3.1,2 years
+143,BlueViolet,L,813.04,classic,Morrison-Zhang,he,1.51,47,1.5,6 months
+144,Peru,XL,944.7,sport,"Vasquez, Taylor and Salazar",behind,3.37,4,3.4,6 months
+145,DarkBlue,XL,154.17,kitchen,"Mcgee, Cunningham and Miller",red,2.3,91,3.7,2 years
+146,AntiqueWhite,XL,608.94,sport,Conner-Noble,prove,2.79,81,4.8,1 year
+147,DarkSeaGreen,M,480.96,kitchen,"Velazquez, Hernandez and Lewis",across,1.21,68,4.6,6 months
+148,Ivory,XL,402.55,footware,Lopez LLC,special,4.3,93,1.1,6 months
+149,Aqua,M,731.78,other,Mckenzie-Ayala,city,9.84,8,2.1,6 months
+150,SeaShell,M,698.31,watches,"Jones, Day and Martinez",data,2.67,10,4.3,2 years
+151,Blue,M,456.0,kitchen,Riley-Quinn,able,6.25,50,3.0,2 years
+152,Silver,S,804.43,fancy,Garcia-Smith,relationship,4.07,62,1.3,6 months
+153,NavajoWhite,S,13.99,fancy,"Farmer, Bentley and Vaughn",better,1.62,11,4.0,1 year
+154,Cyan,S,981.0,fancy,Love-Crosby,race,9.61,11,2.8,6 months
+155,NavajoWhite,M,149.78,footware,"Wilkins, Bennett and Meyers",and,1.93,78,3.2,1 year
+156,SaddleBrown,XL,418.35,fancy,Reyes Ltd,simply,8.65,83,1.9,1 year
+157,Black,S,486.51,sport,Deleon LLC,deal,5.51,57,4.8,1 year
+158,LightSalmon,S,782.93,sport,"Perez, Reeves and Allen",save,6.36,27,1.0,2 years
+159,Khaki,M,166.09,classic,Schneider-Richardson,type,2.49,16,3.0,3 years
+160,AntiqueWhite,S,777.17,sport,"Johnson, Lawson and Thomas",could,5.8,80,2.8,3 years
+161,DarkSlateBlue,M,524.29,footware,Calderon-Welch,we,4.71,6,4.5,3 years
+162,SlateGray,M,441.33,sport,Cardenas LLC,huge,4.93,55,4.5,1 year
+163,FireBrick,L,217.19,kitchen,Jensen-Gomez,cold,9.74,54,2.6,3 years
+164,Plum,S,324.25,sport,"Ellis, Bridges and West",quality,6.06,33,2.2,3 years
+165,DarkGray,XL,65.41,sport,"Crosby, Wheeler and Liu",life,6.25,25,3.5,2 years
+166,RoyalBlue,XL,139.25,footware,Vincent PLC,each,0.61,13,1.6,2 years
+167,GreenYellow,L,529.31,other,"Lee, Decker and Patrick",also,1.29,50,2.5,6 months
+168,Thistle,XL,170.11,footware,Medina-Valencia,alone,5.82,96,1.0,3 years
+169,MediumSeaGreen,L,836.79,fancy,Williams-Hamilton,edge,4.01,31,4.9,1 year
+170,Khaki,M,678.38,kitchen,"Sanders, Petersen and Roberts",amount,4.86,86,4.1,1 year
+171,BurlyWood,S,348.15,fancy,"Harper, Dawson and Williamson",detail,8.48,84,1.8,1 year
+172,GoldenRod,L,685.87,sport,"Young, Downs and Randall",source,4.62,29,1.1,6 months
+173,HotPink,S,949.99,classic,Owens PLC,sister,4.98,38,1.3,6 months
+174,Gainsboro,S,859.69,footware,Taylor-Stevens,position,9.75,68,3.4,6 months
+175,Magenta,S,292.19,other,Alexander Group,in,5.03,81,3.0,6 months
+176,DarkOrchid,L,549.28,classic,Goodman-Norman,record,9.59,92,2.7,3 years
+177,Magenta,XL,354.87,footware,Andrade-Turner,sort,7.94,93,1.7,1 year
+178,SaddleBrown,XL,149.51,footware,"Ewing, Edwards and Morgan",worker,5.64,72,2.3,2 years
+179,SeaShell,XL,460.67,fancy,Valdez and Sons,paper,2.61,67,2.7,1 year
+180,DarkTurquoise,S,716.58,classic,Holmes LLC,brother,0.97,54,4.2,3 years
+181,Cornsilk,XL,530.1,classic,"Perez, Torres and Pierce",enough,0.99,92,1.0,6 months
+182,White,L,407.75,sport,"Tucker, Rosario and Booth",religious,7.03,45,4.9,1 year
+183,Linen,M,73.0,footware,Olson-Ballard,important,7.38,2,4.6,6 months
+184,DimGray,XL,597.94,classic,"Reid, Boyd and Montgomery",consumer,2.71,23,1.8,6 months
+185,Maroon,L,832.83,sport,"Johnson, Krause and Nguyen",work,8.16,16,3.5,6 months
+186,White,M,612.28,watches,Garcia Ltd,likely,7.42,20,1.6,2 years
+187,LavenderBlush,L,414.74,classic,Mccarthy Inc,once,0.75,93,4.6,2 years
+188,DarkGray,M,451.38,kitchen,Reynolds-Chase,certainly,6.79,66,3.2,2 years
+189,Beige,L,574.03,kitchen,Perkins Ltd,write,4.45,4,4.5,2 years
+190,Violet,L,100.25,kitchen,"Murray, Potter and Rodgers",my,0.87,23,4.9,2 years
+191,Blue,M,298.83,kitchen,Ford and Sons,rise,5.22,41,3.4,2 years
+192,LightSalmon,M,706.26,classic,"Salazar, Gray and Williams",add,4.6,92,2.1,1 year
+193,Aquamarine,L,623.98,kitchen,"Dean, Potter and Perez",develop,5.62,83,1.6,6 months
+194,Cyan,S,219.44,sport,Davis and Sons,keep,7.41,37,4.4,3 years
+195,HotPink,L,927.67,classic,"George, Mejia and Chavez",room,8.29,7,2.1,1 year
+196,FireBrick,S,118.49,watches,Bond PLC,tell,9.74,49,3.7,2 years
+197,PaleTurquoise,M,461.65,classic,Edwards-Mccarthy,note,9.78,14,2.7,1 year
+198,Salmon,M,849.72,watches,"Smith, Shields and Gardner",to,8.48,74,2.1,2 years
+199,DarkKhaki,XL,161.46,footware,Smith-Silva,pretty,8.04,89,3.4,6 months
+200,DarkCyan,S,870.66,footware,"Bishop, Johnson and Blackwell",purpose,3.1,44,2.3,3 years
+201,DeepPink,XL,490.88,other,"Waters, Guerrero and Johnson",table,2.43,85,3.5,3 years
+202,DarkSalmon,M,650.69,classic,Johnson Inc,cold,5.6,50,1.8,6 months
+203,Red,S,916.11,sport,Robinson-Graham,hundred,8.44,98,1.1,2 years
+204,LightYellow,XL,345.86,watches,"Jones, Rivers and Smith",wish,6.23,83,4.7,1 year
+205,Black,L,376.17,sport,Conley Inc,there,1.36,17,2.8,6 months
+206,SeaGreen,M,864.42,kitchen,Coleman-Guzman,person,7.98,11,1.2,2 years
+207,LemonChiffon,M,757.03,fancy,"Payne, Campbell and Riley",thousand,1.68,49,3.9,2 years
+208,MediumBlue,L,983.41,other,"Flores, Bradford and Tran",themselves,7.62,3,1.5,3 years
+209,Khaki,S,625.47,watches,Ray PLC,including,4.99,60,3.0,3 years
+210,Aqua,S,54.23,footware,"Harding, Espinoza and Garcia",camera,0.76,19,2.1,1 year
+211,Sienna,S,97.48,fancy,Smith and Sons,similar,5.91,82,2.6,1 year
+212,SpringGreen,L,210.27,sport,Green PLC,agent,6.93,30,1.9,1 year
+213,Turquoise,L,201.72,fancy,Fernandez-Wright,go,6.16,48,4.6,6 months
+214,DarkTurquoise,L,343.45,other,Brown-Haney,ahead,7.16,73,2.0,1 year
+215,MediumAquaMarine,L,14.48,sport,Conley PLC,shoulder,4.07,46,2.1,2 years
+216,DimGray,S,488.1,sport,Holloway-Vasquez,place,5.95,55,2.7,2 years
+217,SandyBrown,L,849.86,sport,Coffey-Hines,experience,4.95,48,2.4,1 year
+218,LightSeaGreen,L,912.38,footware,Mckinney-Baker,wife,3.34,90,3.6,2 years
+219,MediumPurple,L,159.26,fancy,"Adams, Levy and Richards",year,8.4,52,3.5,6 months
+220,LawnGreen,M,989.17,classic,Jackson LLC,church,0.57,27,1.2,6 months
+221,MediumPurple,S,11.24,kitchen,Fox Ltd,will,4.05,10,3.4,1 year
+222,DarkGreen,M,335.45,kitchen,"Taylor, Peters and Pitts",wait,3.36,10,2.5,6 months
+223,Khaki,M,971.72,fancy,Anderson Inc,place,1.96,77,4.2,3 years
+224,PeachPuff,L,162.36,other,Evans-Burke,over,2.32,7,1.6,2 years
+225,Black,L,892.38,other,Griffin-Brown,marriage,3.92,4,2.8,2 years
+226,DarkOrchid,XL,802.67,kitchen,"Deleon, Simmons and Mitchell",standard,7.71,62,4.0,3 years
+227,DarkCyan,L,56.98,sport,Webb Group,senior,0.62,71,1.2,2 years
+228,LightGray,M,787.8,other,Cooper Ltd,tend,5.99,66,3.4,3 years
+229,MediumBlue,S,896.17,sport,Rivera-Wells,office,3.39,30,2.4,1 year
+230,LightSeaGreen,L,865.94,classic,Cochran-Hall,environmental,3.67,67,1.6,1 year
+231,Maroon,M,300.85,other,Klein and Sons,claim,7.97,11,3.9,1 year
+232,Aquamarine,XL,719.18,classic,"Richardson, Jones and Wright",material,1.45,91,3.8,3 years
+233,BlanchedAlmond,L,101.24,kitchen,"Carpenter, Tucker and Watts",reality,0.96,6,2.5,3 years
+234,LightGray,M,945.86,fancy,Alexander-Coleman,food,6.73,97,1.7,6 months
+235,LimeGreen,XL,345.88,other,Woodard and Sons,near,2.79,41,4.5,3 years
+236,SlateGray,XL,751.08,classic,"Harmon, Diaz and Austin",beautiful,1.77,12,2.6,2 years
+237,Crimson,L,555.7,classic,"Lopez, Murillo and Sullivan",past,9.4,44,2.1,6 months
+238,WhiteSmoke,L,791.49,sport,Parker-Joseph,sit,8.39,2,3.1,1 year
+239,SpringGreen,XL,552.52,kitchen,Johnston-Kelly,skill,6.54,22,2.5,2 years
+240,Orange,M,985.39,kitchen,Barker-Hammond,development,6.21,19,2.6,1 year
+241,Sienna,L,291.36,footware,"Clark, Stewart and Suarez",easy,8.19,46,1.3,1 year
+242,Chartreuse,L,183.23,sport,Parsons-Miller,nearly,9.82,83,1.3,3 years
+243,Linen,XL,506.84,footware,Howell LLC,force,0.72,84,4.6,2 years
+244,Wheat,S,244.91,sport,Rivera Group,hit,4.6,66,4.0,2 years
+245,SlateGray,M,65.35,footware,Morales-Larson,forward,7.68,5,1.1,1 year
+246,MediumOrchid,L,818.96,footware,"Meyer, Jacobs and Booth",reality,5.89,24,3.2,6 months
+247,SlateGray,M,357.87,kitchen,Vega LLC,born,7.64,44,1.8,2 years
+248,Snow,XL,233.96,fancy,"Lewis, Martin and Mcgee",sit,3.93,26,3.4,1 year
+249,Black,S,532.38,sport,"Johnson, Beck and Washington",near,1.16,83,4.0,3 years
+250,Magenta,S,697.95,watches,Hill LLC,activity,1.52,59,3.6,2 years
+251,Plum,M,603.95,watches,Romero LLC,sport,4.63,100,4.1,3 years
+252,LightSalmon,S,343.61,fancy,Harris PLC,while,6.65,70,3.2,3 years
+253,DarkSlateGray,L,16.69,kitchen,Kirby-George,upon,3.92,53,4.5,3 years
+254,MediumSlateBlue,XL,931.57,sport,Cole-Hunt,light,1.58,95,4.4,3 years
+255,Turquoise,XL,614.76,fancy,Ryan Group,role,1.69,13,2.3,1 year
+256,Linen,XL,316.41,sport,"Butler, Knapp and Brown",final,3.6,46,4.1,1 year
+257,Gray,L,504.9,footware,"Harrington, Smith and Cole",change,4.4,48,3.6,1 year
+258,DarkRed,S,773.93,other,"Jimenez, Cantrell and Allen",enter,7.36,50,4.1,1 year
+259,LightSalmon,L,849.91,fancy,Salazar-Sweeney,individual,8.15,47,4.1,3 years
+260,LawnGreen,M,219.71,other,"Hudson, Manning and Lambert",yeah,9.87,6,1.1,1 year
+261,LightCyan,M,798.94,other,Franco-Stein,type,2.75,4,4.3,1 year
+262,CadetBlue,S,251.75,footware,"Holloway, Collier and Brown",investment,3.03,15,2.7,2 years
+263,MistyRose,S,567.58,footware,Garrison Group,eye,7.2,80,2.0,1 year
+264,SlateGray,L,91.29,footware,"Hood, Burns and Clark",rise,4.38,63,2.3,3 years
+265,MediumBlue,S,875.17,fancy,"Leach, Franco and Johnson",skill,9.05,62,3.2,6 months
+266,DarkBlue,S,151.76,kitchen,"Smith, Wilson and Morgan",live,8.97,81,4.2,1 year
+267,PaleGreen,M,920.05,fancy,"Bowman, Browning and Pennington",former,0.95,19,3.5,6 months
+268,AntiqueWhite,M,353.47,footware,Richards Ltd,smile,8.21,48,3.1,6 months
+269,Teal,L,174.15,fancy,Marsh-Rodriguez,right,5.45,68,3.2,2 years
+270,Azure,XL,988.55,kitchen,Patterson PLC,history,2.47,3,4.5,6 months
+271,OldLace,M,928.94,watches,"Brooks, Robinson and Short",worker,4.11,21,1.7,2 years
+272,PaleVioletRed,S,213.22,kitchen,Curtis Inc,science,5.78,18,1.1,6 months
+273,LightGreen,L,426.73,footware,Ross-Vargas,usually,1.6,4,1.6,1 year
+274,SeaShell,XL,291.98,sport,Lee Ltd,six,8.65,86,3.2,2 years
+275,Crimson,M,383.26,sport,Weeks-Burton,notice,8.23,85,4.2,2 years
+276,Azure,L,459.07,kitchen,Roberts and Sons,attorney,8.38,51,3.7,2 years
+277,Bisque,L,341.91,sport,Brown-Solis,contain,5.04,37,2.7,2 years
+278,OliveDrab,L,217.0,classic,Lopez-Villa,hold,2.32,98,2.5,2 years
+279,WhiteSmoke,XL,247.75,kitchen,Williams-Thomas,back,0.67,85,3.3,6 months
+280,FireBrick,S,815.2,fancy,Jensen Ltd,strategy,0.96,63,1.5,2 years
+281,Snow,S,424.54,other,Scott Ltd,they,9.28,60,3.0,3 years
+282,CadetBlue,XL,640.6,watches,Moore LLC,organization,2.44,74,3.5,2 years
+283,Red,L,345.18,sport,Strickland-Cruz,old,1.7,24,4.6,1 year
+284,MediumPurple,XL,153.2,footware,Rojas PLC,letter,7.17,87,2.0,6 months
+285,DarkOliveGreen,XL,353.74,fancy,Ortiz LLC,sit,9.93,2,4.4,6 months
+286,GhostWhite,L,888.19,other,"Osborn, Scott and Bailey",us,7.02,42,1.5,6 months
+287,LimeGreen,L,172.1,watches,"Harris, Carpenter and Brock",suggest,5.67,35,4.8,2 years
+288,LightSkyBlue,S,143.74,sport,Johnson PLC,fine,6.41,90,1.1,3 years
+289,LightPink,XL,73.96,fancy,Stone-Ayala,effect,0.81,2,3.0,6 months
+290,DarkGoldenRod,S,98.34,sport,Hurley Group,team,1.18,67,4.1,1 year
+291,Chartreuse,L,902.72,fancy,Williams Ltd,class,2.94,79,4.5,1 year
+292,AliceBlue,L,683.91,footware,Williams LLC,garden,7.73,15,3.4,6 months
+293,Black,M,728.96,watches,Wiley Group,director,1.28,64,2.2,3 years
+294,BurlyWood,XL,139.82,classic,Rodriguez-Davis,act,7.0,27,3.4,1 year
+295,Peru,L,256.2,fancy,"Mays, Carr and Blackburn",yes,4.34,85,2.4,1 year
+296,MediumSlateBlue,S,199.6,footware,Short Inc,western,3.79,84,1.9,6 months
+297,CadetBlue,S,793.56,other,"Yates, Osborne and Crawford",economic,2.62,3,4.3,2 years
+298,Sienna,M,850.04,watches,Lee-Jackson,draw,2.03,23,3.4,1 year
+299,Black,S,352.6,classic,"Walker, Reyes and Johnson",on,3.74,46,3.8,1 year
+300,Tan,M,292.04,kitchen,Price and Sons,set,0.65,80,1.4,2 years
+301,DarkGray,XL,569.47,other,Rogers-King,baby,4.7,28,1.6,3 years
+302,DarkRed,S,194.59,classic,Frazier and Sons,tonight,7.53,16,2.4,3 years
+303,DarkSeaGreen,XL,496.16,fancy,"Austin, Snyder and Cook",result,3.84,21,2.0,6 months
+304,DimGray,M,84.2,watches,Harrell-Wilkins,tree,4.0,68,1.2,3 years
+305,DarkCyan,XL,103.98,other,"Chan, Gilbert and Clarke",man,8.2,77,2.7,1 year
+306,PaleGoldenRod,S,506.53,classic,Hanson and Sons,whatever,3.72,67,3.6,3 years
+307,Blue,S,852.73,sport,"Ortega, Jimenez and Benson",media,7.06,76,2.8,2 years
+308,LightGoldenRodYellow,S,32.32,kitchen,Davis and Sons,throw,1.25,62,4.7,1 year
+309,NavajoWhite,S,540.85,footware,Weaver-Jackson,finally,2.16,19,3.6,3 years
+310,GreenYellow,M,244.4,other,"Harris, Young and Lewis",our,7.08,17,3.9,6 months
+311,Azure,M,140.35,footware,Smith-Figueroa,whom,2.53,45,1.3,2 years
+312,MediumSlateBlue,M,606.91,sport,Humphrey Group,before,8.97,75,3.1,6 months
+313,PapayaWhip,S,586.31,footware,Chavez-Morrison,relate,9.21,44,4.7,2 years
+314,DarkOrange,L,811.48,fancy,"Morrison, Johnson and Murphy",body,9.17,1,4.8,2 years
+315,PaleTurquoise,S,122.57,watches,Winters-Gilbert,themselves,3.3,58,4.1,3 years
+316,Yellow,S,130.21,sport,Douglas-Wallace,listen,5.24,98,4.4,3 years
+317,LavenderBlush,L,280.3,kitchen,Haynes-Ramos,surface,8.37,91,2.1,3 years
+318,DarkGray,M,610.3,watches,"Wiley, Webb and Phillips",design,6.62,25,4.8,1 year
+319,MistyRose,M,478.58,footware,Martinez Ltd,impact,7.91,11,4.1,2 years
+320,HotPink,M,690.23,sport,"Jones, Gilbert and Bradley",west,1.93,87,1.6,2 years
+321,MediumSlateBlue,S,735.4,footware,"Williams, Stevens and Lucas",important,6.68,54,2.4,1 year
+322,MediumAquaMarine,XL,675.74,classic,Montoya-Mcdonald,man,4.63,89,1.1,2 years
+323,Teal,L,35.72,sport,Weaver-Gonzalez,need,6.91,23,2.0,2 years
+324,MediumAquaMarine,M,419.22,sport,"Hart, Ferguson and Perez",today,7.66,42,4.1,3 years
+325,PeachPuff,L,659.17,footware,Boyd Group,in,9.49,79,3.6,6 months
+326,GreenYellow,XL,861.89,kitchen,Lee-Thomas,bag,8.99,59,3.1,1 year
+327,Salmon,XL,614.63,watches,Burgess-Marks,wall,2.09,21,3.2,6 months
+328,DarkMagenta,M,358.63,sport,Adams PLC,part,9.56,73,1.6,1 year
+329,Ivory,S,632.19,kitchen,"Clark, Garrett and Bailey",air,9.22,10,4.7,2 years
+330,Black,L,125.62,kitchen,Paul-Hernandez,could,0.66,68,1.1,1 year
+331,Violet,L,455.91,classic,"Rios, Hunter and Adams",economic,6.37,83,1.9,1 year
+332,Teal,S,40.61,kitchen,Preston-Parrish,economy,1.66,14,4.5,3 years
+333,SteelBlue,XL,905.51,watches,Gonzalez and Sons,challenge,1.57,53,3.8,1 year
+334,Orange,L,621.02,kitchen,Patterson Ltd,add,1.13,25,3.2,2 years
+335,MediumBlue,M,32.45,kitchen,"Scott, Clark and Warner",difference,3.97,8,4.8,3 years
+336,YellowGreen,S,867.93,classic,King and Sons,notice,4.0,67,1.5,6 months
+337,HoneyDew,XL,71.34,sport,Hall-Price,letter,9.48,23,2.4,2 years
+338,DarkGoldenRod,L,284.08,footware,Cherry-Bradford,similar,6.25,26,2.6,2 years
+339,Linen,M,48.76,sport,Martinez LLC,special,7.26,90,2.2,6 months
+340,PaleGreen,L,662.12,kitchen,Charles PLC,prepare,3.92,27,2.8,2 years
+341,Aquamarine,M,95.67,watches,"Sanchez, Kelly and Perry",kitchen,6.2,35,4.2,6 months
+342,Ivory,M,81.7,kitchen,"Gamble, Boyd and Simmons",people,1.21,79,2.2,2 years
+343,Moccasin,L,407.88,kitchen,"Davis, Anderson and Franklin",hot,2.42,33,1.5,2 years
+344,Peru,L,841.28,footware,Lucas Group,major,9.32,23,4.6,2 years
+345,LightBlue,S,899.82,footware,Hayden-Hardy,off,6.65,91,3.0,1 year
+346,PowderBlue,L,405.75,classic,"Osborne, Pope and Young",trial,1.84,33,3.2,1 year
+347,CornflowerBlue,M,507.88,classic,"Davis, Carrillo and Love",study,4.23,1,2.4,1 year
+348,Fuchsia,L,526.05,watches,Edwards-Graham,visit,2.0,61,1.6,6 months
+349,MediumSlateBlue,L,418.33,sport,"Todd, Wilson and Bautista",strategy,9.22,71,4.7,3 years
+350,Wheat,S,873.09,sport,Zuniga PLC,step,2.99,9,2.3,2 years
+351,DarkGreen,S,677.39,other,"Williams, Patton and Ford",example,4.06,45,3.1,2 years
+352,Cornsilk,S,127.65,sport,Butler-Kelly,truth,7.93,72,1.1,1 year
+353,YellowGreen,M,509.85,footware,"Sharp, Francis and Dodson",computer,8.61,97,2.2,3 years
+354,DeepPink,XL,776.6,fancy,Brown Ltd,understand,9.35,20,4.3,3 years
+355,GhostWhite,M,888.66,classic,Bennett PLC,action,5.52,21,1.9,6 months
+356,Red,L,934.14,kitchen,Michael Inc,different,3.95,31,4.2,1 year
+357,DarkSlateBlue,S,492.95,watches,"Bond, Flores and Reynolds",technology,3.92,17,1.9,3 years
+358,Blue,XL,374.53,sport,"Williams, Gallegos and Mccoy",I,3.73,57,2.2,2 years
+359,Gray,M,323.11,other,"Buck, Washington and Robinson",issue,8.37,87,4.3,2 years
+360,Thistle,XL,215.55,kitchen,"Miller, Hooper and Collins",garden,2.14,69,2.4,2 years
+361,SaddleBrown,M,278.45,footware,House-Stuart,try,9.41,79,4.5,3 years
+362,DarkGray,XL,676.78,classic,Anderson LLC,pay,3.2,85,4.6,6 months
+363,Thistle,XL,498.67,classic,Vaughn Inc,group,9.96,38,1.4,6 months
+364,MediumBlue,L,612.73,watches,Sutton-Simon,decade,3.57,41,2.6,2 years
+365,Chartreuse,M,13.82,sport,Page-Ferguson,yeah,9.63,5,3.7,6 months
+366,PowderBlue,L,406.34,fancy,Robertson-Graham,wish,8.88,90,4.4,2 years
+367,Bisque,M,218.3,other,Leach and Sons,huge,3.62,89,4.4,6 months
+368,LightSkyBlue,M,985.87,classic,Russell-Warren,fine,5.08,62,3.3,6 months
+369,DarkSalmon,L,436.5,footware,Thompson-Rios,ready,1.33,48,2.6,2 years
+370,Cornsilk,S,194.74,fancy,Sheppard and Sons,hear,5.43,51,3.7,2 years
+371,Orchid,XL,832.96,footware,Perez and Sons,run,2.99,45,1.7,2 years
+372,LawnGreen,L,710.94,watches,Walker and Sons,laugh,0.51,54,1.1,2 years
+373,BurlyWood,S,514.67,kitchen,Mendez-Olson,tax,3.92,58,1.4,3 years
+374,Orange,XL,372.25,other,Cannon-Edwards,keep,5.97,2,3.4,1 year
+375,Aqua,XL,203.49,fancy,Wiley PLC,concern,8.75,67,2.2,3 years
+376,Navy,M,739.99,sport,Burgess LLC,make,9.3,64,3.2,1 year
+377,PeachPuff,XL,242.87,sport,"Pierce, Adams and Jones",expect,6.59,4,3.4,3 years
+378,DarkSlateBlue,XL,903.2,classic,"Lawson, Brown and Meyers",quite,5.25,61,2.2,2 years
+379,DarkKhaki,S,980.86,other,"Vasquez, Castillo and Bautista",total,1.14,26,4.1,1 year
+380,RoyalBlue,XL,231.12,sport,"Perez, Peters and Hill",can,9.3,50,1.2,6 months
+381,MediumAquaMarine,M,493.37,fancy,Tucker Ltd,past,6.41,51,2.6,6 months
+382,DarkSalmon,L,961.78,fancy,Barnes-Johnson,certain,1.17,8,2.5,6 months
+383,Moccasin,XL,660.17,kitchen,"Lee, Beck and Sanders",news,4.49,90,4.6,6 months
+384,LightBlue,M,331.3,fancy,Palmer and Sons,president,6.44,15,2.0,2 years
+385,Gray,XL,183.55,footware,Thompson LLC,buy,8.28,6,4.4,2 years
+386,LawnGreen,L,973.17,kitchen,Miller LLC,play,9.26,90,4.3,1 year
+387,SaddleBrown,XL,711.58,sport,"White, Escobar and Lee",dream,1.95,73,3.2,1 year
+388,Thistle,S,219.57,watches,Moreno-Williams,nation,7.57,65,4.2,2 years
+389,Beige,XL,268.01,sport,"Cortez, Day and Davis",authority,5.48,71,4.6,1 year
+390,Coral,S,480.56,kitchen,Brown Inc,dog,3.57,4,2.8,2 years
+391,LightYellow,S,154.85,classic,"Booth, Valenzuela and Graves",wall,8.22,26,1.5,3 years
+392,DarkCyan,L,683.18,fancy,Smith Group,treatment,3.48,55,1.0,2 years
+393,DarkGreen,M,603.59,kitchen,Cook-Griffin,safe,4.42,85,4.7,1 year
+394,LightSlateGray,L,611.03,kitchen,Burton Ltd,body,0.72,29,3.8,2 years
+395,Ivory,XL,305.95,sport,"Kelly, Sanders and Chapman",occur,7.38,92,2.2,1 year
+396,SpringGreen,M,332.2,footware,"Hood, Bryant and Morgan",by,9.65,84,2.2,1 year
+397,DeepSkyBlue,L,79.94,fancy,"Anderson, Simmons and Mcdonald",son,0.79,2,3.3,2 years
+398,LightPink,M,39.88,sport,Warren Inc,top,4.33,72,2.2,2 years
+399,DarkSalmon,S,762.08,kitchen,"Hughes, Schmidt and Sparks",on,1.42,78,2.7,6 months
+400,SeaGreen,S,776.05,watches,"Evans, Robinson and Wright",director,1.28,94,1.9,1 year
+401,Yellow,XL,474.41,other,Combs-Smith,drop,8.41,72,3.2,2 years
+402,DarkOrchid,M,130.38,footware,Davis Inc,situation,5.3,10,3.9,3 years
+403,LightCoral,XL,19.53,fancy,Morris and Sons,real,9.22,63,3.2,2 years
+404,DarkMagenta,M,260.38,sport,Rogers and Sons,operation,5.66,62,1.9,2 years
+405,MediumSlateBlue,XL,440.66,watches,Kelley Inc,million,0.87,12,1.6,1 year
+406,SaddleBrown,L,576.67,footware,"Romero, Hardin and Mueller",fast,7.32,19,3.4,6 months
+407,Moccasin,XL,305.34,footware,Vargas PLC,whose,5.83,8,3.3,3 years
+408,DeepSkyBlue,L,950.58,fancy,Miller-Floyd,hundred,1.06,61,1.8,2 years
+409,Olive,M,685.4,sport,Ayers-Aguirre,set,8.23,13,1.4,2 years
+410,YellowGreen,M,52.16,watches,"Brandt, Morris and White",world,2.6,86,3.7,6 months
+411,White,S,380.57,fancy,Brock-Rivera,lead,7.28,64,3.4,6 months
+412,Snow,S,299.76,other,"Lane, Case and Salazar",rather,1.09,52,2.3,2 years
+413,Beige,M,218.88,classic,Richardson-Hill,right,2.08,95,1.6,6 months
+414,Pink,M,797.68,fancy,"Donovan, Flores and Powers",animal,9.83,20,3.6,6 months
+415,Moccasin,L,826.89,footware,"Smith, Bowen and Garcia",popular,5.21,28,3.8,6 months
+416,SteelBlue,S,375.32,sport,Yates Inc,take,9.85,4,3.0,2 years
+417,Gainsboro,M,263.66,kitchen,Mcguire LLC,let,9.34,43,3.8,1 year
+418,LightSkyBlue,L,275.25,other,"Cook, Green and Church",likely,6.89,60,2.1,2 years
+419,Plum,XL,123.89,classic,Stanley LLC,financial,2.83,60,4.1,1 year
+420,SlateGray,XL,806.86,other,"Hill, Smith and Leonard",still,1.47,19,1.4,6 months
+421,Tomato,S,57.12,sport,"Oconnor, Best and Rasmussen",young,3.83,61,1.5,6 months
+422,Ivory,XL,769.76,sport,"Michael, Coleman and Houston",process,4.2,42,1.4,6 months
+423,DarkKhaki,XL,415.52,watches,Ramirez Ltd,fire,1.28,25,4.2,6 months
+424,LightPink,XL,874.06,other,Miller-Smith,feeling,3.94,11,3.7,6 months
+425,FloralWhite,S,883.27,other,Johnson-King,hand,1.67,38,1.7,6 months
+426,AntiqueWhite,XL,547.62,watches,"Bennett, Mcdowell and Barron",factor,5.6,20,3.3,1 year
+427,Gray,XL,511.28,other,Dunn-Green,space,0.62,10,2.4,6 months
+428,DarkGoldenRod,M,378.07,watches,Hernandez and Sons,him,4.64,86,3.7,3 years
+429,SaddleBrown,L,981.93,fancy,Johnson-Roberts,return,8.53,5,1.9,1 year
+430,Peru,L,122.26,classic,"James, Walker and Townsend",alone,2.28,75,4.1,3 years
+431,Aqua,S,137.85,other,"Clark, Williamson and Jones",decide,6.94,23,2.1,2 years
+432,Purple,S,844.71,fancy,James Inc,study,7.28,9,3.8,2 years
+433,Blue,S,284.08,footware,"Fields, Woodward and Jimenez",anything,6.88,65,4.6,1 year
+434,DarkRed,XL,188.5,watches,"Guerrero, Gonzalez and Harris",town,2.04,82,2.7,2 years
+435,DeepPink,XL,670.72,footware,Meza-Jones,share,1.36,20,1.8,2 years
+436,Coral,S,271.43,footware,Watts-Farmer,year,2.44,79,1.4,6 months
+437,GhostWhite,S,691.9,other,Adams-Torres,each,8.83,78,2.7,1 year
+438,Maroon,M,237.14,classic,Williams PLC,marriage,9.42,19,4.7,1 year
+439,DarkOliveGreen,M,86.48,sport,"Munoz, Bryant and Gilbert",lead,5.57,9,4.7,1 year
+440,DarkOrange,L,473.71,fancy,"Cooper, Williams and Hunt",build,1.62,28,2.2,6 months
+441,Silver,M,357.83,fancy,"Garcia, Gonzalez and Blair",who,6.38,14,1.2,1 year
+442,Coral,S,993.58,footware,Smith-Stewart,role,9.21,90,3.8,6 months
+443,MediumTurquoise,XL,171.79,sport,Ferguson and Sons,third,1.21,83,3.1,3 years
+444,Peru,S,681.81,fancy,Wells-Miranda,finish,3.72,71,4.8,2 years
+445,CadetBlue,L,621.53,fancy,Gregory Ltd,win,7.04,48,4.4,1 year
+446,Black,M,465.71,kitchen,Lee-Hill,pick,2.89,99,4.0,2 years
+447,LightGray,XL,285.77,watches,Simmons LLC,pay,9.55,60,1.2,2 years
+448,MediumBlue,L,795.22,kitchen,Gordon-Potter,hour,3.06,38,4.1,1 year
+449,MediumBlue,XL,154.58,fancy,"Morris, Villegas and Sullivan",itself,6.25,48,4.1,2 years
+450,MediumBlue,L,967.63,footware,Foster-Bailey,discussion,6.05,86,1.4,1 year
+451,SeaShell,M,486.1,kitchen,Hampton LLC,election,2.25,35,4.9,1 year
+452,FireBrick,XL,154.04,fancy,"Hines, Wilson and Griffin",might,3.17,5,4.8,6 months
+453,WhiteSmoke,L,985.94,fancy,"Nguyen, Robinson and Preston",deal,7.91,11,4.5,3 years
+454,DarkSalmon,M,326.16,watches,Thomas Group,technology,9.24,94,1.7,6 months
+455,DarkKhaki,L,641.24,sport,Hernandez-Beltran,cause,4.73,33,2.9,6 months
+456,DeepPink,S,562.34,sport,Jones-Juarez,drive,8.38,67,1.6,1 year
+457,Beige,S,478.77,fancy,"Martin, Hobbs and Jones",especially,3.74,74,3.9,6 months
+458,Indigo,L,360.16,sport,Phillips LLC,amount,7.84,17,2.9,1 year
+459,DarkGray,S,470.49,classic,Bryan Ltd,society,2.64,63,2.6,2 years
+460,PaleVioletRed,M,862.77,other,Hill-Steele,study,2.92,42,3.1,3 years
+461,Gray,S,613.06,other,"Gates, Robinson and Sanders",yard,7.05,46,4.6,1 year
+462,Ivory,M,471.84,kitchen,Day-Martin,goal,7.17,91,3.7,3 years
+463,MediumVioletRed,S,892.04,kitchen,"Robinson, Terrell and Sawyer",skill,8.71,48,2.7,1 year
+464,SteelBlue,S,508.74,classic,Smith-Francis,toward,0.85,41,3.2,2 years
+465,FireBrick,M,448.8,watches,"Murray, Carrillo and Wilson",though,8.69,70,3.8,6 months
+466,DarkMagenta,M,977.56,kitchen,"Ayers, Porter and Brown",mean,6.13,15,3.4,6 months
+467,SeaShell,M,269.96,watches,Diaz Inc,once,2.44,31,3.6,3 years
+468,SaddleBrown,S,319.19,fancy,Sullivan-Hernandez,smile,8.82,5,1.7,3 years
+469,Aquamarine,L,767.5,sport,Weber LLC,shoulder,6.91,16,5.0,1 year
+470,Chocolate,M,842.12,classic,Reed and Sons,everybody,9.43,66,3.3,1 year
+471,SaddleBrown,S,264.59,other,Mendez-Cannon,run,2.73,62,3.2,6 months
+472,LightGreen,L,130.86,classic,Davis and Sons,write,5.42,12,2.8,3 years
+473,Cornsilk,XL,492.56,watches,Gibbs-Beard,stay,5.7,15,2.4,3 years
+474,SeaShell,M,859.4,kitchen,Coleman-Palmer,involve,2.61,83,4.1,1 year
+475,Brown,M,961.87,fancy,Hoffman and Sons,next,5.37,34,4.0,3 years
+476,Crimson,XL,513.28,kitchen,"Suarez, Cooper and Bautista",wear,0.57,55,1.6,2 years
+477,Magenta,XL,350.09,watches,Moore and Sons,decide,1.43,90,2.1,3 years
+478,Thistle,L,90.37,classic,Kemp and Sons,economic,3.44,56,1.6,3 years
+479,DeepPink,L,55.34,watches,"Lewis, Dominguez and Roman",can,2.07,70,3.1,2 years
+480,BurlyWood,M,328.94,other,Wu Group,summer,7.78,36,3.1,6 months
+481,MintCream,S,205.76,other,"Williams, Levy and Pacheco",let,6.59,61,3.5,1 year
+482,AliceBlue,XL,450.31,fancy,Flores Inc,how,8.92,2,4.6,1 year
+483,Aqua,L,954.1,classic,"Hale, Johnson and White",court,5.97,30,3.0,2 years
+484,DimGray,M,299.02,watches,"Riley, Edwards and Mccarthy",scientist,4.15,28,4.3,1 year
+485,Blue,M,79.37,footware,Gibbs-Williams,same,3.35,70,1.8,6 months
+486,LawnGreen,S,341.25,watches,Jones Ltd,expect,7.31,23,1.6,6 months
+487,Tomato,L,434.14,watches,Taylor PLC,cup,7.02,71,3.6,1 year
+488,ForestGreen,L,918.78,fancy,"Meyer, Vargas and Young",defense,1.66,74,2.1,6 months
+489,Chocolate,L,669.99,watches,Pham LLC,no,9.41,32,2.1,2 years
+490,White,M,26.12,kitchen,"Watkins, Davis and Brennan",which,7.01,68,4.6,2 years
+491,Violet,XL,322.71,classic,"Russell, Patton and Sanchez",sell,4.46,17,4.3,6 months
+492,LightCyan,M,75.91,watches,Jones Group,base,1.26,49,4.4,1 year
+493,MediumSlateBlue,XL,556.49,footware,Miller-Jackson,ability,3.51,46,4.1,1 year
+494,MediumAquaMarine,XL,217.32,fancy,Mendoza Group,similar,3.27,4,1.3,6 months
+495,Maroon,M,159.13,other,"Sutton, Brown and Griffith",candidate,1.01,27,3.9,2 years
+496,Gray,L,896.19,watches,Gonzalez LLC,feeling,8.76,15,4.5,3 years
+497,Indigo,L,922.73,sport,"Gardner, Solis and Newman",manage,6.89,76,3.1,2 years
+498,DarkOliveGreen,S,359.68,sport,"Zimmerman, Jordan and Lynch",party,5.45,23,2.0,3 years
+499,MediumAquaMarine,XL,497.2,kitchen,Anderson-Barnett,line,6.91,24,1.8,2 years
+500,MediumVioletRed,S,396.7,sport,"Miller, Davis and Alvarez",responsibility,3.41,47,2.3,3 years
+501,OrangeRed,XL,120.06,sport,Hall-Avery,party,3.53,27,1.9,1 year
+502,IndianRed,L,190.57,fancy,Henry Group,well,9.01,93,1.7,6 months
+503,Purple,XL,873.37,watches,"Jones, Johnson and Heath",radio,2.45,23,1.8,6 months
+504,Peru,XL,651.72,classic,Carter and Sons,try,7.61,31,3.0,6 months
+505,Yellow,L,612.77,fancy,"Smith, Buchanan and Clark",indeed,0.91,19,1.5,3 years
+506,HotPink,S,375.49,watches,Johnson Ltd,left,2.59,2,2.3,2 years
+507,Azure,XL,807.92,kitchen,Delgado PLC,happy,6.84,74,1.7,1 year
+508,LightSkyBlue,L,301.3,footware,Richardson-Thomas,remember,2.11,41,2.8,2 years
+509,MediumAquaMarine,S,939.43,footware,Landry Ltd,safe,1.86,52,2.0,2 years
+510,Turquoise,XL,66.61,fancy,Webster-Wolf,beat,4.65,85,1.2,2 years
+511,Tan,S,951.37,sport,Wheeler Inc,form,4.18,53,1.9,2 years
+512,SaddleBrown,M,757.09,kitchen,"Reilly, Evans and Johnson",western,9.68,1,2.1,3 years
+513,LavenderBlush,XL,566.94,classic,Martin-Keith,medical,4.88,22,1.5,6 months
+514,Magenta,XL,419.46,classic,"Boyer, Ferrell and Ruiz",tend,0.61,77,3.3,1 year
+515,DarkCyan,S,158.99,footware,"Parker, Perez and Kelly",it,9.6,46,4.9,6 months
+516,DarkGreen,M,273.7,fancy,Nichols Group,minute,3.59,33,4.6,3 years
+517,Gold,XL,63.66,kitchen,Howard LLC,prevent,9.42,18,4.5,6 months
+518,PapayaWhip,XL,497.49,fancy,Nichols Group,according,7.32,46,4.2,6 months
+519,DarkViolet,L,299.76,footware,Thompson LLC,author,8.66,7,4.1,3 years
+520,OldLace,L,602.68,fancy,Wallace PLC,authority,1.11,14,3.0,3 years
+521,LawnGreen,XL,936.74,classic,Evans Inc,record,1.59,26,4.6,2 years
+522,LightSeaGreen,XL,270.15,other,Todd-King,area,3.88,97,3.1,1 year
+523,SandyBrown,XL,754.31,classic,Dudley-Black,direction,2.87,72,4.0,3 years
+524,GreenYellow,M,691.58,other,"Fuentes, Choi and Garcia",PM,9.69,76,2.1,1 year
+525,PeachPuff,M,798.8,classic,West-Bennett,behavior,8.2,1,1.1,3 years
+526,MediumAquaMarine,S,44.28,other,"Leonard, Powell and Reyes",prevent,7.34,75,2.2,3 years
+527,Moccasin,XL,771.11,watches,White-Chen,floor,8.73,20,2.0,1 year
+528,SlateGray,XL,459.19,footware,Rodriguez-Humphrey,unit,1.77,19,4.6,3 years
+529,MediumAquaMarine,S,42.13,classic,"Ortiz, Thomas and Simpson",law,1.89,24,1.3,2 years
+530,Gainsboro,L,566.64,kitchen,Le Group,particularly,4.84,35,3.6,2 years
+531,LightPink,S,344.97,fancy,Rosario-Johnson,college,5.87,75,3.1,2 years
+532,Azure,S,527.86,classic,"Turner, Stewart and Valdez",world,0.69,39,1.1,6 months
+533,Peru,S,823.23,kitchen,Wheeler-Frazier,size,5.15,88,3.4,6 months
+534,Pink,L,63.38,footware,Craig-Reed,civil,4.7,25,1.6,2 years
+535,BlanchedAlmond,L,127.08,kitchen,Barton Inc,yourself,7.61,15,1.6,1 year
+536,PaleTurquoise,S,327.38,fancy,Garza and Sons,sister,9.5,69,1.7,3 years
+537,Teal,M,188.52,footware,Smith-Riggs,front,5.07,91,1.6,2 years
+538,OldLace,L,353.63,watches,Richardson-Jones,oil,4.5,30,3.2,2 years
+539,Silver,XL,14.72,footware,Thompson-Duncan,civil,3.72,19,2.3,6 months
+540,Teal,L,277.38,classic,Mercer Inc,statement,4.2,26,4.5,1 year
+541,Silver,M,796.04,watches,Rodriguez PLC,voice,5.42,4,2.3,6 months
+542,DarkKhaki,L,64.84,fancy,"Allen, Powell and Simmons",no,8.4,81,4.0,2 years
+543,DarkTurquoise,L,475.77,other,Franklin and Sons,Mr,7.19,18,3.6,3 years
+544,DimGray,S,835.35,footware,"Brown, Meyer and Mitchell",number,6.23,6,2.9,2 years
+545,Crimson,XL,177.41,fancy,Scott LLC,nation,2.43,84,3.8,1 year
+546,LightYellow,S,725.26,fancy,Mcbride and Sons,simply,9.21,11,3.0,2 years
+547,Chartreuse,S,548.79,watches,Hickman Ltd,school,4.48,83,3.5,6 months
+548,GhostWhite,XL,74.48,fancy,Chambers-Morris,hour,9.4,25,4.6,6 months
+549,MediumBlue,M,858.63,watches,Wallace-Potter,might,6.68,65,2.1,3 years
+550,DarkViolet,L,738.34,kitchen,Coleman Ltd,individual,8.2,61,2.2,6 months
+551,Green,M,767.6,other,Jennings-Medina,rather,5.89,44,3.0,3 years
+552,Moccasin,L,146.88,watches,Robles-Page,sure,3.26,42,3.9,6 months
+553,PowderBlue,XL,899.71,kitchen,Vincent Inc,guess,2.81,100,1.5,1 year
+554,Green,S,369.5,sport,"Alvarez, Haynes and Lawrence",before,8.52,85,1.1,6 months
+555,RosyBrown,XL,147.5,fancy,"Buckley, Duncan and Phillips",health,0.73,17,2.7,1 year
+556,PaleGreen,S,364.09,other,"Ortiz, Carter and Ward",throw,8.67,64,3.7,3 years
+557,LimeGreen,L,21.56,other,"Miller, Klein and Cochran",popular,1.98,75,1.7,6 months
+558,FloralWhite,M,971.62,fancy,"Green, Shepherd and Estrada",oil,2.2,28,3.1,3 years
+559,Chocolate,XL,297.17,watches,Molina-Rogers,tend,9.74,28,2.9,1 year
+560,Aqua,S,453.22,other,"Coleman, Jackson and Holt",model,9.1,13,4.4,6 months
+561,MediumPurple,S,267.85,sport,"Paul, Washington and Poole",contain,4.91,86,3.8,1 year
+562,MediumAquaMarine,M,968.52,footware,Yang Group,about,1.56,5,1.8,2 years
+563,PaleTurquoise,M,66.68,kitchen,"Thompson, Morgan and Alexander",power,8.04,34,4.7,2 years
+564,Azure,XL,199.57,kitchen,Patel Inc,when,5.97,86,3.4,3 years
+565,LightGray,L,238.1,fancy,Perez-Ramirez,itself,1.65,8,1.2,1 year
+566,MediumPurple,XL,188.43,footware,Neal-Henry,guy,4.89,77,4.9,3 years
+567,Navy,L,910.73,other,"Stanley, Griffin and Joseph",final,9.72,98,2.2,1 year
+568,LightGreen,M,690.83,kitchen,"Patton, Jones and Nicholson",help,2.43,24,2.0,3 years
+569,Magenta,S,571.41,fancy,Howard Inc,while,7.17,28,2.2,6 months
+570,Chocolate,S,373.48,classic,"White, Ortiz and Abbott",three,4.43,53,4.7,3 years
+571,PapayaWhip,S,631.49,fancy,"Vega, Case and Massey",bed,1.03,96,1.7,3 years
+572,SkyBlue,XL,31.54,sport,Strickland Group,policy,7.74,99,2.3,6 months
+573,Green,M,18.54,classic,Nelson LLC,teach,2.25,77,2.1,1 year
+574,DarkSlateBlue,L,456.15,other,Mason-Roberts,likely,2.81,30,1.6,6 months
+575,Plum,L,976.86,classic,"Barnett, Newman and Soto",song,5.63,99,4.1,6 months
+576,DarkRed,XL,715.27,other,King-Boyd,staff,4.11,91,1.1,3 years
+577,White,XL,542.25,kitchen,"Chan, Owens and Rodriguez",admit,3.21,77,1.3,3 years
+578,MediumOrchid,S,594.81,fancy,Hicks-Cabrera,full,4.93,49,1.9,3 years
+579,FloralWhite,L,381.63,fancy,Marks Inc,film,8.16,44,2.4,3 years
+580,Chartreuse,L,218.75,classic,Sloan and Sons,spend,4.43,18,4.7,1 year
+581,RosyBrown,XL,86.93,footware,"Dennis, Wiggins and Smith",go,4.72,71,2.2,6 months
+582,OldLace,S,534.34,sport,Anthony Group,happen,3.17,65,4.1,1 year
+583,DimGray,S,640.38,classic,"Peterson, Carr and Mcneil",official,8.67,14,3.8,3 years
+584,LightSlateGray,S,721.5,fancy,"Duarte, Jones and Harmon",low,0.92,27,3.7,3 years
+585,LimeGreen,M,446.98,classic,Smith-Johnson,character,4.3,20,3.7,2 years
+586,MediumSeaGreen,L,563.65,classic,Johnston and Sons,two,2.28,64,3.8,2 years
+587,MediumVioletRed,S,198.08,kitchen,Collins and Sons,toward,9.74,50,1.3,2 years
+588,OrangeRed,M,426.91,kitchen,Reese Inc,attack,5.02,55,2.2,3 years
+589,SlateGray,M,373.96,fancy,Howell-Padilla,run,7.45,21,2.5,1 year
+590,SlateGray,S,122.28,watches,Chase and Sons,by,1.19,35,1.5,2 years
+591,DarkViolet,L,167.83,watches,Harris Group,which,7.55,73,2.8,2 years
+592,LightGray,L,313.87,classic,Brown Inc,war,6.05,38,4.3,3 years
+593,Gold,XL,372.53,watches,Becker Group,then,2.22,67,3.6,1 year
+594,AntiqueWhite,S,39.81,classic,Aguilar Inc,cell,1.39,68,3.9,3 years
+595,MistyRose,S,478.96,watches,Blake-Young,edge,2.26,58,4.2,2 years
+596,Azure,M,470.52,watches,Long-Hernandez,see,0.61,14,4.7,6 months
+597,SpringGreen,XL,426.89,sport,Smith-Kirk,high,9.41,29,2.6,6 months
+598,DodgerBlue,L,841.74,other,Turner and Sons,charge,9.2,36,3.7,3 years
+599,Gainsboro,XL,672.14,watches,"Torres, Preston and Dawson",major,4.44,29,1.1,3 years
+600,Violet,S,244.56,sport,Mccormick Group,treat,2.5,19,3.7,1 year
+601,Linen,XL,894.32,other,"Olsen, Hall and Hall",husband,9.83,95,3.5,2 years
+602,BlanchedAlmond,L,198.45,sport,Simmons and Sons,may,4.53,73,2.5,1 year
+603,Azure,S,668.4,classic,"Castro, Holmes and Monroe",hard,5.77,43,4.4,3 years
+604,LightGreen,M,254.28,footware,Simmons Ltd,me,0.66,97,3.1,6 months
+605,Wheat,S,76.13,watches,"Moore, Johnson and Rivera",painting,9.05,38,1.4,1 year
+606,Thistle,M,970.98,fancy,"Rodriguez, Butler and Johnson",or,8.38,89,4.3,3 years
+607,DarkViolet,S,247.04,sport,Jones LLC,best,1.25,47,4.3,1 year
+608,Silver,S,968.07,watches,"Brown, Anderson and Mullins",training,2.0,11,1.7,1 year
+609,LightSkyBlue,XL,967.14,classic,"Watson, Johnson and Johnson",bank,5.77,11,3.0,1 year
+610,MediumTurquoise,M,542.95,other,Marks and Sons,break,2.59,52,3.8,1 year
+611,Azure,L,405.48,fancy,"Moore, Ortiz and Schneider",already,5.7,78,2.6,3 years
+612,DarkGoldenRod,L,577.31,classic,"Mitchell, Morris and Key",before,3.84,51,2.9,2 years
+613,Plum,M,931.72,kitchen,Edwards and Sons,smile,4.0,63,1.2,2 years
+614,SeaGreen,L,54.81,sport,Torres-Johnson,mean,1.56,38,3.6,6 months
+615,LightGreen,XL,181.84,fancy,Singleton-Booker,should,4.36,41,1.9,1 year
+616,DarkSeaGreen,L,791.62,sport,Fields Group,economy,7.86,22,4.7,3 years
+617,YellowGreen,L,786.63,watches,"Thomas, Cole and Lewis",against,5.49,41,1.5,3 years
+618,LightCyan,XL,28.09,classic,Smith-Ross,face,0.94,31,2.7,2 years
+619,White,XL,210.67,fancy,Arias-Sawyer,attorney,9.04,4,1.7,2 years
+620,Navy,M,163.19,footware,Lewis-Harris,fear,7.52,50,3.5,3 years
+621,LemonChiffon,S,913.44,other,Smith LLC,industry,5.78,63,4.5,2 years
+622,OrangeRed,S,106.87,classic,Hill-Vazquez,tax,8.54,58,4.7,3 years
+623,MistyRose,L,151.02,classic,Martin-Vargas,themselves,4.39,29,2.2,1 year
+624,GhostWhite,L,920.25,classic,Fry-Thomas,investment,6.54,46,2.3,2 years
+625,Salmon,L,486.32,classic,Anderson PLC,stage,0.52,12,4.7,6 months
+626,Pink,L,327.68,sport,Reed LLC,test,9.93,42,1.9,1 year
+627,DarkMagenta,L,670.83,footware,Arroyo-Flynn,difference,7.15,5,4.5,6 months
+628,Yellow,L,192.9,sport,"Rollins, Duarte and George",mind,4.29,98,2.3,2 years
+629,Peru,L,614.65,sport,Bryan-Frazier,coach,5.2,88,1.1,2 years
+630,MediumPurple,M,559.73,watches,"Lane, Velasquez and Gilbert",over,3.32,77,3.4,3 years
+631,Azure,L,796.2,fancy,Chan-Payne,left,8.17,14,3.9,3 years
+632,DarkSalmon,M,865.21,kitchen,Edwards Group,scene,5.18,38,2.1,3 years
+633,IndianRed,M,329.7,watches,Jackson-Harrington,lot,3.59,76,1.7,6 months
+634,DodgerBlue,S,492.61,fancy,Anderson Ltd,ask,1.76,27,2.2,3 years
+635,Teal,M,426.99,other,Hawkins Inc,draw,7.34,27,2.5,1 year
+636,Cornsilk,M,784.86,kitchen,"Williams, Bolton and Cole",news,7.14,96,2.7,6 months
+637,FloralWhite,S,640.71,fancy,Crawford Group,personal,9.31,50,2.1,3 years
+638,Indigo,M,448.57,sport,Mcmahon-Duran,benefit,4.84,99,4.6,3 years
+639,SkyBlue,L,580.45,kitchen,"Gonzalez, Williams and Anderson",discuss,2.54,53,1.5,3 years
+640,Orange,XL,456.36,other,Murray LLC,argue,2.56,78,4.9,2 years
+641,Gray,L,799.8,sport,York-Harris,notice,2.02,45,4.4,3 years
+642,Coral,S,467.16,kitchen,"Hill, West and Flores",hope,8.62,23,1.1,2 years
+643,SlateGray,L,752.15,kitchen,Leach Inc,or,0.62,54,5.0,2 years
+644,PaleVioletRed,XL,496.51,fancy,Martin-Fleming,east,1.42,52,4.8,1 year
+645,RoyalBlue,S,978.12,kitchen,Duffy LLC,fact,3.54,53,3.3,6 months
+646,Orchid,L,283.23,kitchen,Ross-Pearson,thought,8.5,45,1.0,3 years
+647,Tan,XL,700.41,fancy,"Jackson, Martinez and Nelson",call,7.8,16,2.8,1 year
+648,Crimson,L,285.52,watches,Mccormick and Sons,while,4.06,58,4.8,6 months
+649,Bisque,M,47.47,classic,West-Crawford,that,6.85,27,3.1,1 year
+650,LightSteelBlue,XL,159.81,fancy,Richardson LLC,make,9.74,83,1.5,3 years
+651,LightGoldenRodYellow,M,653.5,other,"Montgomery, Castro and Boyd",describe,3.07,59,1.7,1 year
+652,Maroon,L,86.7,footware,Brock-Ward,build,8.68,92,1.0,1 year
+653,DeepPink,S,254.74,fancy,"Harvey, Booth and Cruz",account,4.04,71,1.7,1 year
+654,LemonChiffon,S,535.78,sport,"Robertson, Cameron and Richards",magazine,9.79,29,1.4,6 months
+655,DarkRed,S,450.4,kitchen,Jones-Casey,move,0.94,54,4.9,1 year
+656,DimGray,XL,631.76,watches,"Wells, Maynard and Watson",share,3.05,61,1.4,2 years
+657,DarkGray,XL,709.15,other,Phillips Group,return,6.32,89,1.9,6 months
+658,Blue,M,18.52,sport,Harvey Ltd,could,6.0,74,4.6,3 years
+659,LightPink,S,327.55,classic,Hogan-Ponce,structure,8.06,33,2.4,2 years
+660,Aquamarine,M,808.17,classic,Coleman-Burke,continue,9.11,80,1.7,6 months
+661,Magenta,M,823.9,sport,Rodriguez PLC,process,9.29,47,1.2,2 years
+662,SkyBlue,M,828.01,other,Garcia-Phelps,position,9.14,64,1.8,1 year
+663,RosyBrown,M,867.47,kitchen,"Castillo, Franklin and Ramirez",white,5.86,33,2.8,6 months
+664,LightPink,M,393.75,watches,"Green, Dunlap and Graham",opportunity,0.62,82,1.4,3 years
+665,MediumSpringGreen,S,718.26,kitchen,Houston LLC,many,7.15,26,4.9,6 months
+666,HoneyDew,XL,273.08,other,"Crawford, Melton and Smith",goal,4.83,78,5.0,1 year
+667,Purple,XL,70.83,other,Morris-King,product,7.47,31,4.4,6 months
+668,Brown,L,857.12,footware,Sanchez Group,modern,4.98,88,3.1,1 year
+669,SeaGreen,L,795.0,watches,Smith LLC,those,5.56,54,1.6,2 years
+670,Aquamarine,XL,252.27,other,Martinez-Wilcox,hard,8.33,63,1.6,1 year
+671,Thistle,L,907.8,watches,Richardson-Mckinney,parent,7.63,49,2.2,1 year
+672,LightSalmon,M,119.88,footware,Wood-Rush,beyond,4.03,43,4.6,2 years
+673,DarkOliveGreen,S,184.82,footware,Garza-Turner,weight,9.11,30,4.1,1 year
+674,MistyRose,S,872.54,footware,Lambert Inc,nation,6.1,2,2.3,3 years
+675,Brown,S,875.15,classic,"Gardner, Craig and White",power,9.36,30,2.4,6 months
+676,DarkBlue,S,42.7,sport,Roberts PLC,nothing,9.55,72,1.6,3 years
+677,DarkMagenta,M,623.93,fancy,Smith-Sanders,summer,5.86,61,3.2,2 years
+678,SkyBlue,M,860.66,fancy,"Griffin, Wood and Castaneda",foreign,9.13,34,4.5,6 months
+679,AntiqueWhite,XL,792.36,footware,"Thompson, Garrison and Jones",firm,8.11,53,3.7,3 years
+680,PapayaWhip,XL,199.62,classic,Sanchez-Orozco,career,3.17,46,1.3,2 years
+681,FloralWhite,XL,320.38,kitchen,Browning-Phillips,type,5.16,42,4.2,1 year
+682,Tan,L,220.55,kitchen,Bennett-Livingston,move,1.07,38,2.2,6 months
+683,Aqua,S,834.87,kitchen,"Murphy, Bryant and Ellison",question,9.61,89,4.4,1 year
+684,Coral,S,32.69,classic,Ellison-Waters,care,8.78,41,4.7,6 months
+685,LightBlue,M,351.82,other,Duke-Franklin,technology,0.84,61,4.6,6 months
+686,Khaki,XL,995.14,other,Blair-Johnson,today,1.11,60,1.9,1 year
+687,AliceBlue,M,984.78,other,Johnson-Ford,shake,9.12,40,2.4,3 years
+688,MediumVioletRed,M,119.85,fancy,Pacheco Ltd,agree,8.45,20,2.5,1 year
+689,Cornsilk,M,664.69,classic,Baker Inc,dark,5.73,78,1.2,3 years
+690,Turquoise,XL,264.93,fancy,Dominguez-Hamilton,order,2.54,12,2.0,1 year
+691,Moccasin,S,425.15,other,Bell Ltd,risk,6.82,1,3.0,1 year
+692,OrangeRed,M,636.6,kitchen,"Ramirez, Hickman and Fisher",on,3.25,33,4.2,6 months
+693,LightPink,S,899.78,kitchen,Miller Group,among,5.1,93,3.4,2 years
+694,Chocolate,S,572.89,kitchen,"Bowen, Davis and Kidd",turn,8.91,100,2.2,2 years
+695,MidnightBlue,XL,808.79,watches,Valenzuela-Wade,leg,9.28,84,3.8,3 years
+696,GoldenRod,M,64.73,classic,Nelson Inc,project,3.72,47,1.8,2 years
+697,Teal,S,455.38,fancy,"Patel, Garrison and Meyer",no,0.95,59,2.7,1 year
+698,Magenta,M,109.6,other,Munoz-Evans,at,8.79,11,2.8,6 months
+699,PaleGreen,M,831.2,classic,Holmes and Sons,cause,8.88,11,3.1,6 months
+700,DeepPink,M,993.27,classic,Kelly-Richards,you,7.67,44,3.8,3 years
+701,Turquoise,L,55.49,fancy,Carroll Group,season,8.13,39,3.6,3 years
+702,AntiqueWhite,XL,704.41,fancy,"Sanchez, Ward and Pollard",painting,5.23,80,1.7,3 years
+703,Linen,M,758.68,sport,Nichols Group,quality,7.18,18,2.4,3 years
+704,LightSkyBlue,L,634.99,other,"Silva, Barrera and Rogers",dream,7.19,54,4.0,2 years
+705,MediumVioletRed,L,208.31,sport,James-Johnson,garden,9.98,36,4.6,1 year
+706,BlanchedAlmond,L,466.9,fancy,"May, Lewis and Greer",art,5.82,77,4.1,2 years
+707,MediumSeaGreen,L,116.19,fancy,"Craig, Freeman and Caldwell",exactly,6.0,66,3.1,6 months
+708,Orange,S,400.25,watches,Miller LLC,phone,3.3,67,3.7,3 years
+709,Chartreuse,L,877.24,other,Thomas-Walker,science,3.77,57,2.3,1 year
+710,IndianRed,S,674.14,watches,Singh PLC,plant,7.47,38,4.7,3 years
+711,DarkRed,S,854.4,other,"Hernandez, Sampson and Jordan",until,1.78,100,2.9,6 months
+712,LightCoral,XL,755.36,other,Gray-Hanna,guess,7.17,39,1.7,6 months
+713,Orchid,S,750.39,other,Sanders PLC,medical,0.65,50,4.5,6 months
+714,LightGreen,M,574.59,footware,Clements-Case,front,8.36,52,2.1,2 years
+715,MediumSpringGreen,M,430.04,sport,Mitchell Ltd,interest,9.67,85,4.4,1 year
+716,DarkCyan,XL,878.85,classic,Romero Ltd,me,2.04,8,4.1,3 years
+717,Coral,S,906.95,sport,Eaton LLC,two,5.17,11,3.1,3 years
+718,DeepPink,S,842.91,classic,Barnett-Fields,point,8.63,34,2.8,6 months
+719,Black,L,633.35,fancy,"Schneider, Harmon and Phillips",guess,9.42,60,1.4,2 years
+720,LightGray,M,235.74,other,King-Kelly,around,9.59,37,5.0,3 years
+721,RoyalBlue,L,918.76,footware,Castillo LLC,almost,4.05,83,1.7,2 years
+722,PaleTurquoise,S,471.4,fancy,"Forbes, Barnes and Harding",every,8.64,4,3.6,2 years
+723,Olive,S,939.64,kitchen,Bailey PLC,field,7.43,67,2.0,2 years
+724,Aqua,M,195.9,classic,West Ltd,soldier,8.83,58,4.7,6 months
+725,Orchid,L,848.84,kitchen,"Collins, Webb and Combs",food,3.9,84,3.3,3 years
+726,Gold,M,46.15,other,"Krueger, Mejia and Jones",computer,5.92,68,3.5,3 years
+727,LightBlue,L,667.09,watches,Sutton-Ruiz,student,4.99,5,1.9,3 years
+728,PowderBlue,M,783.89,footware,Turner and Sons,behind,4.91,59,2.8,3 years
+729,BlanchedAlmond,S,349.96,fancy,Lewis LLC,report,4.62,49,1.4,3 years
+730,LightCyan,L,341.58,footware,"Clark, Costa and Benson",through,7.57,72,2.2,2 years
+731,SeaGreen,L,231.53,other,"Odonnell, Rodriguez and Martinez",black,6.61,80,1.1,2 years
+732,Teal,M,333.68,other,"Hayes, Nunez and Bass",democratic,9.13,15,1.1,2 years
+733,Salmon,M,226.97,footware,Peters-Myers,according,5.71,85,4.5,2 years
+734,LimeGreen,XL,745.67,fancy,Smith-Richardson,could,8.83,61,1.9,1 year
+735,DarkBlue,XL,376.7,other,Jones-Richardson,TRUE,2.33,26,3.1,2 years
+736,DodgerBlue,L,399.24,footware,Clark Inc,sell,4.5,79,1.7,3 years
+737,SlateGray,S,328.98,sport,David PLC,window,6.2,40,1.5,3 years
+738,SeaGreen,L,805.27,sport,Thomas Ltd,later,1.61,59,1.2,1 year
+739,PeachPuff,XL,711.53,kitchen,Martin Group,huge,1.3,28,4.6,2 years
+740,Coral,S,220.41,sport,Cruz Inc,bring,9.6,50,3.3,2 years
+741,Tan,M,520.64,other,"Carpenter, Smith and Bailey",fill,2.97,89,2.4,2 years
+742,MediumTurquoise,L,263.08,fancy,Franklin-Frazier,only,9.84,74,4.1,1 year
+743,Wheat,L,759.25,kitchen,"Becker, Watson and Alvarez",good,4.05,56,4.2,1 year
+744,Chartreuse,M,945.28,classic,Ruiz PLC,expect,2.04,73,3.1,1 year
+745,LightCoral,XL,436.91,fancy,Jones Group,base,2.54,7,2.9,2 years
+746,MediumAquaMarine,XL,621.62,other,Jacobs Ltd,why,1.15,74,2.0,3 years
+747,Aqua,L,698.28,other,Hayes-Moore,generation,1.96,94,4.3,1 year
+748,DarkGoldenRod,S,841.41,other,Robles Group,business,6.93,91,4.9,3 years
+749,Thistle,XL,568.06,fancy,"Norman, Bruce and Martin",blood,4.86,83,2.9,2 years
+750,Aqua,S,539.53,fancy,Kline Inc,involve,8.14,97,1.5,6 months
+751,Snow,XL,102.93,classic,"Hall, Nolan and Alvarado",type,3.08,27,3.4,3 years
+752,DeepSkyBlue,XL,40.39,classic,Mosley-Taylor,major,5.26,26,1.3,2 years
+753,Teal,S,799.8,classic,Hood-Velazquez,western,3.37,42,2.8,2 years
+754,AliceBlue,XL,973.81,kitchen,Esparza-Miller,onto,8.45,61,4.8,3 years
+755,CadetBlue,XL,304.18,footware,"Gardner, Burns and Huynh",outside,5.03,51,4.5,2 years
+756,Yellow,XL,432.69,kitchen,"Mitchell, Brown and Guzman",lose,1.56,8,4.2,1 year
+757,DarkOliveGreen,M,953.91,fancy,Nichols-Jones,especially,4.39,61,4.3,1 year
+758,GhostWhite,XL,841.68,footware,Morris-Anderson,people,2.96,76,4.0,3 years
+759,Aqua,L,66.18,fancy,"Morales, White and Morrison",nothing,8.36,24,2.7,3 years
+760,DeepPink,XL,733.51,sport,Galloway LLC,unit,2.88,77,1.8,2 years
+761,Ivory,XL,239.84,other,"Heath, Morgan and Johnson",American,5.5,60,3.7,1 year
+762,Lavender,XL,624.5,sport,"Hall, Anderson and Gonzalez",partner,1.63,35,4.3,3 years
+763,Blue,XL,386.75,footware,"King, Owens and Martinez",owner,4.87,94,2.9,6 months
+764,Chartreuse,M,12.53,kitchen,"Rivera, Davidson and Ruiz",stock,1.48,41,4.7,1 year
+765,PaleTurquoise,L,203.49,sport,"Kennedy, Long and Johnson",sing,9.96,49,3.5,1 year
+766,Cyan,XL,989.17,watches,Fernandez Inc,natural,7.87,35,4.2,1 year
+767,PaleTurquoise,M,945.29,fancy,"Pham, Hammond and Johnson",instead,2.63,71,1.9,6 months
+768,Cyan,L,410.72,footware,Smith-Alvarez,now,0.5,59,4.1,6 months
+769,LightCoral,L,584.02,fancy,Moss Group,standard,8.61,74,1.9,6 months
+770,LightGoldenRodYellow,M,866.19,sport,Wright and Sons,tell,4.5,40,3.6,1 year
+771,WhiteSmoke,XL,150.4,watches,"Mccullough, Duarte and Rodriguez",here,6.5,96,3.0,6 months
+772,Wheat,S,257.95,kitchen,"Ross, Spencer and Lawrence",town,5.54,98,5.0,2 years
+773,Beige,M,99.22,other,Nguyen-Kelley,stay,2.67,4,4.6,1 year
+774,AliceBlue,M,988.94,sport,"Vargas, Willis and Henry",unit,5.33,27,3.5,2 years
+775,Lavender,M,22.35,sport,Bentley-Williams,focus,6.06,21,2.6,2 years
+776,Silver,S,16.0,footware,"Mcdowell, Sullivan and Jones",group,3.05,40,4.9,2 years
+777,LightSteelBlue,XL,552.85,sport,Sherman-Phillips,friend,5.82,25,3.5,6 months
+778,DeepPink,XL,433.33,other,Taylor and Sons,home,8.95,82,2.7,1 year
+779,Coral,L,641.18,classic,Perez Group,strong,5.89,96,2.4,6 months
+780,CornflowerBlue,L,724.01,other,"Solomon, Rodriguez and Owen",morning,3.63,87,1.6,2 years
+781,MistyRose,XL,182.59,footware,Nelson-Jackson,bill,2.47,2,2.5,6 months
+782,Crimson,L,358.03,footware,Villanueva PLC,star,6.08,48,3.4,6 months
+783,Silver,S,426.54,kitchen,"Benson, Blankenship and Gutierrez",woman,9.46,41,1.6,3 years
+784,CadetBlue,M,84.95,classic,Fletcher and Sons,various,9.11,51,1.5,2 years
+785,DeepSkyBlue,L,151.99,sport,"Pierce, Jones and Maxwell",share,9.9,10,3.3,6 months
+786,Gray,L,399.48,sport,Welch Ltd,actually,9.2,8,3.8,1 year
+787,DarkOrange,XL,392.98,kitchen,"Adams, Trevino and Owens",them,1.9,54,2.0,1 year
+788,GhostWhite,L,215.41,watches,"Carter, Young and Moore",describe,1.18,78,1.8,6 months
+789,LightGoldenRodYellow,S,678.89,sport,Sanchez-Gonzalez,relate,6.77,9,4.5,1 year
+790,RoyalBlue,XL,974.47,footware,Bishop Group,total,1.56,54,1.2,1 year
+791,Sienna,S,851.5,watches,Hall-Williams,another,9.47,20,1.5,3 years
+792,SaddleBrown,XL,527.62,sport,Herring Inc,wind,6.2,69,2.5,2 years
+793,LightSalmon,XL,887.03,watches,Rodriguez-Herrera,spring,9.08,86,4.4,3 years
+794,CadetBlue,XL,226.51,classic,Scott LLC,war,8.06,84,3.9,3 years
+795,RosyBrown,XL,37.17,watches,Black Group,final,3.87,3,4.6,6 months
+796,DarkSlateBlue,S,278.09,other,Thompson Group,far,3.62,83,5.0,2 years
+797,GreenYellow,S,22.24,fancy,Jones PLC,window,7.13,58,1.0,3 years
+798,Snow,M,320.75,classic,Montoya Group,social,9.16,82,1.2,1 year
+799,Khaki,L,828.23,sport,Wells Inc,product,0.72,56,2.0,2 years
+800,OrangeRed,M,998.67,classic,"Stanley, Myers and Kim",maybe,4.43,13,4.0,2 years
+801,DeepSkyBlue,L,251.37,classic,Williamson Inc,central,7.97,90,4.4,1 year
+802,DarkRed,L,369.22,other,Miller-Nelson,senior,3.86,88,2.5,6 months
+803,Gainsboro,S,620.55,footware,Stewart LLC,meeting,2.78,93,4.4,2 years
+804,OliveDrab,M,938.22,footware,Jimenez-Fowler,worry,4.11,72,1.5,1 year
+805,ForestGreen,XL,509.01,kitchen,Holland-Villarreal,player,6.67,54,4.6,6 months
+806,AntiqueWhite,M,14.42,footware,"Lee, Burns and Sanchez",including,6.83,22,3.9,3 years
+807,LimeGreen,L,143.98,watches,"Ruiz, Edwards and Salinas",other,3.21,55,1.6,3 years
+808,MediumOrchid,M,117.12,sport,Pearson and Sons,because,8.84,22,4.6,2 years
+809,Olive,S,64.08,footware,Hill Ltd,should,3.2,79,1.6,3 years
+810,Lavender,S,407.01,sport,"Erickson, Mitchell and Yu",mother,3.46,72,2.0,1 year
+811,DarkCyan,L,274.11,classic,Rodriguez and Sons,central,5.35,94,3.5,2 years
+812,LightYellow,M,163.33,sport,Perez-Richardson,former,6.01,35,3.0,6 months
+813,BlueViolet,S,492.59,other,James-Miller,lot,1.09,75,2.2,3 years
+814,MediumTurquoise,XL,187.87,footware,Hebert-Yang,tell,3.51,70,2.1,6 months
+815,MediumPurple,S,497.09,other,"Mills, Murray and Griffin",tend,5.96,64,3.9,6 months
+816,Wheat,M,889.13,classic,Sanchez-Gonzalez,agree,6.41,9,1.5,1 year
+817,DarkGreen,XL,296.7,footware,Jefferson-Robinson,throw,5.87,98,1.1,2 years
+818,FloralWhite,L,124.24,other,"Hall, Williams and Smith",medical,0.86,71,4.6,6 months
+819,SlateBlue,L,648.1,footware,Reid PLC,group,0.83,59,2.1,3 years
+820,DarkCyan,XL,178.23,kitchen,"Gonzalez, Johnson and Morgan",on,5.1,67,3.9,2 years
+821,IndianRed,S,206.79,other,Walters-Jones,million,9.33,48,3.4,1 year
+822,Black,XL,553.53,other,Murphy Group,yard,3.29,15,2.8,6 months
+823,DarkKhaki,M,719.98,footware,Griffith-Hernandez,least,4.78,26,3.0,2 years
+824,Azure,L,500.95,footware,"Brown, Drake and Hudson",center,5.7,97,1.8,6 months
+825,CornflowerBlue,M,214.11,footware,Brown-Jones,nor,3.7,30,4.6,1 year
+826,Bisque,L,432.71,other,Schultz LLC,she,3.12,23,3.9,3 years
+827,LightCoral,S,62.45,fancy,"Chavez, Johnson and Miller",reality,3.8,65,2.4,6 months
+828,Black,XL,333.04,footware,Hernandez-Jackson,race,4.42,88,3.8,3 years
+829,DarkViolet,L,614.79,watches,"Gilmore, Knight and Henderson",between,3.84,69,2.6,6 months
+830,MediumOrchid,S,380.26,other,Chapman and Sons,practice,1.02,69,4.0,2 years
+831,FloralWhite,M,506.53,fancy,"Bennett, Graham and Chang",today,1.96,96,1.9,3 years
+832,LightSeaGreen,L,550.02,sport,"Chen, Stevens and Mcgee",market,7.71,35,3.9,1 year
+833,Cornsilk,M,357.67,other,Davis LLC,game,5.89,68,4.0,6 months
+834,LightCyan,L,878.5,footware,"Jackson, Jackson and Waters",oil,6.94,66,3.9,1 year
+835,MediumVioletRed,L,661.16,kitchen,"Hutchinson, Carey and Hall",use,6.98,62,4.1,6 months
+836,Pink,L,824.04,sport,Robinson and Sons,account,2.72,39,4.5,3 years
+837,OrangeRed,L,699.93,fancy,Simmons Inc,likely,4.64,78,2.1,6 months
+838,DarkSlateGray,XL,635.52,other,Garcia Inc,bag,6.04,8,2.3,1 year
+839,LawnGreen,S,112.54,fancy,"Mitchell, Hayes and Nelson",financial,4.09,47,3.6,2 years
+840,LimeGreen,S,769.59,classic,Gonzales-Stone,hundred,9.04,30,4.0,2 years
+841,PaleGreen,M,978.19,watches,Lawrence-Mcclure,stand,5.43,39,1.4,2 years
+842,DarkBlue,S,28.48,watches,"Campos, Young and Jordan",professional,9.63,40,1.9,3 years
+843,LavenderBlush,XL,147.02,classic,Gaines-Odonnell,I,8.61,65,2.8,1 year
+844,Beige,S,464.79,sport,Fisher Ltd,half,2.24,8,3.3,1 year
+845,LightSalmon,S,291.79,classic,"Johnson, Jones and Hart",drug,8.23,13,3.9,3 years
+846,Purple,M,283.4,watches,Dunlap-Jenkins,shoulder,1.71,41,2.0,1 year
+847,MediumTurquoise,S,507.09,sport,"Williams, Hogan and Salazar",word,8.86,39,3.8,6 months
+848,Yellow,L,927.43,classic,Rhodes and Sons,citizen,7.13,21,4.9,2 years
+849,LightSteelBlue,M,247.17,sport,"Goodwin, Dalton and Thompson",bit,8.91,87,3.3,2 years
+850,DeepPink,M,889.89,sport,Jones-Harris,already,7.86,58,4.6,6 months
+851,IndianRed,L,777.16,footware,Walls-Schwartz,forget,2.87,51,2.6,6 months
+852,LightSteelBlue,L,475.79,sport,Valdez Inc,friend,5.4,33,4.8,1 year
+853,Lavender,L,160.52,other,Tucker Group,gun,9.74,69,2.1,6 months
+854,Lime,M,872.33,watches,Grant-Lane,itself,6.4,8,4.6,1 year
+855,WhiteSmoke,S,549.27,watches,Ryan-Wright,course,1.25,65,3.8,6 months
+856,DarkGreen,XL,687.41,classic,Hawkins-Serrano,hospital,5.2,59,1.1,2 years
+857,Violet,L,882.72,classic,White-Khan,decide,6.02,57,4.5,2 years
+858,Lavender,M,516.2,watches,Montgomery-Boone,rate,8.04,75,1.5,1 year
+859,PowderBlue,L,61.61,kitchen,Oneill Ltd,challenge,6.29,2,2.6,6 months
+860,Brown,S,663.48,other,"Gonzales, Holt and Baker",back,6.04,74,2.5,1 year
+861,PaleGreen,L,129.76,other,Cooper Inc,last,3.6,33,1.9,2 years
+862,Bisque,L,779.12,other,Willis-Harris,physical,5.54,53,2.4,1 year
+863,OrangeRed,XL,479.59,classic,"Bryant, Powell and Jones",step,1.69,19,3.1,3 years
+864,MediumBlue,L,196.07,sport,"Carlson, Green and Houston",model,1.43,53,4.5,6 months
+865,Azure,L,435.99,sport,"Giles, Jackson and Lyons",many,1.41,97,1.9,2 years
+866,Coral,XL,893.8,sport,Ward PLC,customer,7.03,89,2.5,2 years
+867,RoyalBlue,S,758.12,footware,"Morgan, Lee and Evans",common,4.92,38,1.3,6 months
+868,RosyBrown,XL,266.56,watches,Thomas-Daniel,set,6.79,66,4.8,6 months
+869,PowderBlue,S,182.22,classic,Rodriguez and Sons,such,9.93,17,2.2,3 years
+870,MediumSeaGreen,XL,126.94,footware,Taylor-Ballard,quite,1.3,83,2.9,1 year
+871,Silver,L,606.32,kitchen,Nunez PLC,value,7.4,64,4.7,2 years
+872,MintCream,M,593.31,classic,Collins-Reeves,your,1.94,55,2.7,1 year
+873,DarkViolet,XL,463.87,sport,"Harper, Garcia and Flores",left,3.42,54,1.4,2 years
+874,Sienna,M,410.08,classic,Nelson-Mullen,president,6.8,61,4.9,2 years
+875,DarkRed,S,174.91,kitchen,Jennings Inc,those,6.02,31,2.4,3 years
+876,Coral,L,277.09,fancy,White-Johnson,politics,5.47,38,1.7,3 years
+877,OldLace,L,499.75,fancy,Wright-Bradley,individual,9.63,77,4.4,3 years
+878,Maroon,M,104.99,other,Cox Ltd,subject,5.01,95,2.0,6 months
+879,MidnightBlue,L,727.16,other,Sanchez Group,production,3.88,41,2.1,1 year
+880,Cyan,S,864.15,watches,"Baker, Coleman and Bird",create,4.09,64,3.7,1 year
+881,Thistle,M,614.59,footware,Rodgers-Johnson,decide,8.02,74,1.7,6 months
+882,FireBrick,XL,802.44,other,Martin Group,coach,7.64,60,2.5,1 year
+883,MediumTurquoise,L,439.67,watches,Morgan LLC,may,8.66,2,3.1,6 months
+884,OrangeRed,M,599.62,other,"Shaffer, Stephenson and Chapman",assume,9.23,13,2.0,2 years
+885,Snow,XL,888.79,footware,Nelson LLC,reality,3.92,23,4.1,1 year
+886,DarkOrchid,XL,420.21,sport,"Scott, Mathis and Turner",however,0.76,99,1.3,1 year
+887,LightSalmon,L,13.61,classic,Jones Inc,adult,1.62,74,1.1,2 years
+888,Aquamarine,S,974.63,watches,Smith-Jones,company,0.93,97,4.9,2 years
+889,DarkOliveGreen,M,488.44,footware,"Smith, Johnson and Robinson",hear,2.03,2,1.8,3 years
+890,OliveDrab,M,323.09,classic,Holden LLC,show,1.16,39,1.6,6 months
+891,SandyBrown,L,919.6,watches,Smith-Tran,else,5.36,4,3.1,2 years
+892,SandyBrown,L,92.9,fancy,Mendoza-Diaz,small,5.28,92,1.9,3 years
+893,MediumBlue,L,904.49,other,"Rivera, May and Brown",bit,8.58,31,1.0,3 years
+894,DimGray,L,697.99,sport,Jones-Cox,usually,1.85,71,4.4,1 year
+895,FloralWhite,S,797.74,watches,Clarke-Shaw,face,0.75,66,3.9,1 year
+896,DarkGoldenRod,S,607.68,other,Cook Inc,camera,9.14,13,2.4,1 year
+897,LightSkyBlue,M,401.59,other,"Sims, Parker and Chavez",hair,9.18,22,1.4,3 years
+898,MediumVioletRed,M,353.07,sport,Hughes LLC,career,3.94,53,2.1,6 months
+899,MediumOrchid,L,562.14,sport,Mitchell LLC,walk,2.48,4,2.6,2 years
+900,Gray,L,668.82,kitchen,Hays-Lewis,development,3.86,24,2.2,2 years
+901,White,M,852.76,sport,"Lopez, Hernandez and Caldwell",because,7.6,2,3.9,3 years
+902,Red,L,770.48,watches,Clark Group,that,2.18,78,1.1,2 years
+903,LimeGreen,XL,578.07,other,Phillips Group,building,4.71,80,1.6,2 years
+904,MintCream,XL,445.61,classic,"Johnson, Gilmore and Davies",character,6.95,46,1.9,1 year
+905,SteelBlue,S,42.87,kitchen,"Wilson, Pierce and Williams",you,9.82,100,5.0,1 year
+906,MediumSlateBlue,XL,196.97,fancy,Maddox and Sons,investment,2.82,47,3.7,2 years
+907,SandyBrown,L,355.78,watches,"Rodriguez, Aguilar and Jimenez",blue,8.58,53,3.0,1 year
+908,DarkOrange,S,222.32,kitchen,Moore Group,their,9.34,16,1.0,6 months
+909,Snow,M,36.7,watches,Ramos Group,seem,9.72,70,4.4,2 years
+910,DeepSkyBlue,XL,655.59,watches,"Lopez, Gibbs and Woodward",future,5.29,79,1.8,3 years
+911,Violet,M,803.99,sport,"Nguyen, Parsons and Smith",woman,3.93,21,1.2,3 years
+912,DarkBlue,S,94.28,watches,"Fields, Smith and Ryan",defense,7.26,97,3.0,3 years
+913,SlateGray,XL,767.79,kitchen,Diaz-Howard,PM,7.24,14,5.0,2 years
+914,LimeGreen,S,489.99,fancy,"Barnett, Moore and Parsons",I,8.04,38,2.1,3 years
+915,Beige,M,427.78,footware,Cuevas Ltd,budget,8.8,46,2.4,3 years
+916,Snow,XL,316.86,kitchen,Hoffman-Johnson,bag,9.74,93,3.5,1 year
+917,Olive,S,621.78,classic,"Walker, Jones and Lawson",itself,4.54,13,4.4,6 months
+918,LightGray,L,132.96,other,Vincent-Rice,card,9.98,9,3.9,6 months
+919,SlateBlue,S,347.32,other,Jenkins-Keller,the,4.14,18,4.9,6 months
+920,LightBlue,S,325.94,watches,Reid-Carey,protect,5.36,69,4.1,2 years
+921,Peru,M,332.17,footware,Perez-Collins,people,1.18,2,1.6,2 years
+922,DarkGoldenRod,S,140.91,other,Acosta-Smith,seek,4.38,38,4.5,3 years
+923,DarkOrchid,L,939.25,sport,Powers-Obrien,such,9.96,28,1.2,3 years
+924,LightSeaGreen,XL,304.62,watches,Garcia-Morrison,production,8.62,89,1.7,2 years
+925,DodgerBlue,L,487.86,watches,Lee-Hawkins,foot,7.65,75,1.8,1 year
+926,LawnGreen,L,877.05,other,Solomon-Ruiz,safe,6.41,84,1.2,1 year
+927,ForestGreen,S,710.4,sport,Thomas-Montoya,place,4.14,37,3.3,2 years
+928,PaleGreen,M,60.31,kitchen,Clark PLC,eye,2.86,81,3.8,2 years
+929,MediumBlue,M,739.81,fancy,"Becker, Alexander and Smith",three,6.79,17,3.9,1 year
+930,DarkGoldenRod,S,891.57,kitchen,Hicks PLC,foot,6.36,9,1.1,1 year
+931,Ivory,S,267.6,kitchen,"Campbell, Dougherty and Allen",bill,1.78,61,2.4,6 months
+932,DarkBlue,S,611.65,fancy,"Green, Hunter and Robinson",subject,1.41,56,1.6,3 years
+933,MediumOrchid,XL,78.61,sport,Grant-Vasquez,area,1.75,69,3.6,6 months
+934,IndianRed,M,899.22,other,Watson-Robinson,recent,0.64,98,2.0,2 years
+935,Moccasin,L,853.15,other,Conner-Foster,indicate,3.51,4,3.4,6 months
+936,Purple,L,971.56,footware,Rodriguez-Acosta,kitchen,2.93,18,4.0,3 years
+937,Pink,S,98.68,kitchen,Le-Ho,do,7.91,23,4.1,2 years
+938,Ivory,M,541.91,fancy,Duke Group,far,3.7,40,3.7,6 months
+939,Bisque,XL,763.88,sport,"Jones, Gonzalez and Clark",clearly,5.87,33,3.1,3 years
+940,LightYellow,S,47.99,classic,Tate-Roy,six,5.47,55,3.6,2 years
+941,Wheat,XL,682.35,other,"Hoffman, Baker and Hayes",any,5.24,90,4.7,1 year
+942,Cyan,M,351.69,footware,"Sandoval, Stewart and Nguyen",parent,6.97,53,1.3,6 months
+943,Snow,S,197.63,sport,Robinson-Crawford,politics,6.92,69,2.8,6 months
+944,DarkSalmon,XL,974.88,fancy,"Cervantes, Terry and Ramirez",ground,3.13,38,2.6,3 years
+945,GhostWhite,L,117.08,other,"Tapia, Watson and Martin",tax,7.62,56,2.7,2 years
+946,Red,M,146.31,footware,Cline LLC,system,9.83,87,4.8,1 year
+947,Turquoise,L,806.34,classic,"Abbott, Smith and Thomas",analysis,3.75,81,2.6,1 year
+948,DarkSlateBlue,S,27.36,footware,Howard-Welch,indicate,5.03,22,1.1,2 years
+949,SeaShell,XL,742.1,classic,"Lambert, Mitchell and Peterson",everyone,7.98,99,2.5,3 years
+950,Lime,L,84.74,watches,"Cruz, Garcia and Hill",site,9.53,30,2.8,6 months
+951,Blue,L,597.18,footware,Sloan Ltd,president,3.37,76,1.4,6 months
+952,MediumOrchid,XL,825.18,classic,"Burke, Rasmussen and Aguilar",civil,8.23,32,4.8,1 year
+953,DarkSeaGreen,L,199.89,sport,Zimmerman and Sons,under,0.61,60,3.2,1 year
+954,LightYellow,M,295.14,sport,Smith-Evans,wish,5.89,100,2.0,6 months
+955,Maroon,S,355.6,kitchen,"Scott, Sanchez and Brooks",five,8.47,60,4.6,2 years
+956,SkyBlue,L,922.07,other,Hurst PLC,raise,4.87,81,4.9,3 years
+957,WhiteSmoke,S,31.95,classic,"Hamilton, Barnett and Singh",what,3.85,45,3.5,3 years
+958,PaleTurquoise,XL,596.71,fancy,Summers-Herrera,serious,3.77,46,3.8,6 months
+959,LightGreen,M,178.63,fancy,Robbins PLC,fight,2.2,81,1.4,6 months
+960,Bisque,M,85.72,other,"Carr, Benitez and Molina",democratic,9.43,54,2.2,2 years
+961,Cornsilk,M,456.84,classic,"Price, Kim and Perry",ability,5.19,28,2.1,1 year
+962,MediumPurple,M,420.5,other,Howe-Wiley,anyone,5.22,37,4.3,3 years
+963,PaleGreen,S,53.9,kitchen,"Espinoza, Wilson and Fisher",experience,7.77,49,3.1,2 years
+964,MediumSeaGreen,L,523.35,fancy,Hill-Ross,sound,5.06,77,1.8,2 years
+965,MediumSpringGreen,M,270.47,sport,"Ramirez, Salazar and Rowe",direction,9.95,84,4.5,2 years
+966,Sienna,XL,94.96,classic,Frederick PLC,final,3.82,12,2.9,6 months
+967,Tan,XL,418.2,sport,Flores-Anderson,leg,5.07,27,3.0,1 year
+968,BlueViolet,L,649.76,kitchen,Wise Ltd,peace,6.84,32,3.7,2 years
+969,GreenYellow,M,728.04,sport,Mccarty Ltd,mission,4.52,25,2.1,6 months
+970,DarkViolet,XL,819.39,footware,Sosa LLC,language,1.67,12,3.0,1 year
+971,Gold,S,819.68,classic,Franco and Sons,total,9.59,82,4.3,2 years
+972,Fuchsia,XL,18.36,footware,Frey Ltd,realize,8.09,39,1.9,3 years
+973,Olive,M,692.99,sport,Gillespie LLC,stage,7.69,52,1.2,6 months
+974,SkyBlue,S,115.6,fancy,Strickland Ltd,blue,6.58,29,1.5,3 years
+975,DarkGoldenRod,L,797.28,classic,Lucero-Duncan,house,6.36,34,1.9,1 year
+976,LightSlateGray,S,407.48,footware,Villanueva-Curtis,phone,4.18,44,1.3,6 months
+977,PaleGreen,M,990.1,fancy,Kirby LLC,cost,7.36,56,4.7,3 years
+978,Brown,L,206.38,sport,Mccarthy LLC,country,2.64,41,2.8,1 year
+979,MidnightBlue,XL,927.41,footware,Burke LLC,despite,9.75,95,4.1,3 years
+980,CadetBlue,XL,58.31,watches,Greene PLC,entire,7.96,49,4.8,2 years
+981,LawnGreen,S,661.7,kitchen,Duran Ltd,west,1.81,62,4.6,1 year
+982,Black,XL,774.75,kitchen,Morrison LLC,majority,4.77,67,1.2,1 year
+983,DarkOrange,XL,292.78,watches,"Ortiz, Christian and Fowler",prove,9.68,87,1.9,3 years
+984,DarkViolet,S,932.9,classic,"Lambert, Young and Fowler",network,9.89,32,4.0,6 months
+985,MediumOrchid,M,525.42,watches,"Kim, Warren and Rodriguez",enjoy,6.95,21,2.1,1 year
+986,SkyBlue,S,596.03,other,Roberts-Oliver,sort,0.63,94,3.5,3 years
+987,Cornsilk,L,670.79,fancy,Smith PLC,walk,5.83,8,1.6,3 years
+988,DarkSlateBlue,XL,425.52,footware,Rivera Ltd,party,4.47,92,4.5,2 years
+989,PeachPuff,M,837.45,watches,Soto Ltd,plan,6.31,13,4.9,2 years
+990,Violet,M,331.53,classic,Jimenez-Reynolds,hard,5.58,18,3.8,3 years
+991,MediumTurquoise,M,139.64,other,Carter-Byrd,seem,8.0,15,4.5,1 year
+992,LightSteelBlue,L,989.3,fancy,Griffin-May,view,7.85,29,3.6,2 years
+993,AliceBlue,M,968.39,sport,Schwartz-Reynolds,art,4.6,54,2.6,3 years
+994,Cyan,XL,357.15,classic,Huber Group,ability,9.91,94,5.0,2 years
+995,CornflowerBlue,L,683.43,fancy,Valdez-Savage,likely,9.79,42,4.6,6 months
+996,MediumSlateBlue,L,390.7,classic,Gentry-Garcia,significant,3.27,30,2.7,3 years
+997,DarkKhaki,M,876.15,watches,"Wilson, Moses and Edwards",local,3.87,53,4.3,3 years
+998,Aquamarine,L,32.16,footware,"Rogers, Booker and Brown",successful,2.92,31,3.9,3 years
+999,BlanchedAlmond,S,85.92,other,Williams-Avila,least,7.98,87,3.4,6 months
+1000,CornflowerBlue,L,191.87,footware,Davis Group,cup,2.66,17,3.8,2 years
+1001,OldLace,M,837.3,classic,Williams Ltd,fire,2.1,40,1.0,1 year
+1002,Silver,M,210.32,footware,Barton and Sons,model,3.44,43,3.7,6 months
+1003,LawnGreen,XL,625.49,watches,"Mercer, Mendoza and Huber",future,6.54,32,4.0,1 year
+1004,CornflowerBlue,XL,342.15,other,"Jordan, Gibbs and Wise",cup,1.07,83,4.5,2 years
+1005,AntiqueWhite,M,730.01,other,Long-Davis,though,4.71,44,1.6,1 year
+1006,DarkOrange,S,750.86,sport,Keith Group,person,9.01,35,3.6,3 years
+1007,Chocolate,L,725.17,classic,Liu LLC,religious,7.23,98,4.1,1 year
+1008,Gray,S,662.48,footware,Price-Lewis,value,6.12,19,1.3,3 years
+1009,DodgerBlue,XL,930.01,watches,Webster-Farley,quality,4.55,22,4.1,2 years
+1010,MintCream,M,932.07,classic,"Hughes, Cunningham and Martinez",close,6.61,69,2.6,6 months
+1011,MediumPurple,S,973.75,sport,"Lawrence, Savage and Delgado",middle,5.23,74,3.7,1 year
+1012,PaleTurquoise,XL,391.68,kitchen,Lewis-Edwards,room,1.7,18,2.9,1 year
+1013,Magenta,XL,533.42,footware,Powell-Richards,indeed,8.61,79,3.3,3 years
+1014,MistyRose,M,574.71,kitchen,Russell Group,truth,5.86,34,3.9,2 years
+1015,Green,XL,913.82,kitchen,Johnson-Long,she,9.81,71,2.7,2 years
+1016,SeaGreen,S,883.37,watches,Smith and Sons,grow,7.88,42,3.9,2 years
+1017,DarkSalmon,L,890.09,fancy,Case Group,reduce,8.62,39,2.6,2 years
+1018,MediumBlue,L,181.43,footware,"Fuller, Hickman and Sullivan",past,1.08,39,4.6,3 years
+1019,DarkCyan,XL,941.25,footware,Fuller-Miller,idea,3.91,68,2.3,6 months
+1020,Magenta,L,990.35,footware,Garcia-Robinson,management,9.41,58,3.3,3 years
+1021,SandyBrown,L,197.86,other,"Alvarez, White and Dunn",imagine,5.35,30,3.9,6 months
+1022,Bisque,M,603.87,footware,"Cordova, Webb and Lopez",mission,5.3,71,4.7,2 years
+1023,DimGray,S,958.32,other,Henderson Ltd,drop,6.26,62,2.4,2 years
+1024,DodgerBlue,M,34.31,classic,Tran-Long,news,3.11,46,1.4,3 years
+1025,DarkViolet,S,802.37,kitchen,Gray Ltd,local,1.47,53,1.3,2 years
+1026,OliveDrab,M,817.45,kitchen,James-Martinez,upon,7.26,76,1.5,3 years
+1027,MediumPurple,XL,779.49,other,Matthews-Beasley,everybody,8.36,18,3.4,1 year
+1028,Cyan,XL,508.83,kitchen,"Ward, Garcia and Little",sell,5.88,50,1.9,6 months
+1029,DarkSalmon,XL,197.93,classic,"Fleming, Carr and Martinez",manage,3.51,39,2.9,6 months
+1030,Khaki,L,804.46,watches,Hall Group,possible,5.8,85,1.5,2 years
+1031,ForestGreen,L,594.94,sport,Park Group,marriage,7.51,38,5.0,1 year
+1032,MediumAquaMarine,M,360.45,classic,"Caldwell, Herrera and Mccarthy",floor,9.48,100,2.4,3 years
+1033,Violet,M,260.35,sport,"Wilson, Nelson and Garza",impact,9.0,39,3.2,3 years
+1034,MidnightBlue,L,376.2,footware,"Barker, Harris and Cobb",hard,4.62,30,4.9,6 months
+1035,AntiqueWhite,M,78.93,other,Crosby LLC,actually,8.16,80,2.8,2 years
+1036,DarkBlue,M,996.75,watches,"Gutierrez, Willis and Rivera",picture,1.66,22,3.7,3 years
+1037,Cyan,L,125.97,kitchen,Lee Group,television,3.17,7,3.0,1 year
+1038,SkyBlue,L,230.76,watches,Cain-Bridges,onto,9.56,47,4.7,3 years
+1039,DarkViolet,L,178.81,watches,"Williams, Thomas and Wang",ago,3.44,38,2.5,1 year
+1040,MintCream,L,394.78,fancy,Hart-Gordon,tend,7.94,21,4.0,6 months
+1041,LightSalmon,XL,485.62,footware,Walsh-Jackson,nor,7.64,14,2.0,1 year
+1042,LightSeaGreen,S,193.2,sport,Werner-Heath,unit,5.2,37,3.0,2 years
+1043,BlanchedAlmond,XL,410.88,classic,Perez-Peterson,affect,1.13,62,3.7,2 years
+1044,AliceBlue,XL,542.47,watches,Cortez-Patel,human,1.45,22,1.3,2 years
+1045,Peru,L,110.93,kitchen,"Jenkins, Freeman and Juarez",term,6.83,26,3.4,1 year
+1046,LightSlateGray,XL,920.98,other,Preston-Davis,security,8.34,80,3.0,2 years
+1047,LavenderBlush,M,939.52,kitchen,Sexton-Barrera,from,6.41,1,3.1,1 year
+1048,DarkKhaki,L,100.57,other,Cross Group,strategy,3.06,94,2.1,6 months
+1049,GhostWhite,L,635.2,other,Williams-Gutierrez,else,0.69,24,2.1,2 years
+1050,Lime,L,652.01,footware,Li-Zavala,interest,3.2,94,2.8,6 months
+1051,FloralWhite,S,28.93,other,Thomas-Robertson,assume,1.71,28,4.4,3 years
+1052,WhiteSmoke,S,616.48,classic,Thomas-Spears,top,4.98,46,1.8,1 year
+1053,MediumOrchid,M,194.22,footware,Harris-Hinton,guy,5.14,12,4.5,1 year
+1054,LightPink,XL,751.52,kitchen,Stout LLC,keep,0.75,27,4.5,1 year
+1055,Aqua,XL,771.05,kitchen,"Vasquez, Garcia and Turner",floor,3.14,12,4.5,2 years
+1056,Bisque,L,116.87,kitchen,Winters LLC,discussion,2.34,93,1.4,2 years
+1057,Green,M,916.79,watches,"Munoz, Friedman and Schneider",eye,1.14,18,2.6,6 months
+1058,Azure,XL,427.61,footware,"Garner, Edwards and Ayers",hit,1.66,41,2.1,1 year
+1059,DimGray,S,140.6,footware,Johnson-Leon,life,4.28,21,4.2,1 year
+1060,OliveDrab,S,124.54,fancy,"Lewis, Marsh and Turner",table,4.8,92,1.3,3 years
+1061,LightGoldenRodYellow,M,741.72,watches,Hines Group,school,8.36,5,2.8,1 year
+1062,DarkViolet,XL,455.63,classic,Moore Inc,your,6.53,75,1.3,2 years
+1063,Brown,L,599.09,fancy,Lyons Inc,choose,3.55,38,3.1,2 years
+1064,DarkGreen,XL,836.84,other,"Mack, Douglas and Bass",after,1.35,12,3.1,2 years
+1065,Lavender,L,538.11,kitchen,"Blake, Holloway and Lowe",fly,7.73,77,1.2,3 years
+1066,Chartreuse,M,712.02,other,Lopez-Griffith,operation,8.46,97,1.7,3 years
+1067,Crimson,XL,929.67,other,Hamilton PLC,evening,6.7,48,2.9,6 months
+1068,PaleGreen,L,432.82,classic,Andrade LLC,whatever,0.8,28,1.8,6 months
+1069,PapayaWhip,XL,414.28,classic,Miller-Harris,sea,8.15,43,1.4,6 months
+1070,DarkOrange,M,766.86,fancy,Miller-Jones,put,9.69,27,1.5,2 years
+1071,LavenderBlush,L,790.59,classic,"Joseph, Morgan and Chavez",physical,9.84,82,1.2,3 years
+1072,PeachPuff,M,161.92,footware,Joseph LLC,and,5.89,63,3.5,3 years
+1073,Cornsilk,XL,820.97,sport,Grimes LLC,film,1.2,34,4.9,6 months
+1074,IndianRed,M,429.33,kitchen,"Wallace, Terry and Carter",professional,1.24,74,1.8,1 year
+1075,DarkTurquoise,XL,810.22,watches,Hernandez-Nelson,live,7.33,35,1.3,1 year
+1076,Gray,S,942.36,kitchen,Larson-Herring,couple,5.38,73,1.8,1 year
+1077,DarkGray,M,75.81,kitchen,Ramirez-Cook,hard,2.91,49,3.8,6 months
+1078,ForestGreen,XL,577.64,sport,"Montgomery, Curtis and Santiago",ago,8.3,74,3.7,1 year
+1079,DarkSlateBlue,L,501.79,fancy,Carrillo-Haley,available,5.96,95,2.3,1 year
+1080,WhiteSmoke,S,429.46,footware,Nelson-Pearson,mind,3.69,19,4.2,6 months
+1081,LightSeaGreen,S,816.36,fancy,Ward and Sons,knowledge,6.13,88,3.3,3 years
+1082,Brown,XL,360.36,classic,"Bowman, Cortez and Small",result,4.96,88,1.5,6 months
+1083,SeaGreen,M,663.35,kitchen,Patel-Kelly,plan,4.09,33,1.9,2 years
+1084,Teal,S,111.32,kitchen,"Thomas, Green and York",mouth,3.01,76,4.9,6 months
+1085,LightBlue,XL,611.69,fancy,Cunningham-Brooks,responsibility,9.86,94,3.2,3 years
+1086,DimGray,XL,191.69,other,"Wilson, Munoz and Johnson",form,2.53,79,1.3,2 years
+1087,MediumPurple,XL,253.7,other,"Williams, Rodriguez and Hamilton",tonight,4.95,17,2.2,6 months
+1088,OrangeRed,M,60.74,watches,Taylor-Herrera,popular,8.73,94,3.2,2 years
+1089,Orange,M,610.73,other,"Miller, Lawrence and Mason",pay,7.89,51,4.9,2 years
+1090,DarkBlue,XL,741.64,footware,"Lewis, Nguyen and Snyder",member,8.93,61,1.7,2 years
+1091,LavenderBlush,S,62.61,classic,"Kennedy, Cooley and Valdez",democratic,1.61,14,3.1,1 year
+1092,Ivory,S,570.31,kitchen,Fuentes-Bowman,history,6.13,64,2.7,3 years
+1093,LightSeaGreen,L,439.4,sport,Lewis-Salazar,record,8.0,2,2.4,2 years
+1094,Bisque,L,898.48,kitchen,"Frazier, White and Duke",he,7.62,38,3.0,6 months
+1095,DarkSeaGreen,XL,945.31,fancy,Jackson PLC,time,1.23,64,1.6,1 year
+1096,Magenta,XL,236.97,fancy,Brown-Sandoval,focus,7.14,95,1.4,3 years
+1097,Lavender,S,664.01,fancy,"Parker, Harvey and Hernandez",pay,0.92,30,1.4,3 years
+1098,PaleGreen,M,810.66,fancy,Green-Wood,morning,6.45,18,5.0,1 year
+1099,Moccasin,XL,276.47,sport,"Boyle, Key and Day",natural,2.39,67,5.0,6 months
+1100,PeachPuff,S,132.12,watches,"Mejia, Anderson and Smith",attention,9.29,18,3.6,2 years
+1101,Linen,L,767.09,kitchen,Young and Sons,finally,9.43,68,3.0,6 months
+1102,PaleTurquoise,L,331.52,watches,Bennett LLC,bag,7.28,90,2.7,6 months
+1103,IndianRed,M,268.81,sport,Warren and Sons,majority,6.58,80,4.9,2 years
+1104,WhiteSmoke,M,493.55,fancy,"Henry, Warren and Jackson",pick,0.8,10,1.4,2 years
+1105,MediumPurple,L,376.75,watches,Sims Group,age,5.68,100,2.1,3 years
+1106,Linen,L,263.85,other,"Duffy, Thompson and King",use,3.09,39,1.5,3 years
+1107,AntiqueWhite,L,44.94,kitchen,"Brown, Freeman and Fox",phone,0.88,19,1.9,6 months
+1108,DarkGray,L,773.31,sport,Porter LLC,yeah,4.31,66,1.1,1 year
+1109,Fuchsia,S,453.54,watches,Campbell-Rodriguez,deal,4.24,19,3.5,2 years
+1110,DarkGray,XL,789.8,sport,Ochoa Ltd,Mrs,1.82,90,3.1,1 year
+1111,DarkKhaki,M,226.51,kitchen,"Valdez, Rios and Wolfe",democratic,5.78,26,4.7,6 months
+1112,Khaki,L,627.92,footware,Harris Ltd,report,2.88,50,2.1,1 year
+1113,Thistle,M,51.57,kitchen,"Greer, Owens and Palmer",value,4.41,6,1.6,2 years
+1114,DarkMagenta,M,825.03,other,Peters Inc,recent,0.75,73,2.4,1 year
+1115,DarkSlateBlue,S,85.46,sport,Fernandez Inc,similar,4.68,60,4.2,6 months
+1116,DarkOrchid,S,521.19,watches,Molina Group,develop,4.38,54,2.1,3 years
+1117,Maroon,M,221.3,classic,Ortiz Group,decade,0.71,93,1.3,6 months
+1118,LightGreen,S,197.08,sport,"Hill, Jackson and Castillo",attention,8.39,92,3.6,1 year
+1119,CadetBlue,XL,541.27,footware,Horton-Fernandez,allow,3.32,11,4.1,2 years
+1120,Olive,XL,791.72,footware,"Williams, Lee and Flores",capital,7.02,1,1.6,3 years
+1121,Peru,S,488.82,classic,Miller-Farrell,about,9.74,67,4.1,2 years
+1122,DarkOrchid,S,358.65,other,Williams-Patrick,character,8.52,81,4.7,1 year
+1123,MediumAquaMarine,L,682.82,watches,Mckenzie-Gordon,institution,4.39,98,3.1,2 years
+1124,Navy,XL,238.46,fancy,"Barnes, Whitaker and Hebert",fish,9.16,39,4.8,6 months
+1125,DarkCyan,S,48.47,watches,Reyes Ltd,admit,3.71,25,2.8,3 years
+1126,DarkViolet,L,756.46,sport,Moore-Kelley,hotel,5.42,71,3.6,2 years
+1127,SaddleBrown,XL,792.2,fancy,Bailey Ltd,similar,1.18,3,3.1,2 years
+1128,CornflowerBlue,L,702.74,other,"Jimenez, Williams and Ballard",sometimes,2.56,18,1.3,3 years
+1129,LavenderBlush,L,569.92,fancy,Sanders LLC,decide,6.09,44,4.6,3 years
+1130,MediumSpringGreen,M,726.75,sport,Hudson-Sheppard,me,1.0,18,1.4,3 years
+1131,AliceBlue,L,725.93,sport,Davis-Coffey,good,3.81,25,1.5,6 months
+1132,DarkGray,M,82.26,sport,Martin Group,right,6.13,65,3.1,2 years
+1133,BurlyWood,M,273.55,fancy,Haynes LLC,always,5.95,41,2.9,3 years
+1134,Red,L,404.72,footware,"Martinez, Tucker and Martin",while,9.79,71,1.9,2 years
+1135,WhiteSmoke,S,407.01,kitchen,Burns-Rice,PM,2.1,65,4.6,1 year
+1136,DarkSeaGreen,S,780.01,kitchen,Jones-Watson,last,9.21,84,1.3,1 year
+1137,SkyBlue,M,305.48,classic,Sanchez and Sons,American,4.73,62,2.7,6 months
+1138,DarkRed,M,569.44,classic,"Hebert, Smith and Washington",environment,8.19,64,3.3,3 years
+1139,SaddleBrown,L,244.59,kitchen,Stone Inc,thus,6.96,29,4.3,3 years
+1140,Teal,L,459.43,watches,"Chase, Blake and Davis",pass,3.65,63,4.2,3 years
+1141,DarkKhaki,XL,454.91,fancy,"Miller, Gilbert and Schmidt",network,3.47,32,4.5,1 year
+1142,CornflowerBlue,XL,985.93,footware,Jackson-Flores,toward,7.52,50,2.0,6 months
+1143,SaddleBrown,XL,640.79,footware,Perez-Reid,Mr,7.13,38,3.8,3 years
+1144,White,S,927.68,watches,"Smith, Butler and Ortiz",parent,3.95,5,2.2,3 years
+1145,DarkGreen,M,134.01,sport,Smith LLC,system,1.73,72,4.7,6 months
+1146,Blue,S,710.05,sport,Williams-Carter,over,8.56,59,4.9,2 years
+1147,MediumOrchid,S,579.91,other,Wallace Ltd,whether,7.6,74,2.8,1 year
+1148,SeaGreen,XL,268.06,footware,Lyons-Stone,black,8.25,96,1.8,1 year
+1149,Tan,XL,343.02,watches,Fernandez Ltd,way,9.73,99,4.2,1 year
+1150,GreenYellow,M,230.83,footware,"Leon, Dalton and Monroe",remain,8.86,72,3.5,2 years
+1151,RoyalBlue,S,414.14,watches,Hall-Clark,reveal,4.74,26,4.9,1 year
+1152,Salmon,XL,470.48,watches,"Brown, Clark and Thomas",account,3.0,63,2.6,2 years
+1153,LightSteelBlue,S,643.73,footware,Dunn and Sons,realize,7.34,43,3.0,1 year
+1154,AliceBlue,L,150.93,kitchen,"Holt, Allen and Cohen",lay,5.72,9,1.3,6 months
+1155,DarkKhaki,L,427.23,classic,Cabrera-Ward,up,4.59,45,3.6,3 years
+1156,Red,XL,304.74,watches,"Davis, Garcia and Rios",actually,2.76,71,1.1,1 year
+1157,IndianRed,XL,594.05,kitchen,Smith LLC,action,1.41,9,4.4,2 years
+1158,DarkViolet,S,39.68,classic,"Mann, Alvarado and Larson",appear,2.21,64,2.8,2 years
+1159,SlateBlue,XL,941.78,sport,"Holland, Cohen and Small",pick,3.75,22,2.5,1 year
+1160,SlateBlue,M,265.59,kitchen,Howard-Hernandez,or,7.74,26,3.3,6 months
+1161,Orange,M,875.13,sport,Stewart Ltd,option,4.05,67,3.2,2 years
+1162,Moccasin,L,121.62,classic,"Hendricks, Wright and Odonnell",participant,6.59,69,4.9,2 years
+1163,Silver,M,798.43,classic,Robinson Inc,radio,5.65,32,4.3,3 years
+1164,LightSteelBlue,XL,705.88,footware,"Hernandez, Jacobs and Heath",worry,6.12,72,5.0,1 year
+1165,Yellow,XL,200.67,kitchen,"Hunt, Dudley and Coffey",water,0.84,22,2.4,3 years
+1166,Salmon,M,987.76,footware,Woodard-Garcia,build,4.76,17,3.6,6 months
+1167,Orchid,L,828.85,other,Johnson-Adams,story,9.02,69,1.8,2 years
+1168,Thistle,M,459.53,sport,Taylor-Ramos,thus,8.04,5,4.2,6 months
+1169,LavenderBlush,L,641.98,fancy,"Ward, Serrano and Howell",knowledge,2.67,52,3.2,2 years
+1170,Cornsilk,S,937.44,other,Cross PLC,home,2.26,68,3.9,6 months
+1171,DarkSlateBlue,L,296.03,footware,"Noble, Jenkins and James",and,5.58,77,3.2,2 years
+1172,SlateBlue,M,968.99,kitchen,Gonzalez Ltd,morning,7.04,62,3.2,2 years
+1173,Black,L,880.46,watches,"Clark, Cabrera and Knox",husband,1.35,40,4.8,2 years
+1174,MintCream,L,178.35,sport,"Adkins, Sweeney and Black",than,7.43,16,4.5,6 months
+1175,LightCoral,L,278.39,sport,"Fox, Dillon and Cordova",full,5.49,85,2.8,2 years
+1176,Tomato,L,698.19,sport,Burns-Burke,down,9.01,97,1.4,3 years
+1177,GoldenRod,S,541.59,footware,"Weeks, Parks and Flynn",center,1.06,33,3.8,2 years
+1178,CadetBlue,S,909.63,fancy,Soto and Sons,cell,7.38,15,1.3,2 years
+1179,BurlyWood,L,497.32,kitchen,Bradley-Ruiz,improve,5.16,84,2.7,6 months
+1180,Aquamarine,L,234.53,sport,Tran Ltd,agent,3.27,100,4.9,3 years
+1181,Gray,M,886.17,fancy,"Phillips, Chavez and Sandoval",similar,5.1,51,4.7,6 months
+1182,Orange,L,959.96,fancy,Anderson Inc,dinner,5.44,67,3.2,3 years
+1183,SpringGreen,L,734.82,footware,"Russell, Nichols and Bray",candidate,6.73,57,1.0,6 months
+1184,DimGray,XL,684.0,fancy,Lee Group,church,1.21,57,2.0,2 years
+1185,Silver,M,871.91,classic,Griffin-Burton,interesting,6.83,77,4.1,6 months
+1186,BlueViolet,S,317.51,fancy,Brown-Gray,culture,3.29,14,1.1,6 months
+1187,LightPink,M,287.09,kitchen,"Bailey, Mendoza and Pena",trade,6.78,79,3.1,2 years
+1188,Beige,M,436.87,kitchen,Peterson and Sons,cultural,7.27,94,2.8,3 years
+1189,IndianRed,M,56.98,classic,Mccullough LLC,hard,3.94,48,4.1,3 years
+1190,CadetBlue,S,92.56,other,"Andrews, Perez and Williams",police,7.05,76,3.6,6 months
+1191,SaddleBrown,L,488.58,other,Andrews Inc,blood,0.71,15,4.6,6 months
+1192,LightPink,S,389.16,sport,Robinson-Bailey,picture,2.42,75,1.1,2 years
+1193,LightGray,XL,182.87,sport,Hall PLC,reach,6.69,21,1.4,2 years
+1194,MediumTurquoise,M,215.55,other,Humphrey-Johnson,down,7.63,38,3.6,3 years
+1195,LightGoldenRodYellow,S,676.61,watches,Martin-Garrett,present,8.88,69,1.0,3 years
+1196,DimGray,L,200.2,other,Tyler-Mcguire,explain,1.02,97,3.1,6 months
+1197,Teal,L,140.42,kitchen,"Newman, Bell and Arroyo",chair,7.9,98,4.7,1 year
+1198,LightSeaGreen,L,962.56,watches,Newman-Galvan,remember,8.8,39,3.6,1 year
+1199,SkyBlue,XL,755.22,other,Rodriguez-Sutton,mouth,1.2,28,1.3,1 year
+1200,CornflowerBlue,XL,871.44,watches,Cortez-Nguyen,son,7.74,88,1.9,3 years
+1201,PapayaWhip,L,929.69,footware,Castillo Ltd,street,1.55,40,4.3,2 years
+1202,Aquamarine,S,836.16,footware,Swanson-Kidd,challenge,2.44,40,3.1,6 months
+1203,MediumSpringGreen,XL,293.83,classic,James-Mann,each,7.6,93,1.7,6 months
+1204,Plum,M,84.19,fancy,Hoffman Group,lead,7.64,43,3.0,6 months
+1205,Teal,M,794.58,fancy,Roberts-Chavez,address,8.91,53,2.9,3 years
+1206,Fuchsia,M,169.72,sport,Swanson-Allen,region,0.85,83,4.7,3 years
+1207,LightCoral,S,439.99,footware,"Ramos, Clark and Chambers",yard,5.12,86,3.1,1 year
+1208,BurlyWood,XL,173.18,kitchen,"Sanchez, Roberts and Meadows",table,7.99,32,1.0,1 year
+1209,Linen,M,96.28,sport,Ware Group,serious,8.53,22,3.5,2 years
+1210,AliceBlue,L,205.67,sport,"Bryant, Quinn and Petty",table,3.19,44,3.5,1 year
+1211,YellowGreen,L,282.16,sport,Howard-Henderson,make,7.24,86,4.6,2 years
+1212,Cornsilk,L,192.8,watches,Jacobs-Brooks,fund,7.58,15,1.6,1 year
+1213,LightSkyBlue,XL,134.21,fancy,Taylor Ltd,rest,0.62,28,3.2,1 year
+1214,MediumAquaMarine,L,688.32,fancy,"Hood, Mendez and Cox",health,3.8,98,2.7,3 years
+1215,Cyan,XL,59.53,fancy,Best-Skinner,family,3.63,7,2.0,6 months
+1216,DarkSeaGreen,S,233.58,footware,Harrell-Sawyer,century,6.98,49,2.2,3 years
+1217,Cornsilk,XL,936.41,kitchen,Garcia-Adams,myself,5.93,26,4.1,2 years
+1218,LightGreen,XL,451.88,sport,Thompson-Meyer,art,9.08,3,3.4,6 months
+1219,Cornsilk,M,32.81,fancy,Duke Group,ever,2.53,44,1.8,2 years
+1220,Beige,S,814.65,kitchen,"Cochran, Jacobs and Smith",consider,5.12,68,1.3,1 year
+1221,Chartreuse,L,767.11,classic,Rogers-Mann,adult,8.86,1,1.7,6 months
+1222,Snow,S,221.58,sport,Mcpherson-Jones,coach,8.25,65,3.6,6 months
+1223,FloralWhite,L,67.75,watches,"Gentry, Nelson and Foster",defense,5.69,98,2.0,1 year
+1224,RoyalBlue,L,554.03,classic,Fleming Group,increase,2.1,78,1.4,3 years
+1225,MediumTurquoise,S,33.47,sport,Greer-Hughes,white,3.44,79,3.9,2 years
+1226,MediumSlateBlue,S,201.87,other,Bailey Inc,here,4.89,1,1.2,6 months
+1227,DarkSeaGreen,XL,686.06,kitchen,"Flores, Reynolds and Mason",case,8.49,78,2.6,6 months
+1228,AntiqueWhite,L,789.72,footware,Mueller LLC,government,9.1,19,1.9,3 years
+1229,DarkRed,M,494.15,other,Smith-Phillips,political,9.09,71,2.0,2 years
+1230,LightBlue,S,107.94,other,Fitzpatrick and Sons,nearly,1.71,8,4.7,6 months
+1231,DarkRed,M,526.5,fancy,Weber-Anderson,build,4.61,56,4.2,6 months
+1232,Peru,XL,452.97,watches,Stout PLC,talk,1.49,27,1.7,1 year
+1233,LawnGreen,M,835.32,watches,"Bradley, Young and Ruiz",ten,5.03,13,4.3,2 years
+1234,MistyRose,M,38.13,other,Hill LLC,tonight,7.78,98,4.5,3 years
+1235,MediumPurple,M,56.89,classic,"Hutchinson, Harris and Martin",control,1.02,86,2.9,3 years
+1236,MediumPurple,M,562.1,sport,"Hammond, Powell and Henderson",not,2.56,72,4.5,2 years
+1237,DarkMagenta,M,300.06,footware,Andrade Ltd,gun,5.29,11,3.4,6 months
+1238,MediumSlateBlue,XL,335.08,watches,Reid LLC,thought,9.94,51,2.3,3 years
+1239,Aqua,L,139.98,classic,Mahoney-Beck,country,5.29,33,2.3,3 years
+1240,MediumSlateBlue,XL,835.67,classic,Durham-Rivers,inside,5.1,34,2.2,1 year
+1241,Chartreuse,S,506.79,sport,Freeman-Ballard,though,6.58,37,1.7,1 year
+1242,ForestGreen,S,246.49,fancy,Brooks Inc,knowledge,0.59,8,3.1,6 months
+1243,OldLace,S,363.0,watches,"Perry, Andrews and Hansen",interview,3.62,56,4.6,3 years
+1244,Coral,XL,857.6,fancy,Jones and Sons,American,9.55,40,1.1,6 months
+1245,MediumSlateBlue,S,478.32,footware,Carrillo-Walters,group,7.3,18,2.4,6 months
+1246,SlateGray,M,754.66,classic,Glover Ltd,pull,1.76,16,1.5,1 year
+1247,SeaGreen,M,754.05,footware,Hull-Walker,me,3.71,26,3.4,2 years
+1248,OrangeRed,S,811.23,other,"Lang, Lewis and Anderson",another,5.69,30,4.9,6 months
+1249,Peru,XL,845.12,sport,Hall PLC,network,6.4,59,3.1,6 months
+1250,Khaki,XL,599.2,fancy,"Bell, Reyes and Bishop",figure,7.42,73,2.6,1 year
+1251,RoyalBlue,L,273.12,kitchen,Williams Group,office,4.46,79,3.3,1 year
+1252,OliveDrab,M,537.54,classic,"Hobbs, Williams and Mueller",police,5.96,66,1.2,3 years
+1253,GreenYellow,XL,153.81,other,Wolfe-Bennett,whatever,5.84,50,3.6,3 years
+1254,Chartreuse,L,66.46,kitchen,Park-Martin,available,3.11,49,4.8,3 years
+1255,PapayaWhip,L,11.06,watches,Rose-Thomas,law,6.28,5,4.7,3 years
+1256,Wheat,XL,763.19,classic,Gomez-Dennis,consider,7.57,41,2.0,6 months
+1257,SaddleBrown,S,915.6,other,Schmidt-Roberts,begin,6.98,43,4.4,2 years
+1258,PaleGoldenRod,L,987.51,classic,"Solomon, Key and Nelson",guess,1.54,36,4.8,1 year
+1259,Gray,XL,214.05,watches,Werner and Sons,process,3.09,47,2.1,3 years
+1260,Purple,S,64.12,classic,"James, Wade and Bishop",meeting,4.11,33,1.3,6 months
+1261,Purple,L,796.12,other,Woods LLC,friend,3.33,90,3.0,6 months
+1262,WhiteSmoke,M,508.12,sport,Peters-Wade,black,2.59,68,2.8,3 years
+1263,Snow,L,887.6,watches,Arroyo-Turner,former,7.48,75,4.8,6 months
+1264,LightCoral,XL,439.97,classic,"Neal, Allen and Buckley",thing,8.77,19,4.8,1 year
+1265,DarkSlateBlue,L,330.35,fancy,Cox Group,bag,9.4,30,4.5,3 years
+1266,Gold,L,877.78,watches,Patterson-Powell,respond,9.04,24,3.3,6 months
+1267,MediumSlateBlue,S,880.09,other,Lewis LLC,woman,9.16,37,2.3,1 year
+1268,Chartreuse,XL,654.69,kitchen,"Peck, Kelly and Pennington",go,8.48,1,4.8,3 years
+1269,DarkBlue,L,834.98,footware,Norton Ltd,particularly,1.75,93,1.9,3 years
+1270,DarkViolet,L,624.41,fancy,"Santiago, Johnson and Doyle",research,2.21,66,4.7,1 year
+1271,DeepSkyBlue,M,403.17,footware,Thompson-Stephens,example,9.38,65,1.1,3 years
+1272,FireBrick,S,345.26,kitchen,Edwards-Murphy,another,5.44,44,4.7,6 months
+1273,Red,S,105.15,other,"Butler, Edwards and Riley",respond,9.81,100,4.4,6 months
+1274,SeaShell,L,575.53,other,Garcia PLC,draw,1.31,44,2.5,6 months
+1275,Chartreuse,XL,385.03,kitchen,"Huang, Simpson and Woods",anything,2.65,93,2.2,3 years
+1276,DeepPink,M,668.1,other,Dickson-Gardner,such,5.1,85,1.8,6 months
+1277,SandyBrown,L,437.77,watches,Cooper-Reeves,evening,6.53,27,2.3,1 year
+1278,SlateGray,L,304.27,sport,Hughes LLC,until,5.8,98,3.7,2 years
+1279,OliveDrab,L,258.29,classic,"Gilbert, Strong and Jacobs",imagine,2.54,85,3.3,1 year
+1280,DarkViolet,L,651.93,sport,Cook and Sons,these,1.61,23,3.7,3 years
+1281,Bisque,M,671.29,sport,Long LLC,wrong,4.19,33,1.1,6 months
+1282,Azure,L,859.11,sport,Brown PLC,team,0.52,99,1.5,6 months
+1283,DarkTurquoise,XL,665.64,other,Hatfield-Wilson,inside,7.16,83,3.5,1 year
+1284,Moccasin,L,701.65,kitchen,"Wu, Rangel and Ward",class,1.01,64,2.0,6 months
+1285,LawnGreen,L,487.28,sport,"Thomas, Anderson and Wood",society,8.69,25,1.6,2 years
+1286,LightGoldenRodYellow,S,624.55,watches,Conley Inc,story,7.27,23,2.5,3 years
+1287,Orchid,L,975.57,sport,Johnson-Thompson,gas,8.56,54,1.4,3 years
+1288,Bisque,XL,847.57,kitchen,Miller and Sons,wait,4.87,86,3.6,2 years
+1289,LightGoldenRodYellow,S,453.44,sport,"Berry, Lewis and Poole",listen,6.83,30,3.2,1 year
+1290,DarkSalmon,L,113.68,watches,"Miller, Powell and Parker",lawyer,1.69,9,2.2,6 months
+1291,Aqua,XL,827.21,sport,"Huynh, Lee and Long",himself,2.12,75,1.5,6 months
+1292,Cornsilk,S,369.28,kitchen,"Dean, Campos and Marshall",current,6.95,66,2.9,2 years
+1293,FloralWhite,M,841.74,fancy,"Cole, Romero and Williams",practice,3.25,39,4.6,6 months
+1294,YellowGreen,M,507.52,kitchen,Reynolds-Jones,continue,6.37,8,4.3,6 months
+1295,Aquamarine,M,997.54,watches,Wright LLC,within,0.85,75,3.5,2 years
+1296,SlateGray,XL,442.45,sport,Bowen and Sons,cup,8.06,50,1.5,1 year
+1297,DimGray,L,796.6,fancy,Rowe-Clark,small,8.43,79,2.2,1 year
+1298,DodgerBlue,M,917.12,kitchen,"Hall, Welch and Little",past,3.1,48,1.5,2 years
+1299,YellowGreen,M,466.33,footware,Wilson PLC,wall,8.91,77,3.5,2 years
+1300,Orange,S,188.02,other,"Vargas, Moreno and White",necessary,2.2,37,1.5,6 months
+1301,DarkOliveGreen,XL,126.4,classic,Harris Group,around,8.68,75,4.7,6 months
+1302,Gainsboro,L,950.64,sport,Walls Group,hotel,7.4,14,1.5,6 months
+1303,DarkGoldenRod,L,922.92,classic,Gilmore Inc,cost,3.77,18,2.1,6 months
+1304,FireBrick,XL,541.17,sport,"Moore, Thompson and Edwards",low,6.63,5,4.7,6 months
+1305,OldLace,XL,816.26,kitchen,"Bowen, Hopkins and Williams",push,1.45,39,3.4,6 months
+1306,Beige,L,338.09,watches,Stewart Group,see,5.32,85,4.6,3 years
+1307,MediumOrchid,S,961.97,classic,Hunt PLC,type,5.46,7,3.2,6 months
+1308,DarkOrange,S,506.27,kitchen,"Knox, Walsh and Norris",instead,3.34,38,1.9,3 years
+1309,Snow,L,738.48,classic,"Acosta, Lewis and Gardner",increase,7.91,68,4.6,2 years
+1310,MediumSlateBlue,S,473.62,sport,Owens Group,important,7.92,8,1.5,2 years
+1311,Chocolate,L,371.55,sport,Fischer-Torres,lose,8.69,23,1.7,1 year
+1312,YellowGreen,XL,959.83,fancy,Smith-Cuevas,low,7.88,82,1.1,3 years
+1313,Orchid,XL,565.05,other,Lin PLC,adult,9.72,99,2.5,1 year
+1314,PaleGoldenRod,XL,526.02,classic,"Kelly, Hicks and Moss",budget,9.49,48,1.7,1 year
+1315,AntiqueWhite,XL,783.78,footware,Herman Inc,mother,5.57,93,1.3,6 months
+1316,Sienna,L,726.78,sport,Collins Ltd,dream,4.43,59,3.8,3 years
+1317,MistyRose,M,613.63,classic,Martin Ltd,feel,9.81,3,2.5,3 years
+1318,OliveDrab,L,465.33,fancy,Long-Cook,speak,6.76,40,1.3,3 years
+1319,MistyRose,L,334.65,footware,Jackson-Potts,activity,7.06,74,5.0,3 years
+1320,MidnightBlue,XL,307.1,kitchen,Clark-Baker,push,7.28,80,3.7,2 years
+1321,Linen,L,274.52,watches,"Carlson, Bryant and Hill",identify,0.87,55,1.4,2 years
+1322,YellowGreen,L,18.1,other,Nelson-Baker,really,0.51,29,3.8,6 months
+1323,Plum,L,288.08,other,Dunlap-Sanchez,trouble,7.86,18,2.5,2 years
+1324,Green,M,650.63,classic,Thomas-Guzman,want,3.71,32,4.7,6 months
+1325,CornflowerBlue,S,505.48,watches,"Park, Velazquez and Gonzalez",moment,6.05,73,3.6,2 years
+1326,Thistle,S,237.08,other,Allen-Johnson,then,4.72,98,4.8,6 months
+1327,BlanchedAlmond,L,745.62,fancy,Gonzalez Ltd,month,1.7,40,5.0,1 year
+1328,BurlyWood,M,481.72,watches,"Moran, Joyce and Alvarez",president,5.29,41,4.6,1 year
+1329,Sienna,M,891.84,classic,Montgomery-Morales,movie,1.13,32,1.3,2 years
+1330,Thistle,M,496.62,sport,"Thomas, King and Cook",though,0.89,15,3.1,3 years
+1331,Chartreuse,M,901.84,fancy,Cannon-Copeland,left,9.82,61,1.7,3 years
+1332,RoyalBlue,L,86.53,fancy,Patterson-Miller,explain,6.15,65,4.1,3 years
+1333,OldLace,M,606.07,fancy,Grant LLC,course,9.72,89,1.4,6 months
+1334,DarkSlateGray,M,471.26,fancy,Bean-Dean,order,3.28,72,1.1,2 years
+1335,Wheat,M,882.58,kitchen,"Larson, Rosario and Campbell",hear,2.2,61,1.7,6 months
+1336,Moccasin,XL,307.12,fancy,"Boyd, Fox and Roberts",guess,3.19,76,3.4,2 years
+1337,DarkGoldenRod,M,639.73,footware,Parrish PLC,evening,1.96,40,3.0,1 year
+1338,Beige,L,541.54,classic,Hood LLC,far,7.26,3,2.3,2 years
+1339,DarkOrchid,L,888.48,sport,Owens Ltd,reduce,1.73,93,4.2,2 years
+1340,Green,XL,69.57,classic,"Watson, Melton and Davis",safe,6.95,31,2.1,2 years
+1341,Gray,M,692.71,watches,Cummings LLC,air,7.79,76,2.5,2 years
+1342,CadetBlue,M,36.35,sport,"Hopkins, Washington and Owens",price,1.78,78,4.4,6 months
+1343,Tomato,XL,452.63,kitchen,"Cisneros, Robertson and Lewis",above,4.6,46,4.3,2 years
+1344,MediumVioletRed,S,195.15,watches,"Mendoza, Carey and Rodriguez",toward,4.92,58,1.3,2 years
+1345,Azure,S,24.03,watches,Martin Inc,drug,3.93,100,2.6,2 years
+1346,GhostWhite,L,352.55,other,Yu-Bright,meet,2.09,13,2.1,3 years
+1347,Blue,L,109.4,kitchen,Nichols-Wright,machine,9.49,99,1.5,2 years
+1348,GhostWhite,S,174.15,classic,"Hall, Coleman and Martinez",American,9.53,73,1.3,2 years
+1349,DarkRed,XL,374.96,sport,Estrada-Blake,lay,9.95,43,1.2,1 year
+1350,Lavender,S,204.83,kitchen,Mendez Group,white,3.04,27,4.6,2 years
+1351,AntiqueWhite,S,635.33,footware,Johnson-Clark,professor,9.96,31,3.0,1 year
+1352,Lime,XL,621.96,footware,White PLC,key,2.09,23,3.0,2 years
+1353,HotPink,S,435.88,watches,Walker and Sons,board,9.37,86,4.2,1 year
+1354,Sienna,S,176.1,classic,Fuller-Martinez,drop,8.27,88,1.1,6 months
+1355,LightCyan,S,869.17,sport,Warner PLC,approach,2.09,85,1.8,1 year
+1356,DarkKhaki,S,709.87,kitchen,"Scott, Lane and Hubbard",fast,4.04,96,3.8,6 months
+1357,DarkGreen,L,54.98,fancy,"Diaz, Moore and Combs",science,3.72,1,4.5,3 years
+1358,SlateGray,S,863.13,footware,Mccormick Ltd,imagine,0.79,83,1.9,3 years
+1359,Plum,S,44.69,watches,"Khan, Carlson and White",high,4.55,79,4.6,1 year
+1360,LightYellow,L,954.47,sport,"David, Smith and Williams",turn,1.32,87,2.5,6 months
+1361,Fuchsia,S,954.16,sport,"Leonard, Pearson and Carney",once,4.0,31,1.8,2 years
+1362,MediumPurple,S,33.47,watches,"Adams, Smith and Lara",act,8.64,13,1.8,1 year
+1363,OrangeRed,XL,477.55,footware,Huang Group,cause,2.03,35,4.8,1 year
+1364,MediumSeaGreen,L,394.27,watches,"Mason, Delacruz and Barnes",feel,2.48,40,1.5,6 months
+1365,MidnightBlue,L,698.67,watches,Miller LLC,but,7.97,60,4.9,1 year
+1366,DarkGoldenRod,L,200.27,fancy,Lester Inc,pressure,7.5,81,4.1,3 years
+1367,Violet,XL,250.09,fancy,Hurley-Bailey,hope,8.2,52,4.1,3 years
+1368,Lime,L,831.14,kitchen,"Carr, Whitney and Frazier",network,0.86,54,2.5,6 months
+1369,Blue,XL,221.66,footware,Roberson-Barr,million,2.15,52,1.3,2 years
+1370,CornflowerBlue,L,361.55,footware,"Myers, Sanchez and Mata",go,4.84,61,2.4,6 months
+1371,Olive,M,190.61,other,Brown-Mendez,build,2.54,83,1.7,2 years
+1372,WhiteSmoke,S,559.28,watches,"Miller, Butler and Johnson",international,7.68,29,1.5,6 months
+1373,DarkOliveGreen,L,539.24,classic,"Leon, Harrison and Lee",realize,2.78,35,2.7,6 months
+1374,White,L,447.6,classic,"Myers, Boyle and Allen",hotel,7.87,78,2.5,2 years
+1375,MintCream,L,71.5,fancy,Richardson Ltd,bill,8.47,14,3.3,2 years
+1376,Aqua,S,58.87,watches,Diaz-White,hope,3.01,39,4.5,6 months
+1377,Wheat,M,53.16,footware,Mitchell Group,election,8.71,52,3.6,3 years
+1378,SlateBlue,XL,119.56,other,"Juarez, Ramirez and Hanson",machine,3.52,38,1.1,3 years
+1379,OldLace,XL,546.32,classic,Harris Group,some,9.7,35,1.6,1 year
+1380,DarkGoldenRod,S,533.55,sport,Neal-Johnston,market,5.37,59,3.3,2 years
+1381,MediumSeaGreen,XL,19.23,footware,Hernandez-Oconnell,information,6.23,36,4.9,3 years
+1382,LemonChiffon,L,174.18,watches,Armstrong-Diaz,give,3.74,4,1.1,1 year
+1383,LawnGreen,S,309.23,watches,Cook LLC,ever,6.39,100,2.4,3 years
+1384,MediumOrchid,XL,207.97,watches,"Rivera, Rodriguez and Valdez",easy,8.94,18,1.1,3 years
+1385,BlanchedAlmond,XL,391.71,footware,Cline-Rivera,board,6.15,66,2.0,2 years
+1386,Maroon,L,907.15,sport,"Ward, Russell and Brown",morning,2.89,4,2.3,3 years
+1387,Lavender,XL,902.6,fancy,Evans-Espinoza,ready,1.0,51,2.1,6 months
+1388,AliceBlue,S,218.01,classic,Smith-Santos,seek,4.64,98,1.4,6 months
+1389,CadetBlue,M,85.99,kitchen,Lopez-Gardner,receive,9.12,63,1.7,6 months
+1390,SteelBlue,L,271.08,other,Wilson-Chambers,car,7.36,60,3.7,6 months
+1391,MediumPurple,L,970.04,classic,Peterson LLC,take,8.3,91,2.1,3 years
+1392,NavajoWhite,XL,178.57,classic,Mercer Group,himself,5.17,10,1.1,3 years
+1393,Orange,XL,310.43,watches,"Lam, Johnson and Jackson",together,9.71,55,2.1,6 months
+1394,White,L,844.51,classic,"Lewis, Patterson and Phillips",stay,2.96,8,3.7,2 years
+1395,Turquoise,S,940.35,classic,"Kerr, Ewing and Holt",next,9.01,9,4.2,2 years
+1396,DarkBlue,XL,789.68,other,Lopez-Brooks,rule,1.65,34,3.7,3 years
+1397,Plum,XL,798.46,kitchen,Gibson PLC,interview,7.52,39,4.7,3 years
+1398,SeaShell,S,87.42,fancy,Miller-Davis,course,2.74,17,2.8,6 months
+1399,LimeGreen,L,367.05,other,"Morrison, Ward and Bradshaw",current,6.6,63,4.2,3 years
+1400,DarkGreen,M,529.0,footware,"Carpenter, Jones and Santana",reach,3.02,38,1.7,3 years
+1401,HoneyDew,S,786.21,other,Richard LLC,class,0.52,24,1.5,3 years
+1402,LightSalmon,S,884.98,classic,Johnson LLC,along,1.69,54,1.9,2 years
+1403,Magenta,S,331.24,classic,Freeman-Reeves,throw,9.39,6,3.3,2 years
+1404,LightCyan,L,880.56,sport,"Carson, Mcclain and Myers",despite,8.28,83,4.0,6 months
+1405,Beige,L,212.92,footware,Browning-Hernandez,note,5.28,50,4.9,2 years
+1406,LavenderBlush,M,43.46,sport,"Young, Boyd and Davis",child,7.46,48,1.9,6 months
+1407,PowderBlue,S,164.8,other,Roberts LLC,relate,8.49,21,1.0,3 years
+1408,Orange,XL,278.76,sport,Hardin and Sons,put,8.49,57,2.7,2 years
+1409,Ivory,S,559.34,kitchen,"Roberts, Mccoy and Mathis",our,6.84,36,2.5,1 year
+1410,DarkGreen,L,900.88,sport,"Wood, Taylor and Burke",seat,4.74,73,1.7,1 year
+1411,HoneyDew,XL,307.71,sport,"Chen, Black and Keith",civil,1.78,92,2.4,1 year
+1412,Orchid,L,742.84,footware,"Pratt, Murray and Bartlett",everything,4.8,62,2.6,2 years
+1413,LightGray,L,419.64,footware,"Hardy, Schneider and Dickson",leave,3.3,100,1.8,6 months
+1414,LightGreen,M,125.55,other,Luna-Carlson,church,2.95,62,4.9,3 years
+1415,Pink,M,414.53,fancy,Benjamin and Sons,sell,1.27,49,4.3,1 year
+1416,MediumOrchid,XL,655.67,sport,Bauer PLC,no,1.25,50,2.6,6 months
+1417,ForestGreen,XL,257.2,fancy,"White, Montgomery and Osborne",community,1.97,94,2.1,1 year
+1418,Azure,M,119.25,watches,Gonzales-Blackburn,growth,2.23,77,5.0,2 years
+1419,LightYellow,M,805.0,classic,Miller-Rodriguez,ready,2.63,22,3.7,3 years
+1420,LightCoral,L,43.29,classic,Vasquez-Serrano,provide,0.97,89,1.3,1 year
+1421,Magenta,S,135.59,footware,"Jones, Allen and Jones",again,4.56,13,1.7,2 years
+1422,DarkGreen,L,10.02,footware,"Mullins, Olson and Fields",take,1.46,11,4.3,3 years
+1423,LightGreen,L,881.07,watches,Baker-Williams,claim,3.71,87,3.0,6 months
+1424,LightGray,M,213.06,watches,Harris-Shepherd,start,3.36,93,2.4,3 years
+1425,LimeGreen,L,146.21,watches,Harrison-Crawford,real,8.18,4,2.3,3 years
+1426,MidnightBlue,L,728.11,fancy,Huff LLC,head,5.18,36,1.2,3 years
+1427,Navy,XL,982.35,fancy,"Hammond, Reed and Brown",result,8.01,53,2.3,6 months
+1428,Cyan,M,16.72,fancy,Hill-Edwards,only,3.57,7,4.4,3 years
+1429,Red,XL,870.54,classic,"Miller, Hall and Jarvis",heart,9.83,63,2.2,3 years
+1430,Tomato,S,421.44,kitchen,"Zhang, Harris and Bowen",Mrs,5.6,65,4.1,3 years
+1431,GreenYellow,M,351.21,other,Rios-Ellison,soldier,9.76,34,1.5,2 years
+1432,Yellow,L,912.06,other,"Carter, Brown and Sanders",in,6.19,72,1.1,6 months
+1433,Gainsboro,XL,821.54,kitchen,"Jones, Patterson and Phillips",race,2.63,95,3.1,6 months
+1434,LimeGreen,XL,329.79,fancy,Ibarra and Sons,decade,2.92,65,4.9,6 months
+1435,MediumSeaGreen,XL,872.27,other,Mason-Martinez,collection,8.64,43,2.3,1 year
+1436,LightSlateGray,XL,190.15,watches,"Hernandez, Wagner and Landry",could,3.5,25,2.6,2 years
+1437,SeaGreen,S,123.8,sport,"Myers, Riley and Schneider",understand,3.4,71,1.6,3 years
+1438,Orange,L,914.42,kitchen,Rangel-Price,debate,6.03,49,4.5,6 months
+1439,Chocolate,M,228.71,fancy,"Hall, Martin and Bennett",point,8.03,3,1.9,3 years
+1440,Silver,L,407.0,other,"Gomez, Castillo and Walker",rich,2.87,53,2.1,2 years
+1441,Cornsilk,XL,939.81,watches,Simmons-Harris,remain,2.85,61,2.8,3 years
+1442,MediumVioletRed,XL,154.74,sport,"Harvey, Richardson and Bowman",will,6.63,86,1.8,6 months
+1443,GhostWhite,S,975.89,kitchen,Vance-Joyce,difference,8.83,89,2.3,2 years
+1444,Plum,L,913.18,watches,Gibson Group,yet,8.78,29,1.3,6 months
+1445,DarkBlue,S,209.29,classic,Dean Ltd,which,6.5,22,4.2,3 years
+1446,LightGray,S,826.76,fancy,White PLC,safe,5.49,27,1.4,2 years
+1447,LawnGreen,M,932.4,fancy,"Green, Armstrong and Graham",out,4.47,74,3.6,6 months
+1448,YellowGreen,M,565.45,kitchen,Ward Group,ten,2.3,51,4.7,3 years
+1449,DarkOliveGreen,XL,896.04,footware,Mercado PLC,here,3.99,2,3.4,6 months
+1450,PapayaWhip,M,819.38,kitchen,"Ferguson, Conner and Miller",affect,7.79,7,1.4,6 months
+1451,GhostWhite,XL,114.31,kitchen,Munoz-Hernandez,school,3.15,37,4.5,1 year
+1452,Red,L,737.9,sport,Brown-Yu,better,2.13,17,1.6,6 months
+1453,Thistle,S,961.37,watches,Waters and Sons,sister,1.91,13,3.5,1 year
+1454,DarkGreen,XL,951.02,sport,"Jones, Hughes and Wilcox",bar,7.25,69,4.1,3 years
+1455,DarkSlateGray,L,863.91,footware,Ruiz-Herrera,girl,6.59,35,2.7,6 months
+1456,MistyRose,M,128.28,kitchen,Hart and Sons,night,1.15,14,3.1,6 months
+1457,DarkTurquoise,M,52.07,other,Sparks Inc,medical,7.38,70,4.1,1 year
+1458,Azure,L,920.39,other,"Morton, Vasquez and Dixon",fast,5.16,37,4.1,3 years
+1459,MintCream,S,384.07,fancy,"Lopez, Kirby and Evans",between,4.08,1,1.9,1 year
+1460,Magenta,L,697.46,fancy,Nguyen Ltd,pattern,8.74,91,4.6,3 years
+1461,MintCream,S,708.58,sport,James-Holt,collection,3.75,71,4.5,6 months
+1462,Peru,XL,551.33,footware,Clark PLC,hair,4.71,68,2.5,1 year
+1463,HotPink,M,432.66,footware,Thompson-Johnson,certain,6.24,2,3.9,3 years
+1464,BlanchedAlmond,L,796.28,other,"Crawford, Compton and Hernandez",meeting,5.71,40,1.5,6 months
+1465,DarkMagenta,L,57.19,other,"Hamilton, Roberts and Gross",recent,5.51,83,4.2,6 months
+1466,LimeGreen,S,403.48,sport,Martin Inc,reveal,5.45,85,3.0,6 months
+1467,Crimson,L,168.03,watches,Mullins-Miller,business,1.46,84,3.3,1 year
+1468,LightGoldenRodYellow,S,28.75,classic,Gutierrez Inc,theory,9.77,27,3.1,1 year
+1469,LightSlateGray,M,557.43,fancy,Sanders-Mccormick,or,1.9,22,4.1,6 months
+1470,DarkSalmon,L,38.69,sport,"Martin, Barker and Aguilar",section,7.43,77,4.0,1 year
+1471,White,S,159.64,classic,Taylor-Taylor,individual,1.84,85,2.5,2 years
+1472,SlateGray,S,640.29,footware,Payne PLC,anyone,8.37,80,1.6,3 years
+1473,Yellow,L,661.12,footware,"Hanson, Jefferson and Holland",operation,9.98,59,2.3,3 years
+1474,Yellow,S,217.38,footware,"Alexander, Gonzalez and Patton",even,6.16,48,2.0,6 months
+1475,LightSkyBlue,L,453.68,kitchen,"Boyle, Mejia and Robinson",its,3.45,47,4.6,2 years
+1476,Yellow,XL,724.33,sport,Williams PLC,career,6.74,25,4.5,1 year
+1477,LightSalmon,M,313.47,classic,Salinas Ltd,different,0.91,89,4.7,1 year
+1478,DarkTurquoise,M,728.1,other,White-Farrell,so,5.15,95,4.3,3 years
+1479,Blue,S,968.79,fancy,Hansen-Roach,able,8.0,75,3.8,3 years
+1480,Beige,XL,600.74,other,Moreno Group,successful,9.59,80,1.6,6 months
+1481,Magenta,L,973.6,footware,Stevens Ltd,campaign,6.72,5,2.5,3 years
+1482,MediumSeaGreen,M,916.14,sport,Melendez and Sons,morning,2.5,85,4.8,3 years
+1483,DarkSlateGray,XL,500.01,other,Jackson-Oliver,sister,2.76,27,1.4,2 years
+1484,Lime,XL,372.29,other,Vega LLC,successful,1.12,51,4.9,2 years
+1485,MintCream,M,793.22,sport,"Curtis, White and Elliott",specific,6.18,5,3.0,3 years
+1486,GhostWhite,S,953.44,classic,"Nash, Austin and Cardenas",strategy,8.53,81,4.6,3 years
+1487,Tomato,L,398.18,other,Hendrix-Clark,give,1.76,29,4.4,3 years
+1488,DarkGoldenRod,M,723.48,other,"Mason, Wells and Logan",culture,7.42,30,3.3,2 years
+1489,DeepSkyBlue,L,416.03,kitchen,Romero PLC,identify,6.61,20,2.5,6 months
+1490,HotPink,M,472.52,kitchen,"Castaneda, Perez and Hall",woman,6.29,74,4.0,6 months
+1491,Bisque,M,673.4,other,Wood-Acevedo,situation,4.52,42,5.0,1 year
+1492,SeaGreen,S,815.78,sport,Reynolds LLC,still,4.27,88,4.0,6 months
+1493,LightSlateGray,S,56.44,watches,Perez and Sons,art,1.82,80,4.6,6 months
+1494,LightPink,S,124.91,watches,Wood-Byrd,standard,3.4,15,2.6,3 years
+1495,Peru,M,172.96,kitchen,"Merritt, Walters and Harmon",black,6.13,11,1.2,6 months
+1496,Coral,L,319.18,footware,"Graves, Davis and Torres",painting,9.38,44,1.1,1 year
+1497,Magenta,XL,742.78,fancy,"Smith, Green and Thornton",actually,8.37,7,1.3,1 year
+1498,OldLace,M,231.98,watches,Myers-Wise,character,2.12,3,3.1,6 months
+1499,OldLace,S,614.96,sport,Stewart Ltd,term,2.43,57,3.8,6 months
+1500,DarkOrange,M,504.3,sport,Montes and Sons,computer,4.89,83,2.6,2 years
+1501,Fuchsia,L,273.77,footware,Chan-Miller,prove,2.61,62,1.3,1 year
+1502,BurlyWood,XL,483.28,footware,"Thornton, Smith and Arnold",child,0.87,83,4.0,2 years
+1503,SlateGray,L,100.53,other,Hester Group,resource,3.99,99,2.5,6 months
+1504,MediumVioletRed,L,737.21,sport,"Hunt, Anderson and Reynolds",order,9.25,46,3.9,1 year
+1505,MediumSlateBlue,XL,270.45,footware,Stephens-Browning,small,9.6,29,3.9,3 years
+1506,DarkRed,XL,108.5,classic,Lee-Collins,financial,4.88,16,1.8,3 years
+1507,GhostWhite,L,999.56,kitchen,"Terry, Hernandez and Kerr",fire,6.89,84,4.1,1 year
+1508,AliceBlue,XL,95.51,other,Jones Inc,reality,9.2,64,4.7,2 years
+1509,Gainsboro,S,980.89,classic,"Riley, Young and Kim",rise,1.53,9,1.9,2 years
+1510,SeaShell,XL,36.11,watches,"Vaughn, Gates and Keith",the,1.83,28,4.6,3 years
+1511,MediumVioletRed,XL,273.66,watches,Hunt-Weaver,room,4.23,13,4.5,1 year
+1512,Magenta,S,188.03,fancy,"Walker, Peters and White",dog,4.12,27,3.7,1 year
+1513,AntiqueWhite,M,378.57,footware,"Fox, Goodman and Paul",property,6.39,90,2.1,1 year
+1514,PaleGreen,XL,753.12,other,Hamilton-Conley,because,1.81,34,2.7,3 years
+1515,BlueViolet,M,795.07,fancy,Torres-Herman,still,7.78,81,2.2,6 months
+1516,Red,L,856.07,other,Robbins PLC,allow,1.27,65,3.5,1 year
+1517,DarkCyan,XL,197.8,watches,Lawson-Hansen,water,0.97,19,1.7,6 months
+1518,DimGray,M,754.4,footware,"Vasquez, Jensen and Williams",concern,9.78,19,4.6,2 years
+1519,Olive,S,677.59,sport,"Reyes, Perkins and Gregory",little,7.11,77,3.4,2 years
+1520,Lime,XL,650.76,classic,Baldwin Inc,eye,6.22,28,3.4,3 years
+1521,DeepSkyBlue,M,526.43,kitchen,Newton-Davis,add,2.45,86,3.0,2 years
+1522,LightGray,L,684.6,watches,Salinas Ltd,budget,9.81,90,3.8,1 year
+1523,SteelBlue,XL,633.89,watches,Cisneros Inc,seat,8.59,96,3.3,2 years
+1524,DarkOliveGreen,M,810.53,fancy,Nunez-Ruiz,final,3.95,63,2.8,1 year
+1525,MistyRose,M,839.46,classic,Hernandez Ltd,week,2.09,62,1.5,6 months
+1526,Orange,S,809.06,classic,Pope Inc,name,7.37,100,2.7,6 months
+1527,Chocolate,S,532.87,watches,Thompson-Turner,foreign,4.57,46,3.5,1 year
+1528,Thistle,XL,18.52,classic,King LLC,boy,6.03,95,4.3,2 years
+1529,Green,S,912.44,kitchen,Sampson Ltd,everybody,4.59,89,2.1,2 years
+1530,PapayaWhip,L,187.36,fancy,Thompson LLC,case,6.36,25,1.6,6 months
+1531,DimGray,M,665.3,classic,Ryan-Kane,eat,9.63,99,2.3,6 months
+1532,MediumTurquoise,L,898.56,fancy,"Sullivan, Lane and Sanders",option,2.42,56,3.4,6 months
+1533,MediumAquaMarine,XL,494.83,other,Richardson-Davis,read,6.06,14,1.2,2 years
+1534,NavajoWhite,M,288.4,footware,"Rodriguez, Wilson and Vargas",series,9.53,73,3.2,6 months
+1535,ForestGreen,S,78.53,classic,Turner-Salazar,white,3.61,5,1.7,2 years
+1536,Azure,S,504.46,watches,Kennedy-Banks,recent,8.87,93,1.3,1 year
+1537,Blue,L,346.55,footware,Kelley Group,entire,7.1,22,3.0,2 years
+1538,DarkSalmon,S,656.29,watches,Ford Group,trip,6.84,19,3.6,6 months
+1539,LightSteelBlue,S,645.71,kitchen,Zuniga and Sons,car,7.34,38,1.1,3 years
+1540,Green,XL,465.61,classic,"Garrison, Zuniga and Diaz",seem,1.98,55,1.7,1 year
+1541,PeachPuff,S,875.15,watches,Sawyer-Harrison,room,7.33,53,2.6,2 years
+1542,Ivory,M,54.44,watches,Spence Inc,opportunity,1.75,95,1.9,1 year
+1543,LightSkyBlue,S,687.56,classic,"Welch, Marshall and Logan",born,3.93,34,2.7,6 months
+1544,DarkCyan,XL,100.25,other,Smith PLC,it,0.83,53,1.2,1 year
+1545,DeepSkyBlue,M,164.57,other,"Harrington, Wilson and Brown",meet,1.99,49,3.0,1 year
+1546,DarkGoldenRod,L,86.65,other,Cochran-Fuller,on,4.81,49,2.4,1 year
+1547,Azure,S,261.48,kitchen,"Francis, Blake and Campbell",face,5.91,70,4.9,1 year
+1548,LightPink,L,243.93,other,Rodriguez Ltd,similar,7.25,50,2.4,1 year
+1549,Lime,L,859.03,classic,Taylor Group,role,7.78,78,4.5,6 months
+1550,SlateBlue,L,331.28,fancy,Warren-Wright,list,7.48,30,3.6,1 year
+1551,Gainsboro,S,858.71,classic,Simmons-Hall,today,9.04,37,4.0,3 years
+1552,LightCyan,M,302.26,footware,"Hall, Collins and Huff",look,4.15,53,3.7,1 year
+1553,Orange,S,477.38,other,Peters-Rice,street,4.43,1,3.6,2 years
+1554,DodgerBlue,L,139.06,kitchen,Hughes-Warner,technology,2.85,89,4.8,1 year
+1555,DarkMagenta,XL,273.31,other,Hoffman-Frey,here,0.99,15,3.6,2 years
+1556,SpringGreen,S,860.95,footware,Wang-Harris,in,3.7,91,3.3,6 months
+1557,CornflowerBlue,M,542.71,footware,Shannon-Fox,vote,8.97,61,4.2,3 years
+1558,MediumTurquoise,M,53.58,watches,"Johnson, Cain and Robinson",important,2.07,23,2.1,1 year
+1559,PeachPuff,L,334.27,fancy,Thomas-Collins,same,9.2,75,2.2,1 year
+1560,RoyalBlue,S,216.45,footware,Krueger and Sons,why,3.95,94,3.1,1 year
+1561,LightSalmon,M,583.13,kitchen,Patterson-Stewart,decade,9.86,4,3.4,2 years
+1562,MistyRose,XL,22.55,kitchen,Austin Inc,try,0.56,43,4.5,1 year
+1563,Chartreuse,L,819.85,other,Scott-Wright,lot,3.26,49,3.5,6 months
+1564,PaleGoldenRod,XL,492.21,fancy,Hernandez-Phillips,understand,3.14,38,3.5,6 months
+1565,SpringGreen,M,578.66,other,Vega and Sons,per,3.4,3,2.1,1 year
+1566,MidnightBlue,M,601.27,other,"Johnson, Mcmillan and Watkins",computer,4.31,9,1.9,6 months
+1567,AntiqueWhite,XL,668.79,kitchen,Hartman-Clark,federal,6.47,76,1.5,3 years
+1568,MistyRose,M,461.24,kitchen,"Powers, Williams and Thomas",people,1.66,19,3.6,1 year
+1569,DarkSlateBlue,L,535.29,footware,Harrington and Sons,up,8.1,18,4.5,6 months
+1570,PaleGreen,S,220.03,sport,Wiggins Ltd,remain,3.74,16,2.6,1 year
+1571,DarkSlateBlue,M,474.17,sport,Smith Inc,financial,6.48,48,2.5,6 months
+1572,SlateBlue,S,614.91,watches,Livingston Inc,time,1.69,71,3.2,1 year
+1573,PowderBlue,XL,892.48,classic,Smith-Baker,fund,7.64,38,3.8,6 months
+1574,IndianRed,L,815.14,footware,Hatfield and Sons,minute,8.04,70,4.9,6 months
+1575,DarkOrchid,L,230.22,fancy,Thomas-Wells,inside,5.15,17,3.4,3 years
+1576,OliveDrab,M,788.7,footware,"Simon, Nguyen and Little",hit,9.1,4,3.3,1 year
+1577,GhostWhite,M,595.9,other,Clark-Stone,process,5.85,17,4.8,1 year
+1578,LightSlateGray,S,684.16,classic,Lopez Ltd,build,9.12,21,3.2,1 year
+1579,Lavender,L,704.24,footware,"Miller, Williams and Haney",window,2.17,96,2.9,6 months
+1580,AliceBlue,L,853.53,fancy,Robinson LLC,evening,7.72,29,4.8,6 months
+1581,MediumSeaGreen,XL,147.54,footware,"Anderson, Harrington and Jones",become,7.68,95,3.7,2 years
+1582,BurlyWood,S,411.17,kitchen,Krueger Group,gas,9.01,53,4.3,3 years
+1583,LightYellow,M,706.19,fancy,"Kelley, Arnold and Alvarado",before,6.79,47,1.0,2 years
+1584,SlateGray,S,273.97,watches,Johnson PLC,agreement,6.49,96,4.3,2 years
+1585,Lavender,M,278.92,watches,Garrett-Zimmerman,age,5.6,35,4.2,6 months
+1586,FireBrick,S,760.52,sport,Ware-Flores,tax,5.24,16,1.9,3 years
+1587,LightGoldenRodYellow,XL,959.35,fancy,"Gutierrez, Price and Fields",kitchen,6.53,53,3.9,6 months
+1588,MediumSlateBlue,L,204.11,watches,"Hunter, Munoz and Powell",nearly,1.82,99,3.7,2 years
+1589,HoneyDew,M,381.01,sport,Robinson Inc,support,3.76,35,4.7,6 months
+1590,Magenta,L,899.18,classic,Jenkins and Sons,support,8.96,52,2.6,1 year
+1591,OrangeRed,L,950.51,footware,Rollins-Mcdowell,study,2.69,83,3.5,2 years
+1592,Linen,L,741.87,sport,Lawson-Robinson,very,6.24,71,3.5,2 years
+1593,Moccasin,M,386.11,other,Fowler-Stanley,memory,8.12,5,2.9,2 years
+1594,PaleGreen,L,862.93,watches,Cuevas-Freeman,space,1.34,18,1.9,3 years
+1595,Gainsboro,M,46.82,classic,"Davis, Johnston and Velez",score,1.57,95,2.7,3 years
+1596,Brown,M,442.11,sport,Pennington-Thompson,recently,7.3,18,3.5,3 years
+1597,DarkRed,M,975.58,kitchen,Clark Ltd,none,0.92,80,4.3,2 years
+1598,SkyBlue,M,767.85,footware,Johnson-Martinez,trip,1.01,72,3.7,1 year
+1599,Gold,M,62.84,fancy,Leonard PLC,court,1.04,12,3.5,3 years
+1600,Crimson,M,168.48,classic,"Rodriguez, Petersen and Nelson",notice,2.15,81,1.8,3 years
+1601,Lime,L,178.7,other,"Robinson, Bradshaw and Berg",chance,1.76,32,3.7,6 months
+1602,FireBrick,L,312.39,classic,Torres-Torres,effect,5.48,93,3.3,2 years
+1603,Gray,XL,271.08,sport,Edwards-Underwood,pretty,1.15,68,3.1,6 months
+1604,GhostWhite,L,485.88,watches,Mendez-Moore,such,6.45,50,4.2,1 year
+1605,DarkSlateBlue,M,203.47,kitchen,"Brown, Mccormick and Bennett",soon,8.02,83,4.2,1 year
+1606,LightGreen,L,181.85,kitchen,"Ward, Hamilton and Clark",none,6.09,56,4.8,2 years
+1607,OldLace,L,189.07,kitchen,"Sullivan, Mays and Joseph",reach,8.79,51,2.7,6 months
+1608,Lavender,M,404.86,fancy,Garcia-Wagner,recognize,9.55,53,1.4,2 years
+1609,LightYellow,L,858.82,kitchen,Gordon-Mays,analysis,4.04,49,4.5,1 year
+1610,DarkGray,XL,309.97,other,Scott-Cunningham,manage,7.02,56,1.3,3 years
+1611,LightSlateGray,XL,52.22,fancy,"Sandoval, Diaz and Flores",parent,9.43,40,2.1,2 years
+1612,SlateGray,L,687.81,classic,Ayers and Sons,better,2.69,77,3.1,6 months
+1613,DarkBlue,S,339.23,kitchen,Baker-Jarvis,watch,5.6,52,3.1,6 months
+1614,SaddleBrown,M,13.95,fancy,James-Luna,customer,4.43,70,2.9,2 years
+1615,Sienna,S,35.88,other,Cook LLC,skill,3.13,79,3.1,2 years
+1616,Khaki,L,356.39,footware,"Jackson, Armstrong and Marsh",bill,3.32,2,1.8,1 year
+1617,Cornsilk,L,425.13,other,"Sloan, Hartman and Hurley",pass,6.22,42,4.6,6 months
+1618,SeaShell,S,869.65,other,Morgan and Sons,center,2.21,83,4.1,2 years
+1619,DarkKhaki,XL,345.84,fancy,Allen-Stokes,up,5.02,90,2.8,3 years
+1620,Pink,M,959.35,classic,Conner Ltd,later,4.07,61,1.7,3 years
+1621,DarkSlateBlue,M,607.48,classic,Baxter Inc,Congress,8.6,42,3.5,1 year
+1622,SandyBrown,S,137.92,kitchen,"Orozco, Garcia and Schroeder",manage,7.7,65,1.4,6 months
+1623,Plum,M,439.41,sport,Williams LLC,eat,9.75,52,4.5,2 years
+1624,DarkGreen,L,123.8,classic,Hart Ltd,why,1.64,27,3.5,6 months
+1625,SeaGreen,XL,338.7,footware,"Mays, Griffin and Berg",provide,7.21,2,3.8,3 years
+1626,NavajoWhite,XL,821.1,kitchen,Kelly and Sons,though,7.36,37,2.4,2 years
+1627,DarkTurquoise,M,903.99,kitchen,"Smith, Thompson and Beard",party,3.92,83,4.9,1 year
+1628,LawnGreen,S,115.31,other,Nelson-Norris,provide,8.69,29,1.8,3 years
+1629,Maroon,S,582.27,watches,"Gilbert, Grant and Sheppard",a,8.19,88,4.1,1 year
+1630,DarkOrange,S,870.83,kitchen,"Banks, Colon and Rose",security,6.14,76,2.5,6 months
+1631,WhiteSmoke,L,784.9,sport,"Graves, Simpson and Reid",help,7.5,93,1.1,3 years
+1632,Coral,S,420.36,sport,Simpson and Sons,hold,2.87,51,1.1,3 years
+1633,AntiqueWhite,M,193.65,footware,Anderson Group,design,8.57,42,4.8,1 year
+1634,DarkKhaki,M,214.74,other,Gardner-Lopez,data,6.1,92,2.6,3 years
+1635,DarkBlue,XL,364.82,sport,Curtis-Goodman,nature,6.78,51,2.4,1 year
+1636,LightCoral,M,618.55,kitchen,Garcia LLC,notice,1.38,27,2.5,3 years
+1637,LightCyan,M,636.29,sport,Fernandez PLC,newspaper,6.19,6,4.2,6 months
+1638,LightBlue,S,789.5,kitchen,Stokes-Friedman,response,6.79,65,3.9,6 months
+1639,LawnGreen,XL,160.03,other,Mcconnell Inc,people,6.79,56,1.9,3 years
+1640,Orchid,L,608.99,other,Blevins-Roth,pattern,0.92,75,4.0,6 months
+1641,DarkSlateBlue,XL,763.43,classic,Watson Inc,run,6.0,42,2.1,1 year
+1642,Wheat,XL,542.22,sport,"Mcknight, Smith and Clay",most,8.3,62,1.5,2 years
+1643,Olive,L,826.29,watches,Hansen Inc,consider,2.95,28,4.7,1 year
+1644,DimGray,S,637.11,sport,Dunlap Group,something,3.7,1,3.5,1 year
+1645,GhostWhite,XL,802.44,kitchen,"Kirk, Taylor and Smith",technology,7.24,24,2.0,6 months
+1646,Blue,S,387.34,classic,"Williams, Berry and Dickerson",for,5.3,89,4.2,6 months
+1647,DarkGray,XL,707.0,fancy,"Peck, Mills and Rodriguez",back,7.23,30,1.4,3 years
+1648,SteelBlue,M,80.24,sport,"Nelson, Singh and Hines",visit,8.81,17,2.8,2 years
+1649,Chocolate,M,229.96,other,"Hood, Ortega and Salazar",memory,8.88,98,3.1,2 years
+1650,LemonChiffon,L,814.56,classic,"Finley, Arias and Johnson",manager,7.2,81,3.6,6 months
+1651,WhiteSmoke,S,424.8,kitchen,Williams-Thornton,task,8.49,43,2.6,6 months
+1652,Blue,XL,55.74,footware,Zamora-Mcgee,member,4.08,80,4.9,2 years
+1653,PowderBlue,XL,425.12,sport,"Garcia, Graham and Lynn",fish,4.43,80,3.3,1 year
+1654,LightSlateGray,S,655.09,watches,Griffin-Massey,remember,3.87,21,4.1,1 year
+1655,LawnGreen,S,145.73,footware,Conner Group,later,8.07,22,4.1,1 year
+1656,GoldenRod,XL,788.63,fancy,Ward-Wilson,send,5.99,47,1.3,3 years
+1657,Beige,S,736.36,watches,Price-Carroll,loss,4.51,51,3.0,2 years
+1658,BlueViolet,M,552.51,watches,Roach Ltd,month,8.75,77,2.9,3 years
+1659,Aqua,M,624.75,watches,"Thompson, Williams and Gilbert",issue,0.96,39,3.5,1 year
+1660,CadetBlue,XL,915.58,sport,Scott-Bell,capital,5.72,82,4.8,2 years
+1661,Khaki,XL,867.83,watches,"Stokes, Whitehead and Swanson",own,1.43,37,3.6,6 months
+1662,PaleGoldenRod,M,438.89,sport,Barnes Inc,far,4.34,91,4.6,2 years
+1663,DeepSkyBlue,M,656.59,fancy,Bishop Group,crime,0.64,45,2.2,1 year
+1664,AliceBlue,L,762.24,classic,Avery-Brown,experience,6.77,31,2.6,6 months
+1665,MediumSeaGreen,XL,937.73,classic,"Holmes, Montoya and Cook",able,5.87,36,2.6,1 year
+1666,MidnightBlue,L,307.22,sport,Little-Hoffman,person,5.01,39,4.5,1 year
+1667,Brown,S,794.91,fancy,Anderson-Evans,event,9.3,4,1.2,2 years
+1668,MediumTurquoise,M,968.05,fancy,Campbell-Lee,chair,4.33,34,1.5,3 years
+1669,Moccasin,L,704.38,other,Cooper Inc,Democrat,5.75,65,3.6,1 year
+1670,Brown,M,370.77,classic,Figueroa-Anderson,practice,8.97,74,1.2,3 years
+1671,MediumOrchid,M,727.59,kitchen,"Lam, Keller and Leonard",begin,3.1,86,2.2,1 year
+1672,YellowGreen,M,519.68,classic,"Reed, Rodriguez and Brock",responsibility,3.88,84,1.2,3 years
+1673,BlanchedAlmond,L,482.04,watches,Sanchez-Mitchell,sound,6.04,8,4.5,3 years
+1674,DodgerBlue,XL,583.55,watches,"Jones, Johnson and Tran",seek,6.68,86,1.3,2 years
+1675,DodgerBlue,S,359.08,classic,Bernard LLC,medical,4.75,61,1.1,2 years
+1676,Ivory,M,635.67,watches,Salazar-Winters,industry,7.53,35,1.7,2 years
+1677,GreenYellow,M,776.91,sport,"Green, Bailey and Gray",describe,5.46,29,4.8,6 months
+1678,Red,M,199.9,sport,Alvarado Group,reach,5.39,91,1.4,2 years
+1679,Gray,L,678.03,classic,Fischer-Terry,hair,6.52,75,3.9,3 years
+1680,DarkSlateGray,L,591.36,kitchen,Davis and Sons,claim,2.56,26,4.7,1 year
+1681,MidnightBlue,XL,964.64,kitchen,Rogers Inc,same,4.83,79,4.7,6 months
+1682,LavenderBlush,L,746.87,other,"Rivera, Meadows and Hester",challenge,4.37,33,1.1,6 months
+1683,Pink,XL,904.33,fancy,Griffin-Henson,teacher,3.37,4,2.1,6 months
+1684,AliceBlue,M,347.64,footware,Thomas LLC,heart,5.77,66,4.6,6 months
+1685,Bisque,L,551.78,other,Bates PLC,answer,5.51,79,3.6,3 years
+1686,HotPink,M,415.74,fancy,Mitchell-Hale,trip,9.8,88,4.6,1 year
+1687,LimeGreen,L,600.16,classic,"Little, Peterson and Holmes",three,0.65,33,5.0,3 years
+1688,Pink,S,336.88,other,Johnson and Sons,issue,1.47,70,4.3,1 year
+1689,Moccasin,L,983.12,sport,Short-Hughes,somebody,6.75,54,2.5,1 year
+1690,PowderBlue,S,827.23,footware,Jones Inc,will,9.73,46,4.8,2 years
+1691,FireBrick,M,474.64,classic,Clark-Rodriguez,social,2.62,39,2.6,6 months
+1692,SteelBlue,S,259.37,watches,"Turner, Rojas and Morris",hard,0.79,93,3.6,6 months
+1693,DarkTurquoise,L,775.95,kitchen,Anderson PLC,play,6.21,69,2.7,2 years
+1694,Sienna,S,179.18,footware,Christian-Ray,color,4.85,97,3.5,1 year
+1695,Thistle,XL,461.35,sport,"Clark, Gray and Salazar",commercial,2.06,14,2.3,2 years
+1696,Orange,XL,117.58,fancy,Stanley LLC,catch,7.49,74,1.8,1 year
+1697,ForestGreen,L,92.73,footware,"Rivera, Turner and Trevino",two,5.63,71,3.3,6 months
+1698,SpringGreen,L,534.1,sport,"Salinas, Jones and Calderon",anyone,9.03,31,1.2,2 years
+1699,DarkTurquoise,S,159.78,sport,"Morrison, Ford and Davis",best,3.93,80,3.6,6 months
+1700,Gainsboro,XL,505.47,other,Burns and Sons,friend,9.27,62,4.6,3 years
+1701,Brown,S,969.78,kitchen,"Ryan, Reyes and Saunders",firm,3.05,64,1.3,6 months
+1702,SandyBrown,S,301.57,watches,Thomas and Sons,group,1.98,89,4.6,3 years
+1703,OrangeRed,M,927.94,footware,Tran Group,environmental,1.23,81,3.3,1 year
+1704,Cyan,M,343.37,sport,"Knight, Huffman and Green",scientist,6.46,58,3.4,3 years
+1705,PaleVioletRed,M,729.16,watches,Jordan and Sons,your,6.22,5,4.5,6 months
+1706,SandyBrown,S,714.11,kitchen,Harris-Cook,sometimes,8.56,83,1.2,3 years
+1707,PaleGreen,M,168.99,footware,Smith-Castaneda,last,3.27,63,4.1,6 months
+1708,LightPink,M,616.31,sport,"Knight, Jordan and Johnson",white,9.94,67,4.2,6 months
+1709,Violet,S,89.62,classic,"Martin, Hanna and Johnson",another,8.95,71,4.4,6 months
+1710,Khaki,L,89.54,kitchen,Wong Inc,these,5.13,6,4.1,1 year
+1711,OldLace,M,886.55,other,Bridges Ltd,figure,8.05,13,1.3,1 year
+1712,Red,S,276.09,fancy,"Young, Martinez and Moon",memory,3.18,87,2.1,3 years
+1713,Crimson,XL,308.9,watches,Jones Group,inside,9.12,36,4.8,3 years
+1714,Ivory,XL,773.26,footware,Warren and Sons,hair,4.36,7,3.8,3 years
+1715,Chocolate,M,561.53,watches,Jones-Murray,step,1.68,17,2.3,3 years
+1716,FloralWhite,S,242.34,classic,Santos-White,surface,2.56,29,4.8,6 months
+1717,Chartreuse,M,607.99,other,Taylor PLC,industry,2.68,89,2.0,6 months
+1718,DarkViolet,XL,715.65,watches,Mathis-Johnston,grow,2.14,95,2.8,3 years
+1719,Gainsboro,S,932.63,kitchen,Valencia Ltd,scientist,2.02,54,3.8,6 months
+1720,IndianRed,XL,202.51,classic,Lopez Ltd,court,8.43,89,2.2,6 months
+1721,Brown,XL,506.72,fancy,"Wilson, Hickman and Curtis",performance,4.38,85,1.0,3 years
+1722,Snow,S,198.81,kitchen,"Watson, Mccarthy and Peck",son,1.42,78,1.8,1 year
+1723,SpringGreen,XL,958.52,watches,Salinas-Nelson,happy,1.0,35,4.5,2 years
+1724,MediumOrchid,M,15.36,fancy,Williams-Rodriguez,accept,9.31,86,4.3,1 year
+1725,DarkGray,L,454.94,other,Macdonald Ltd,hold,6.72,80,1.4,6 months
+1726,SpringGreen,S,225.1,other,Miller-Wilson,effect,9.27,42,3.3,3 years
+1727,Gold,M,30.01,other,"Garcia, Spears and Perez",change,8.01,98,4.7,1 year
+1728,DeepSkyBlue,S,812.99,classic,"Malone, Robinson and Rollins",really,5.36,85,2.5,1 year
+1729,YellowGreen,XL,223.26,fancy,Frey Inc,guy,0.9,59,2.7,6 months
+1730,Plum,S,479.18,sport,"Black, Mooney and Graham",modern,9.43,37,3.3,3 years
+1731,Yellow,L,912.16,kitchen,"Singleton, Peters and Campbell",focus,6.44,34,3.0,2 years
+1732,Gray,L,330.79,fancy,Shah Group,each,9.16,34,2.9,2 years
+1733,MediumSpringGreen,L,799.77,footware,"Henry, Frederick and Aguilar",wonder,9.78,75,4.4,6 months
+1734,MediumSlateBlue,L,287.26,footware,"Perkins, George and Graves",also,6.7,58,1.7,3 years
+1735,Ivory,XL,645.31,fancy,Holmes-Noble,say,4.32,31,3.6,2 years
+1736,Crimson,S,962.5,classic,"Norris, Oneill and Buchanan",feeling,5.74,16,3.7,2 years
+1737,DarkOrchid,XL,704.43,fancy,Thompson-Deleon,catch,3.36,14,3.7,3 years
+1738,SaddleBrown,L,811.18,footware,Miller PLC,spring,5.18,30,1.7,1 year
+1739,PeachPuff,XL,661.31,footware,Williams-Shepherd,each,0.76,70,2.6,3 years
+1740,FloralWhite,L,386.13,watches,Chambers PLC,whom,8.67,28,5.0,1 year
+1741,Lime,M,398.08,watches,"Nixon, Rodriguez and Mcdowell",most,5.46,81,2.9,2 years
+1742,Tan,L,854.86,classic,Sanchez LLC,major,6.64,9,2.5,6 months
+1743,Yellow,L,167.6,kitchen,Bradley and Sons,fly,0.9,80,4.4,1 year
+1744,DarkRed,S,796.8,sport,"Mcbride, Booker and Porter",letter,5.92,22,1.2,2 years
+1745,PowderBlue,L,988.74,kitchen,"Calderon, Turner and Jenkins",affect,1.1,8,2.8,2 years
+1746,DarkSlateBlue,XL,980.21,fancy,Holt Ltd,policy,7.69,25,2.5,3 years
+1747,SteelBlue,S,929.74,footware,Carlson-Brown,result,7.23,77,3.6,1 year
+1748,OldLace,L,682.9,sport,Olson-Martinez,by,8.32,48,2.5,2 years
+1749,DarkTurquoise,S,60.21,other,Thomas Ltd,probably,8.24,21,2.0,1 year
+1750,DarkGoldenRod,M,672.73,kitchen,Cruz-Villegas,city,0.75,15,3.6,3 years
+1751,Fuchsia,S,120.85,sport,Lam LLC,director,5.66,56,4.5,6 months
+1752,Khaki,L,818.65,classic,Morse-Lambert,record,6.82,57,4.8,3 years
+1753,Moccasin,XL,945.22,watches,Jones-Lee,tree,5.65,88,4.4,6 months
+1754,Purple,L,627.16,kitchen,Cruz-Garcia,although,1.82,34,3.6,1 year
+1755,DeepSkyBlue,L,640.34,watches,"Adams, Stout and Frazier",money,9.35,30,4.0,6 months
+1756,Linen,L,406.68,footware,Patterson PLC,herself,1.17,55,3.9,1 year
+1757,LemonChiffon,M,817.23,footware,Robinson Inc,leader,9.22,23,4.6,3 years
+1758,LavenderBlush,M,875.47,footware,Fernandez Inc,late,6.92,54,1.2,2 years
+1759,FireBrick,S,768.34,classic,Valentine-Kim,she,6.21,37,1.4,1 year
+1760,Moccasin,XL,10.01,classic,Watkins-Ochoa,morning,3.93,62,3.5,3 years
+1761,LightSeaGreen,L,896.04,other,"Williams, Carroll and Brown",face,6.55,99,1.8,6 months
+1762,Fuchsia,S,449.14,classic,Cruz LLC,writer,2.42,71,2.5,1 year
+1763,Red,XL,683.17,footware,Graves-Donovan,where,8.89,58,3.1,6 months
+1764,PaleGreen,M,140.79,classic,Bradley and Sons,parent,9.9,88,4.5,6 months
+1765,DodgerBlue,L,764.62,footware,"Peterson, Daniels and Hoover",front,9.68,53,3.8,3 years
+1766,FloralWhite,XL,622.82,kitchen,Taylor Group,operation,6.43,11,1.2,3 years
+1767,DarkSeaGreen,M,803.45,fancy,Lopez PLC,down,2.3,54,4.6,3 years
+1768,OliveDrab,XL,707.02,classic,Davidson-Adams,blood,4.18,40,1.5,6 months
+1769,Tan,L,734.49,sport,Gray and Sons,open,1.23,79,3.2,1 year
+1770,Olive,S,565.4,fancy,Brown-Freeman,because,2.02,21,1.4,2 years
+1771,Orchid,M,230.37,kitchen,"Hudson, Christensen and Mack",glass,6.57,60,2.2,1 year
+1772,DarkGreen,M,516.67,classic,"Lawrence, Torres and Wright",science,3.96,8,2.0,2 years
+1773,Green,L,97.34,fancy,Payne-Boyle,administration,7.96,98,1.2,3 years
+1774,MediumAquaMarine,XL,915.73,classic,Taylor Group,identify,3.94,21,1.7,3 years
+1775,Linen,S,109.28,kitchen,Jones Inc,contain,7.55,71,2.4,3 years
+1776,White,XL,531.31,sport,Rivera-Walters,nearly,1.74,71,4.7,2 years
+1777,WhiteSmoke,L,355.52,other,"Mason, Sullivan and Cowan",across,4.71,9,3.8,1 year
+1778,AntiqueWhite,XL,615.34,footware,Davis-Henderson,central,9.3,37,4.2,3 years
+1779,DarkKhaki,XL,589.42,watches,Johnson-Gordon,water,7.94,77,2.1,2 years
+1780,MistyRose,S,594.38,watches,Owens Group,open,5.6,14,3.0,1 year
+1781,SlateBlue,S,847.49,other,"Walsh, Cole and Floyd",save,0.69,16,2.7,6 months
+1782,AntiqueWhite,XL,137.22,watches,"Young, Gonzales and Casey",area,6.65,70,2.3,3 years
+1783,Gray,XL,784.16,classic,"Moon, Davis and Byrd",test,7.98,34,1.7,1 year
+1784,PaleGreen,M,181.83,footware,Wong LLC,answer,6.35,6,4.7,3 years
+1785,DarkOrchid,L,578.39,footware,"Mcmahon, Thompson and Salazar",himself,8.95,29,5.0,6 months
+1786,Ivory,S,834.52,footware,Wilson-Murphy,soon,3.99,8,3.5,3 years
+1787,DarkOrange,S,461.45,footware,Perez LLC,skin,8.53,97,4.6,6 months
+1788,FloralWhite,L,521.7,classic,"Thompson, Evans and Green",prevent,8.0,19,3.0,6 months
+1789,PapayaWhip,S,824.37,classic,"Robinson, James and Nelson",create,6.0,11,4.6,6 months
+1790,DarkOrange,L,145.79,sport,Marks-Newton,defense,7.8,100,2.2,6 months
+1791,DarkOrange,M,925.84,watches,"Edwards, Frey and Morris",will,8.3,79,3.2,1 year
+1792,SpringGreen,M,532.73,classic,Howard-Cooke,detail,6.88,81,5.0,2 years
+1793,IndianRed,M,438.44,sport,Manning Inc,garden,4.11,37,3.9,3 years
+1794,PaleVioletRed,XL,466.72,classic,Freeman-Lee,rate,1.32,28,4.9,3 years
+1795,BlueViolet,M,252.68,other,Reese-Rodriguez,owner,5.99,92,4.9,2 years
+1796,DarkBlue,M,228.4,watches,Anderson Inc,she,7.66,16,1.1,1 year
+1797,Cornsilk,S,837.81,watches,Barnes-Hampton,leave,6.33,86,3.9,1 year
+1798,Lavender,XL,909.92,fancy,Cummings-West,democratic,4.55,99,1.0,3 years
+1799,DarkMagenta,XL,923.63,other,Alvarado-Bailey,under,8.9,81,4.9,1 year
+1800,PaleTurquoise,M,879.98,other,Phillips-Wallace,discover,0.57,70,4.8,3 years
+1801,ForestGreen,L,232.42,fancy,"Wiggins, Shaw and Whitehead",cut,6.87,11,2.1,1 year
+1802,YellowGreen,S,329.14,other,"Ortiz, Romero and Poole",character,1.56,65,3.7,2 years
+1803,Pink,XL,634.29,classic,"Rivera, Blair and Johnson",majority,1.66,95,4.3,2 years
+1804,OrangeRed,M,108.42,kitchen,"Sanchez, Johnson and Smith",later,6.08,92,4.2,2 years
+1805,Azure,M,130.74,other,"Santos, Tyler and Hall",box,6.21,22,3.1,6 months
+1806,LightYellow,L,91.57,footware,Ortiz-Allen,their,7.65,42,3.7,3 years
+1807,White,XL,217.97,sport,Anderson Ltd,but,5.52,17,3.6,3 years
+1808,Brown,M,163.96,classic,Horton and Sons,impact,2.7,26,4.0,1 year
+1809,Ivory,S,301.01,kitchen,Morton-Lopez,which,5.24,81,3.0,6 months
+1810,Moccasin,XL,176.91,kitchen,Bullock LLC,while,5.01,31,1.4,6 months
+1811,DarkOliveGreen,M,506.39,footware,"Stuart, Villarreal and Delacruz",major,6.06,54,2.7,6 months
+1812,LightSeaGreen,L,390.03,classic,Jackson and Sons,audience,1.27,35,2.5,6 months
+1813,Brown,M,657.38,classic,Munoz-Martinez,model,4.55,84,1.9,3 years
+1814,SteelBlue,XL,99.03,kitchen,Gonzales-Brown,couple,6.13,41,4.6,1 year
+1815,Cornsilk,L,186.2,fancy,James-Sanford,society,6.63,80,3.8,3 years
+1816,Maroon,L,690.25,footware,Adams-Villarreal,think,7.29,37,2.1,2 years
+1817,NavajoWhite,XL,946.12,watches,Wise-Gardner,north,3.62,81,4.1,6 months
+1818,LightGray,S,38.06,footware,Rodriguez-Stanley,spring,2.45,81,3.6,1 year
+1819,LightSalmon,XL,290.83,sport,Wolfe-Herrera,away,4.73,29,3.2,1 year
+1820,DarkMagenta,M,798.81,other,Walton Group,break,2.66,96,3.8,2 years
+1821,MediumTurquoise,XL,337.34,fancy,"Morris, Delacruz and Waller",whom,7.19,61,4.3,6 months
+1822,FloralWhite,L,313.19,classic,Cabrera-Leach,stay,0.55,53,3.5,3 years
+1823,SaddleBrown,M,740.16,sport,Martin-Olson,bill,2.6,70,1.3,2 years
+1824,DarkTurquoise,XL,419.56,classic,Harrison Group,and,1.29,55,2.4,3 years
+1825,OliveDrab,S,590.08,watches,Wong Ltd,music,1.2,14,1.5,1 year
+1826,GhostWhite,XL,967.69,kitchen,Maxwell-Marsh,ground,4.34,89,1.8,3 years
+1827,MidnightBlue,M,426.42,footware,"Smith, Cummings and Wilson",security,9.91,31,2.3,2 years
+1828,DodgerBlue,M,954.24,footware,Gregory-Santana,building,7.05,65,4.6,2 years
+1829,AntiqueWhite,S,393.76,classic,Hopkins-Soto,series,3.44,16,1.7,3 years
+1830,Tan,L,970.13,footware,Smith LLC,reveal,6.79,97,1.6,6 months
+1831,Tan,XL,387.08,classic,Moon PLC,again,1.37,37,3.3,2 years
+1832,PaleTurquoise,XL,189.12,sport,"Carter, Prince and Sutton",official,8.19,10,3.9,2 years
+1833,MediumTurquoise,L,601.79,kitchen,Vega-York,two,7.82,66,3.3,3 years
+1834,OrangeRed,XL,968.65,watches,"Avila, Wilkinson and Barker",option,8.05,16,4.3,1 year
+1835,Fuchsia,L,170.79,footware,Ali LLC,turn,2.53,76,1.6,1 year
+1836,DarkRed,M,191.62,classic,Osborne and Sons,establish,4.66,33,2.3,3 years
+1837,RoyalBlue,S,365.17,kitchen,Terry-Clark,light,9.18,78,4.0,3 years
+1838,Black,XL,307.45,sport,"Crawford, Smith and Greene",model,2.96,33,1.3,2 years
+1839,Cyan,S,944.57,other,"Tucker, Davis and Campbell",education,8.29,90,2.2,1 year
+1840,WhiteSmoke,M,190.6,watches,"Page, Adams and Washington",cut,7.61,40,2.1,6 months
+1841,DeepSkyBlue,S,785.12,kitchen,Wright LLC,instead,5.3,90,4.4,3 years
+1842,LightGray,M,681.61,watches,Thompson-Johnson,show,9.26,90,3.5,3 years
+1843,MediumPurple,XL,498.44,classic,"Bartlett, Moon and Gomez",since,4.52,8,3.7,6 months
+1844,PapayaWhip,L,193.24,sport,Whitaker-Martinez,whom,4.45,42,3.9,2 years
+1845,Wheat,M,911.01,footware,Craig PLC,charge,8.27,53,1.9,1 year
+1846,DarkSlateGray,L,432.57,watches,Soto and Sons,activity,7.17,32,3.8,6 months
+1847,LightGoldenRodYellow,XL,564.95,fancy,"Fernandez, Stewart and Spencer",of,8.46,55,2.7,3 years
+1848,Khaki,M,493.1,footware,Graham PLC,role,0.71,89,1.8,6 months
+1849,Peru,S,770.43,watches,"Duran, Baird and Hall",manage,3.83,1,1.1,6 months
+1850,SlateGray,S,135.4,other,Rodriguez PLC,draw,3.37,89,1.4,3 years
+1851,MidnightBlue,S,377.15,other,Williams PLC,radio,6.1,73,3.2,6 months
+1852,CadetBlue,S,736.15,other,"Moreno, Hamilton and Bauer",get,9.24,43,4.3,6 months
+1853,DarkKhaki,XL,992.63,sport,"Martin, Lee and Wilkinson",happen,3.06,18,4.9,2 years
+1854,SlateGray,M,652.04,sport,Williams-Taylor,whom,5.31,25,4.1,6 months
+1855,Chocolate,M,65.34,other,Cox-Knight,method,7.55,73,4.9,2 years
+1856,DeepPink,S,438.09,fancy,Anderson-Allen,he,6.32,14,4.0,1 year
+1857,DarkTurquoise,M,357.91,fancy,Chan-Glover,somebody,2.19,40,1.3,6 months
+1858,CornflowerBlue,L,72.74,footware,Williams-Miller,enjoy,5.34,15,3.2,3 years
+1859,MediumTurquoise,L,372.76,fancy,Harvey Group,across,5.61,98,1.7,6 months
+1860,DarkCyan,XL,777.18,kitchen,Conley-Vargas,ever,3.41,36,1.9,2 years
+1861,DarkOliveGreen,M,84.23,other,Williams-Ferrell,sign,5.44,54,2.1,2 years
+1862,Orange,M,238.38,sport,"Sharp, Stevens and Parker",report,3.82,55,1.5,1 year
+1863,Plum,L,359.56,classic,Perez-Ward,reality,4.07,6,2.6,2 years
+1864,MidnightBlue,S,543.94,kitchen,"Compton, Davenport and Scott",purpose,6.51,20,4.2,2 years
+1865,MistyRose,S,262.82,footware,"Lee, Jones and David",know,2.6,93,2.5,1 year
+1866,WhiteSmoke,S,532.67,sport,Scott-Cruz,themselves,8.09,16,1.8,6 months
+1867,Magenta,L,546.62,classic,Mercado LLC,series,9.76,64,3.9,6 months
+1868,LightPink,L,877.95,other,"Myers, Lewis and Johnson",truth,6.17,9,1.5,3 years
+1869,LightSalmon,M,852.16,fancy,Campos-Walker,technology,1.12,86,3.3,1 year
+1870,Beige,M,114.71,watches,Mullins PLC,performance,7.71,27,3.3,1 year
+1871,GoldenRod,XL,670.81,watches,"Blevins, Cortez and Mueller",back,4.06,94,3.1,1 year
+1872,LightSeaGreen,S,405.78,kitchen,"Shields, Wilson and Jackson",edge,7.45,49,1.3,6 months
+1873,LightSkyBlue,XL,147.79,fancy,"Henry, Mercer and Brown",letter,9.53,66,1.0,1 year
+1874,DeepSkyBlue,L,455.97,classic,Hall LLC,development,2.43,77,4.7,6 months
+1875,Ivory,S,666.56,other,Dixon Group,executive,6.25,29,4.6,3 years
+1876,FireBrick,S,286.87,fancy,Mccann and Sons,hope,9.35,55,4.5,1 year
+1877,MediumVioletRed,XL,980.63,kitchen,Ross-Valdez,nature,1.87,10,2.9,1 year
+1878,SaddleBrown,S,311.91,footware,Harris and Sons,marriage,2.07,14,4.5,2 years
+1879,PaleTurquoise,S,22.33,classic,"Guerrero, Conner and Hill",still,8.85,8,1.1,6 months
+1880,DodgerBlue,M,52.55,footware,"Brown, Shaffer and James",set,0.89,18,3.3,2 years
+1881,DarkRed,XL,621.09,fancy,"Gray, Lee and Keller",expect,3.47,17,1.2,1 year
+1882,Brown,XL,116.53,fancy,"Santos, Bullock and Carpenter",ground,9.3,96,1.8,2 years
+1883,LightSteelBlue,M,235.53,footware,Edwards-Wilson,now,7.52,62,2.7,2 years
+1884,BlueViolet,M,12.85,classic,Finley-Wagner,laugh,1.76,98,3.4,6 months
+1885,DarkBlue,L,448.33,classic,Turner-Torres,rate,0.79,52,3.1,3 years
+1886,YellowGreen,L,153.73,footware,Moore PLC,you,7.39,31,4.2,2 years
+1887,Magenta,L,289.02,watches,Acosta-Allen,south,1.3,30,4.3,2 years
+1888,LemonChiffon,XL,501.97,sport,Hayes-Harris,word,8.17,91,1.1,6 months
+1889,Indigo,M,469.64,sport,"Brown, Hart and Walker",election,9.2,73,2.8,2 years
+1890,Salmon,XL,392.84,fancy,Mendoza-Wood,across,4.18,35,3.3,3 years
+1891,DarkKhaki,XL,839.62,sport,Taylor Inc,president,7.6,68,2.2,2 years
+1892,PaleVioletRed,M,649.39,other,Robinson Inc,born,7.56,8,2.8,2 years
+1893,Fuchsia,M,602.26,watches,"Bowman, Howard and Holmes",in,2.42,58,1.5,6 months
+1894,Wheat,XL,156.73,classic,"Wright, Moore and Simmons",after,1.55,98,2.3,1 year
+1895,BlanchedAlmond,M,239.95,footware,Shaffer-Baker,last,3.61,75,1.4,2 years
+1896,LightGray,M,462.21,footware,Perry-Anderson,family,3.92,68,4.4,1 year
+1897,Blue,L,511.86,fancy,Payne PLC,deep,2.89,53,2.5,6 months
+1898,GoldenRod,M,120.72,sport,"Sparks, Underwood and Bowers",data,0.59,32,1.4,6 months
+1899,Red,S,922.85,sport,Kim-Jones,high,9.42,29,1.2,6 months
+1900,DarkKhaki,L,547.31,fancy,Lyons-Bond,account,0.54,67,3.5,1 year
+1901,Tomato,M,732.2,footware,Pope LLC,head,7.4,54,2.8,3 years
+1902,PaleGreen,L,767.53,classic,"Jordan, Cox and Miller",until,9.08,18,3.5,1 year
+1903,Cornsilk,S,819.88,watches,Hall-Davis,adult,6.45,47,4.0,2 years
+1904,Peru,XL,750.62,fancy,"Hernandez, Moody and Horn",forward,9.17,38,3.0,3 years
+1905,DarkTurquoise,S,394.44,other,Ward-Morales,candidate,6.25,84,3.1,1 year
+1906,Salmon,S,47.95,other,Owens-Sanchez,appear,4.15,1,4.8,2 years
+1907,Yellow,XL,941.43,classic,"Hernandez, Schwartz and Hall",perform,1.35,61,2.9,1 year
+1908,MediumAquaMarine,M,464.42,classic,Rogers Ltd,message,4.03,75,3.5,2 years
+1909,SaddleBrown,XL,287.23,classic,Scott-Russell,institution,9.99,4,3.0,2 years
+1910,Orange,S,505.82,other,Bryant-Garcia,beyond,1.16,74,4.8,6 months
+1911,Turquoise,M,166.94,footware,"Robinson, Turner and Thomas",money,0.74,64,3.8,6 months
+1912,Olive,M,635.05,watches,"Ruiz, Robinson and Rojas",accept,8.19,39,3.7,6 months
+1913,Green,L,907.3,kitchen,"Wood, Roberts and Duncan",national,9.86,12,2.0,2 years
+1914,DarkSalmon,L,695.4,watches,Gardner-Estrada,hospital,4.83,54,2.3,1 year
+1915,SeaShell,XL,932.81,classic,Hill-Wallace,point,5.9,54,3.2,2 years
+1916,OldLace,S,314.58,footware,Payne LLC,environment,9.38,21,3.5,6 months
+1917,MediumSeaGreen,M,598.24,footware,"Anderson, Mcclain and Ryan",somebody,5.41,47,4.6,6 months
+1918,DarkSlateBlue,XL,107.38,fancy,"Ryan, Miller and Martinez",close,3.01,47,3.4,1 year
+1919,WhiteSmoke,L,297.1,classic,"Smith, Gonzalez and Gonzalez",media,0.58,72,4.1,2 years
+1920,OliveDrab,L,584.86,watches,Adams-Woodard,room,8.83,20,3.4,3 years
+1921,PowderBlue,XL,356.49,fancy,Willis Group,particular,0.84,23,2.7,6 months
+1922,Orchid,M,48.51,watches,Zimmerman-Richardson,performance,6.27,51,4.6,2 years
+1923,HoneyDew,S,295.79,sport,"Cooley, Martinez and Rios",money,3.27,37,1.1,3 years
+1924,LightSkyBlue,M,922.66,watches,"Poole, Daniels and Espinoza",we,3.16,43,1.0,6 months
+1925,Orchid,S,12.29,watches,Tate-Moran,simply,7.63,18,2.7,3 years
+1926,Tomato,L,934.13,kitchen,Bryant and Sons,prepare,7.22,15,3.9,3 years
+1927,HoneyDew,S,13.22,watches,Murphy-Mclean,phone,7.1,48,2.7,2 years
+1928,PaleVioletRed,XL,572.33,sport,"Calhoun, Thompson and Wells",themselves,4.18,21,2.6,3 years
+1929,Fuchsia,S,794.91,footware,Green-Shaw,record,4.8,2,1.3,2 years
+1930,Magenta,S,644.52,kitchen,"Taylor, Graham and Wright",control,2.26,39,1.5,1 year
+1931,SeaGreen,XL,747.06,other,Perkins-Carey,great,2.01,2,4.0,1 year
+1932,Pink,XL,206.23,footware,Alvarez Group,during,5.34,9,3.7,6 months
+1933,Cornsilk,S,800.34,sport,Robinson and Sons,toward,7.24,64,1.4,3 years
+1934,LightSeaGreen,M,403.42,classic,"Thompson, Neal and Carlson",reason,8.29,48,2.8,1 year
+1935,Cornsilk,XL,558.41,classic,"Simpson, Nelson and Young",president,9.84,90,3.6,1 year
+1936,Cyan,S,377.8,sport,"Ruiz, Weber and Arias",strategy,6.05,83,1.9,2 years
+1937,LemonChiffon,L,565.97,sport,Craig-Davis,turn,7.98,65,1.7,6 months
+1938,CornflowerBlue,M,154.37,kitchen,"Aguirre, Goodwin and Payne",decide,9.35,82,1.5,2 years
+1939,Silver,L,171.88,fancy,Graves-Clark,happy,7.02,13,2.2,6 months
+1940,LightYellow,M,845.6,sport,"White, Madden and Williams",floor,6.62,75,1.4,1 year
+1941,LightSlateGray,L,280.37,fancy,Leonard LLC,never,6.88,41,4.2,6 months
+1942,Aquamarine,L,703.86,classic,"Smith, Rodriguez and Collier",discover,6.21,76,4.5,2 years
+1943,BlanchedAlmond,S,459.28,other,Perez-Alexander,old,5.43,3,2.6,3 years
+1944,Snow,L,896.26,sport,Barker LLC,yard,4.93,15,3.9,3 years
+1945,Beige,XL,699.03,sport,Hays Ltd,hundred,4.97,77,4.8,1 year
+1946,DarkCyan,M,172.57,sport,Cooper Inc,contain,1.97,67,4.8,1 year
+1947,DodgerBlue,S,441.41,sport,Erickson LLC,body,4.59,92,2.4,3 years
+1948,Sienna,L,597.8,kitchen,Gillespie-Fletcher,national,2.76,18,4.7,3 years
+1949,Peru,L,925.6,fancy,Cook Ltd,near,3.02,86,4.2,1 year
+1950,Khaki,S,881.66,sport,Smith and Sons,outside,7.31,75,2.7,3 years
+1951,DarkSlateGray,M,104.19,watches,"Cruz, Gutierrez and Anderson",read,5.49,33,1.5,6 months
+1952,DarkGoldenRod,S,666.36,watches,Brown and Sons,while,2.24,89,4.0,3 years
+1953,GhostWhite,S,573.8,watches,Garcia Group,operation,8.33,35,4.7,1 year
+1954,SlateBlue,M,743.19,other,"Delgado, Berg and Merritt",despite,7.64,18,2.2,2 years
+1955,Snow,S,340.37,fancy,Carter PLC,under,4.65,23,2.0,6 months
+1956,OliveDrab,XL,122.77,footware,Jackson-Stafford,order,7.11,51,3.7,1 year
+1957,WhiteSmoke,S,731.42,other,Porter-Robinson,their,9.45,76,1.4,1 year
+1958,Purple,S,157.25,other,"Sweeney, Harmon and Stafford",to,4.43,62,2.0,2 years
+1959,SpringGreen,L,926.66,kitchen,Lawrence-Johnson,organization,4.27,65,1.0,6 months
+1960,DarkOrange,XL,764.6,footware,"Gutierrez, Murillo and Baker",across,2.85,21,3.7,2 years
+1961,SeaShell,L,146.84,classic,"Williams, Lee and Mcbride",meet,8.96,74,4.6,6 months
+1962,MediumPurple,S,852.39,sport,Kelly-Miller,soon,4.47,34,3.7,2 years
+1963,Orange,S,668.96,fancy,Johnston-Anderson,bank,8.06,45,2.8,2 years
+1964,DarkSeaGreen,S,636.14,fancy,Brown-Zamora,than,9.16,83,4.6,6 months
+1965,LightSeaGreen,L,928.05,other,Hudson-Fitzgerald,air,9.62,7,3.3,1 year
+1966,PaleGoldenRod,M,51.27,footware,Moore-Thomas,agreement,6.88,48,1.7,6 months
+1967,LightCoral,S,33.41,kitchen,Walker-Singleton,group,3.87,21,4.4,2 years
+1968,SeaGreen,L,274.63,kitchen,Stafford LLC,fall,5.52,30,3.3,3 years
+1969,GhostWhite,S,35.47,kitchen,Jordan LLC,minute,1.49,21,1.6,6 months
+1970,ForestGreen,M,745.44,other,"Mcintosh, Brady and Boyd",article,6.78,68,3.2,1 year
+1971,Gray,L,860.79,fancy,Carter-Bernard,anything,5.7,95,1.1,3 years
+1972,Navy,XL,93.82,sport,"Malone, Thomas and Sanders",left,9.37,7,4.2,2 years
+1973,ForestGreen,L,391.15,footware,"Norris, Villanueva and Flores",look,3.74,44,2.1,3 years
+1974,LightSlateGray,XL,506.38,other,Coleman-Curry,election,0.94,62,3.2,3 years
+1975,GoldenRod,XL,609.09,fancy,Hicks Group,thus,5.37,98,4.7,3 years
+1976,Pink,L,864.18,kitchen,Leonard and Sons,technology,4.57,26,3.1,6 months
+1977,LightGreen,M,536.67,kitchen,"Lawson, Pineda and Bowman",piece,5.18,22,1.8,2 years
+1978,SpringGreen,M,246.93,watches,Campbell Inc,rise,6.14,17,4.4,6 months
+1979,RosyBrown,M,322.95,footware,Hanna and Sons,close,5.83,32,3.7,1 year
+1980,MistyRose,L,783.41,fancy,Rose Inc,toward,7.96,75,4.4,2 years
+1981,DodgerBlue,XL,875.39,watches,Greene Group,along,7.81,65,1.7,1 year
+1982,DarkBlue,L,744.4,footware,"Smith, Wilson and Aguilar",tax,2.61,64,4.7,3 years
+1983,ForestGreen,M,833.19,sport,Heath-Johnston,strong,2.64,44,3.8,6 months
+1984,LightCyan,M,359.49,fancy,Duarte-Smith,scientist,4.15,82,3.0,1 year
+1985,Lime,M,447.75,fancy,Osborne-Casey,spend,2.55,32,3.2,2 years
+1986,LightCyan,M,943.6,kitchen,Williams-Ball,other,1.37,70,4.0,3 years
+1987,LavenderBlush,L,216.23,other,"Meyers, Ryan and Collins",eight,7.32,50,3.8,1 year
+1988,DodgerBlue,L,276.04,watches,Jones PLC,show,6.78,22,4.0,3 years
+1989,DimGray,XL,505.27,other,Dorsey Inc,speak,8.0,44,4.5,3 years
+1990,DarkGoldenRod,XL,172.72,classic,"Evans, Hubbard and Shelton",agency,8.85,9,5.0,3 years
+1991,Orchid,L,470.29,fancy,Terrell-Robinson,administration,4.65,30,4.0,1 year
+1992,DarkSeaGreen,M,506.12,classic,Hoffman-Mitchell,change,4.55,13,2.6,3 years
+1993,WhiteSmoke,L,927.21,fancy,Garrett-Miller,watch,7.52,42,2.6,2 years
+1994,MidnightBlue,L,299.91,other,Estes-Greer,pass,9.26,20,4.6,1 year
+1995,MediumBlue,M,806.17,other,Frazier Inc,show,3.2,84,1.7,6 months
+1996,Khaki,XL,393.45,sport,"Holder, Sanchez and Jackson",single,4.54,85,3.8,2 years
+1997,LightCyan,S,441.48,sport,Johnson Group,image,9.21,99,1.8,6 months
+1998,Navy,M,583.54,classic,Gillespie-Edwards,another,6.14,21,2.1,1 year
+1999,DeepPink,M,856.98,classic,Fleming-Tucker,instead,1.61,7,3.4,1 year
